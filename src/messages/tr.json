@@ -1,0 +1,352 @@
+{
+  "meta": {
+    "title": "Cape Cavo Greco – Famagusta, Cyprus",
+    "description": "Cape Cavo Greco完整旅游指南。了解这个自然保护区，包括位置、景观、交通和游览信息。"
+  },
+  "header": {
+    "home": "Ana Sayfa",
+    "gallery": "Galeri",
+    "reviews": "Yorumlar",
+    "map": "Harita",
+    "backToHome": "Ana Sayfaya Dön"
+  },
+  "hero": {
+    "title": "Cape Cavo Greco",
+    "subtitle": "Doğa Rezervi · Famagusta, Kıbrıs",
+    "rating": "4.8",
+    "reviewCount": "6,281 yorum",
+    "type": "Doğa Rezervi",
+    "openMaps": "Google Maps'te Görüntüle",
+    "mapsLink": "https://maps.app.goo.gl/FigeLZdG7kd1iPYcA"
+  },
+  "intro": {
+    "title": "Cape Cavo Greco'yu Keşfedin",
+    "description": "Cape Cavo Greco (Yunanca: Ακρωτήριο Κάβο Γκρέκο), Kıbrıs'ın güneydoğusunda yer alan muhteşem bir doğa rezervidir. Bu alan, çarpıcı deniz mağaraları, berrak sular ve dik kayalıklar ile ünlüdür. Doğa yürüyüşü, yüzme ve dalış için popüler bir destinasyondur.",
+    "visitGuide": {
+      "title": "Ziyaret İpuçları",
+      "items": [
+        "En iyi ziyaret zamanı ilkbahar ve sonbahardır.",
+        "Kayalık alanlarda yürüyüş için uygun ayakkabı giyin.",
+        "Yüzmek için berrak koyları ziyaret edin.",
+        "Gün batımı manzarası için yanınızda kamera bulundurun."
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Öne Çıkanlar",
+      "items": [
+        "Çarpıcı deniz mağaraları",
+        "Berrak yüzme alanları",
+        "Doğa yürüyüşü parkurları",
+        "Muhteşem gün batımı manzaraları"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "Cape Cavo Greco Hakkında",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Tarih & Coğrafya",
+        "content": "Cape Cavo Greco, Kıbrıs'ın en önemli doğal ve ekolojik alanlarından biridir. Avrupa'nın Natura 2000 ağı tarafından korunan bu alan, zengin biyolojik çeşitliliğe sahiptir. Bölge, eşsiz jeolojik oluşumları ve Akdeniz'e özgü bitki örtüsü ile bilinir."
+      },
+      {
+        "id": "geography",
+        "title": "Coğrafya & Jeoloji",
+        "content": "Bu alan, dik kayalıklar, doğal mağaralar ve berrak suları ile karakterizedir. Deniz mağaraları, binlerce yıllık dalga aşındırması sonucu oluşmuştur. Bölge aynı zamanda Kıbrıs'ın en iyi korunan doğal alanlarından biridir."
+      },
+      {
+        "id": "architecture",
+        "title": "Doğal Yapılar & Tesisler",
+        "content": "Bölgede herhangi bir büyük yapı bulunmamaktadır. Ancak ziyaretçiler için yürüyüş yolları, manzara seyir noktaları ve piknik alanları düzenlenmiştir. Ayrıca bölgede küçük bir şapel (Agioi Anargyroi) bulunmaktadır."
+      },
+      {
+        "id": "protection",
+        "title": "Koruma & Koruma Alanı",
+        "content": "Cape Cavo Greco, Kıbrıs Orman Dairesi tarafından yönetilmekte ve korunmaktadır. Natura 2000 ağı tarafından korunan bu alan, Avrupa Birliği'nin koruma altındaki en önemli ekolojik alanlarından biridir."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Sıkça Sorulan Sorular",
+    "items": [
+      {
+        "question": "Cape Cavo Greco'yu ziyaret etmek ücretli mi?",
+        "answer": "Hayır, Cape Cavo Greco halka açık ücretsiz bir doğa rezervidir ve yılın her günü ziyarete açıktır."
+      },
+      {
+        "question": "Yüzmek için en iyi yerler nerelerdir?",
+        "answer": "Bölgede yüzmek için birkaç doğal koy bulunmaktadır. Ancak kayalıklar kaygan olabilir, dikkatli olunmalıdır. Ayakkabı giyilmesi önerilir."
+      },
+      {
+        "question": "Bölgede tuvalet veya yiyecek içecek yeri var mı?",
+        "answer": "Bölgede ticari tesis veya umumi tuvalet bulunmamaktadır. Yiyecek ve içecek ihtiyacınızı önceden karşılamanız önerilir."
+      },
+      {
+        "question": "Yürüyüş zor mudur? Yaşlılar veya çocuklar için uygun mu?",
+        "answer": "Yürüyüş yolları genellikle kolaydır, ancak bazı kayalık bölgeler zordur. Yaşlı ziyaretçilerin ve çocukların dikkatli olması gerekir."
+      }
+    ]
+  },
+  "nearby": {
+    "title": "Yakındaki Turistik Yerler",
+    "items": [
+      {
+        "name": "Ayia Napa",
+        "distance": "Yaklaşık 5 dakika sürüş",
+        "description": "Canlı gece hayatı, güzel plajlar ve tarihi manastırı ile ünlü popüler bir turistik kasabadır."
+      },
+      {
+        "name": "Protaras",
+        "distance": "Yaklaşık 10 dakika sürüş",
+        "description": "Aile dostu plajları, berrak suları ve rahat atmosferi ile bilinen bir tatil beldesidir."
+      },
+      {
+        "name": "Fig Tree Bay",
+        "distance": "Yaklaşık 15 dakika sürüş",
+        "description": "Kıbrıs'ın en güzel plajlarından biri olarak kabul edilen, altın kumlu ve berrak suyu olan plajdır."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Temel Bilgiler",
+    "officialName": "Resmi Adı",
+    "officialNameValue": "Cape Cavo Greco (Ακρωτήριο Κάβο Γκρέκο)",
+    "type": "Cazibe Türü",
+    "typeValue": "Doğa Rezervi / Koruma Alanı",
+    "country": "Ülke",
+    "countryValue": "Kıbrıs",
+    "city": "Şehir",
+    "cityValue": "Famagusta",
+    "googleRating": "Google Değerlendirmesi",
+    "googleRatingValue": "4.8 (6,281)",
+    "address": "Adres",
+    "addressValue": "X36M+8CV, Ayia Napa 5330, Kıbrıs",
+    "plusCode": "Plus Code",
+    "plusCodeValue": "X36M+8CV, Ayia Napa, Kıbrıs"
+  },
+  "hours": {
+    "title": "Ziyaret Saatleri",
+    "park": "Erişim",
+    "parkTime": "24 saat açık, yılın her günü",
+    "bestTime": "En İyi Ziyaret Zamanı",
+    "bestTimeSpring": "İlkbahar: İdela hava, çiçek açımı",
+    "bestTimeSummer": "Yaz: Sabah veya akşamüstü tercih edin, öğle sıcağından kaçının",
+    "bestTimeAutumn": "Sonbahar: Ilıman hava, yürüyüş için ideal",
+    "bestTimeWinter": "Kış: Daha az turist, açık manzaralar",
+    "tip": "Ücretsiz giriş. Gün batımında ziyaret önerilir."
+  },
+  "tickets": {
+    "title": "Giriş Bilgileri",
+    "park": "Bölge Ziyareti",
+    "parkPrice": "Halka ücretsiz",
+    "parking": "Otopark",
+    "parkingPrice": "Yakınlarda ücretsiz otopark mevcut",
+    "guided": "Rehberli Turlar",
+    "guidedPrice": "Yerel tur operatörleri aracılığıyla mevcut"
+  },
+  "transport": {
+    "title": "Nasıl Gidilir",
+    "fromCenter": "Merkezden (Ayia Napa)",
+    "fromCenterDesc": "Ayia Napa'dan yaklaşık 5 km. Araç veya toplu taşıma ile gidilebilir.",
+    "fromStation": "Otobüs Durağından",
+    "fromStationDesc": "Ayia Napa otobüs durağından bölgeye otobüsler mevcuttur.",
+    "fromAirport": "Havalimanından",
+    "fromAirportDesc": "Larnaka Havalimanı'dan yaklaşık 50 km. Araç kiralama veya taksi ile gidilebilir.",
+    "publicTransport": "Toplu Taşıma",
+    "publicTransportDesc": "Otobüs: Ayia Napa'dan bölgeye düzenli seferler.",
+    "walking": "Yürüyüş",
+    "walkingDesc": "Ayia Napa'dan yaklaşık 1-1.5 saat yürüyüş mesafesi.",
+    "driving": "Araçla",
+    "drivingDesc": "Ayia Napa'dan bölgeye arabayla kolayca ulaşılabilir."
+  },
+  "route": {
+    "title": "Önerilen Rota",
+    "overview": "Doğa yürüyüşü yapın ve manzarın keyfini çıkarın.",
+    "steps": [
+      "Ayia Napa'dan yürüyüşe başlayın",
+      "Cape Cavo Greco'ya doğru yürüyün",
+      "Deniz mağaralarını ziyaret edin",
+      "Manzara seyir noktalarında mola verin",
+      "Gün batımında bu eşsiz manzaranın keyfini çıkarın"
+    ]
+  },
+  "photoSpots": {
+    "title": "En İyi Fotoğraf Noktaları",
+    "spots": [
+      {
+        "title": "Deniz Mağaraları",
+        "description": "Çarpıcı deniz mağaralarının fotoğraflarını çekebileceğiniz yer.",
+        "location": "Kıyı",
+        "image": "/gallery/cape-cavo-greco (1).jpg"
+      },
+      {
+        "title": "Gün Batımı Noktası",
+        "description": "Gün batımı fotoğrafları için ideal konum.",
+        "location": "Kayalık",
+        "image": "/gallery/cape-cavo-greco (2).jpg"
+      },
+      {
+        "title": "Yürüyüş Yolu",
+        "description": "Doğa yürüyüşü yolları ve manzarası.",
+        "location": "Giriş",
+        "image": "/gallery/cape-cavo-greco (3).jpg"
+      },
+      {
+        "title": "Panoramik Manzara",
+        "description": "Akdeniz'in ve kayalıkların manzarası.",
+        "location": "Seyir Noktası",
+        "image": "/gallery/cape-cavo-greco (4).jpg"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Fotoğraf Galerisi",
+    "subtitle": "Cape Cavo Greco'nun En Güzel Manzaraları",
+    "captions": [
+      "Deniz mağaraları manzarası",
+      "Uzaktan görünüm",
+      "Yürüyüş yolları",
+      "Kayalık oluşumlar",
+      "Berrak deniz suyu",
+      "Gün batımı",
+      "Doğal oluşumlar",
+      "Kıyı şeridi",
+      "Panoramik deniz manzarası",
+      "Doğa yürüyüşü alanı",
+      "360° panoramik görünüm",
+      "İlkbahar manzarası",
+      "Doğal koy",
+      "Akdeniz bitki örtüsü",
+      "Gün batımı manzarası",
+      "Doğal parkurlar",
+      "Deniz ve gökyüzü"
+    ],
+    "viewAll": "Google Maps'te Görüntüle",
+    "showAll": "Tüm Fotoğrafları Görüntüle",
+    "showLess": "Daha Az Fotoğraf"
+  },
+  "reviews": {
+    "title": "Ziyaretçi Yorumları",
+    "declaration": "Yorumlar Google Maps üzerinden görüntülenebilir.",
+    "moreReviews": "Google Maps'te daha fazla yorum görüntüle",
+    "items": [
+      {
+        "name": "Ahmet Y.",
+        "rating": 5,
+        "date": "2026-03-15",
+        "text": "Harika bir yer! Doğa yürüyüşü için mükemmel. Deniz mağaralarını mutlaka görün."
+      },
+      {
+        "name": "Mehmet D.",
+        "rating": 5,
+        "date": "2026-02-20",
+        "text": "Ailemle gittim ve harika geçti. Sakin ve huzurlu bir yer, aile ziyareti için mükemmel."
+      },
+      {
+        "name": "Ayşe K.",
+        "rating": 5,
+        "date": "2026-04-05",
+        "text": "Yürüyüş için çok güzel bir yer. Manzara muhteşem. Fotoğrafçılık için ideal."
+      },
+      {
+        "name": "Fatma S.",
+        "rating": 5,
+        "date": "2026-01-10",
+        "text": "Kıbrıs'ta ziyaret etmeniz gereken en iyi doğal alanlardan biri. Gün batımında çok romantik."
+      },
+      {
+        "name": "Mustafa A.",
+        "rating": 5,
+        "date": "2025-12-18",
+        "text": "Doğa enerjisi harika bir yer. Ücretsiz giriş ve muhteşem manzaralar."
+      },
+      {
+        "name": "Zeynep B.",
+        "rating": 5,
+        "date": "2025-11-22",
+        "text": "Dinlenme ve fotoğrafçılık için mükemmel bir yer. Kıbrıs'taysanız kaçırmayın."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Harita Konumu",
+    "subtitle": "X36M+8CV, Ayia Napa 5330, Kıbrıs",
+    "openMaps": "Google Maps'te Görüntüle"
+  },
+  "footer": {
+    "brandName": "Cape Cavo Greco",
+    "brandSubtitle": "Doğa Rezervi · Famagusta, Kıbrıs",
+    "rights": "© 2026 Bağımsız Turizm Araştırma Projesi · Tüm Hakları Saklıdır.",
+    "privacy": "Gizlilik Politikası",
+    "terms": "Kullanım Şartları",
+    "cookies": "Çerez Ayarları",
+    "officialResourcesTitle": "Resmi Kaynaklar ve Bilgiler",
+    "officialLinks": {
+      "moa": "Kıbrıs Tarım, Kırsal Kalkınma ve Çevre Bakanlığı - Orman Dairesi",
+      "visitcyprus": "Kıbrıs Ulusal Turizm Alt Bakanlığı",
+      "visitfamagusta": "Famagusta Bölgesi Resmi Turizm Ofisi",
+      "agianapa": "Ayia Napa Belediyesi",
+      "natura2000": "Natura 2000 Veritabanı"
+    },
+    "disclaimer": "Bu web sitesi bağımsız bir üçüncü taraf turizm bilgi projesidir. Yerel yönetim veya diğer resmi kurumlarla ilişkili değiliz."
+  },
+  "officialManagement": {
+    "title": "Cape Cavo Greco Hakkında",
+    "text": "Cape Cavo Greco, Kıbrıs Orman Dairesi tarafından yönetilmekte ve korunmaktadır. Alan, Kıbrıs çevre mevzuatı tarafından korunmaktadır."
+  },
+  "privacy": {
+    "title": "Gizlilik Politikası",
+    "lastUpdated": "Son güncelleme: Mayıs 2026",
+    "sections": [
+      {
+        "heading": "Bilgi Toplama",
+        "content": "Web sitemizi ziyaret ettiğinizde, daha iyi bir kullanıcı deneyimi sağlamak için cihazınız, tarayıcınız ve tarama davranışınız hakkında temel bilgileri otomatik olarak toplayabiliriz. Bu bilgiler kişisel kimliğinizi içermez."
+      },
+      {
+        "heading": "Çerezlerin Kullanımı",
+        "content": "Web sitesi trafiğini analiz etmek ve sayfa içeriğini optimize etmek için çerezleri kullanırız. Tercihlerinizi sitemizin alt kısmındaki Çerez Ayarları seçeneğinden istediğiniz zaman yönetebilirsiniz."
+      },
+      {
+        "heading": "Veri Güvenliği ve Koruma",
+        "content": "Gizlilik verilerinizin güvenliğini korumayı taahhüt ediyoruz ve tarama verilerinizi üçüncü taraf ticari kuruluşlara satmayız, kiralamaz veya takas edemeyiz."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Kullanım Şartları",
+    "lastUpdated": "Son güncelleme: Mayıs 2026",
+    "sections": [
+      {
+        "heading": "Web Sitesi İçeriği ve Kullanımı",
+        "content": "Bu web sitesi Cape Cavo Greco hakkında seyahat, ulaşım ve tarih bilgileri sağlar. Tüm içerik yalnızca referans içindir. Gerçek açılış saatleri ve cazibe bilgileri herhangi bir zamanda değişebilir; lütfen resmi duyurulara bakın."
+      },
+      {
+        "heading": "Fikri Mülkiyet",
+        "content": "Bu web sitesindeki metinler, görseller ve tasarımlar telif hakkı ile korunmaktadır. Açık yazılı izin olmadan, web sitesi içeriği ticari amaçlar için kullanılamaz."
+      },
+      {
+        "heading": "Sorumluluk Reddi",
+        "content": "Bilgilerin doğruluğunu ve güncelliğini sağlamak için çaba sarf ediyoruz, ancak bu web sitesinde sağlanan bilgilerin kullanımı nedeniyle doğrudan veya dolaylı olarak oluşan seyahat gecikmeleri veya kayıplardan yasal sorumluluk kabul etmiyoruz."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Çerez Ayarları",
+    "description": "Çerez tercihlerinizi yönetin.",
+    "essential": {
+      "title": "Gerekli Çerezler",
+      "description": "Temel web sitesi işlevselliği için gereklidir ve devre dışı bırakılamaz.",
+      "badge": "Her Zaman Aktif"
+    },
+    "analytics": {
+      "title": "Analitik",
+      "description": "Ziyaretçi davranışını anlamamıza ve web sitesini iyileştirmemize yardımcı olur."
+    },
+    "marketing": {
+      "title": "Pazarlama",
+      "description": "Siteler arası takip ve kişiselleştirilmiş reklamlar için kullanılır."
+    },
+    "save": "Tercihleri Kaydet",
+    "saved": "Tercihler Kaydedildi!"
+  }
+}

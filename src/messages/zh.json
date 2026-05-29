@@ -1,0 +1,352 @@
+{
+  "meta": {
+    "title": "卡沃格雷科角 (Cape Cavo Greco) – 法马古斯塔, 塞浦路斯",
+    "description": "卡沃格雷科角完整旅游指南。了解这个自然森林公园，包括位置、海洞、交通和游览信息。"
+  },
+  "header": {
+    "home": "首页",
+    "gallery": "图库",
+    "reviews": "评价",
+    "map": "地图",
+    "backToHome": "返回首页"
+  },
+  "hero": {
+    "title": "卡沃格雷科角",
+    "subtitle": "自然森林公园 · 法马古斯塔, 塞浦路斯",
+    "rating": "4.8",
+    "reviewCount": "6,281 条评价",
+    "type": "自然森林公园",
+    "openMaps": "在Google地图上查看位置",
+    "mapsLink": "https://maps.app.goo.gl/FigeLZdG7kd1iPYcA"
+  },
+  "intro": {
+    "title": "探索卡沃格雷科角",
+    "description": "卡沃格雷科角（希腊语：Ακρωτήριο Κάβο Γκρέκο）是塞浦路斯最令人惊叹的自然保护区之一，位于该岛的东南端。以壮观的海蚀洞、水晶般清澈的海水和崎岖的悬崖而闻名，这里是自然漫步、游泳和潜水的天堂。",
+    "visitGuide": {
+      "title": "游览建议",
+      "items": [
+        "最佳游览时间是春季和秋季。",
+        "在岩石区域行走时穿舒适的鞋子。",
+        "夏季时携带水和防晒用品。",
+        "不要错过悬崖边的日落景色。"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "亮点",
+      "items": [
+        "壮观的海蚀洞",
+        "清澈的游泳地点",
+        "自然步道",
+        "令人惊叹的日落景观"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "关于卡沃格雷科角",
+    "sections": [
+      {
+        "id": "history",
+        "title": "历史与地理",
+        "content": "卡沃格雷科角是塞浦路斯最重要的自然和生态区域之一。作为欧洲Natura 2000网络的一部分受到保护，该区域拥有丰富的生物多样性。该地区以独特的地质构造和地中海植被而闻名。"
+      },
+      {
+        "id": "geography",
+        "title": "地理与地质",
+        "content": "该区域以戏剧性的悬崖、自然洞穴和水晶般清澈的海水为特征。海蚀洞是经过数千年波浪侵蚀形成的。该地区也是塞浦路斯保护最完好的自然区域之一。"
+      },
+      {
+        "id": "architecture",
+        "title": "自然结构与设施",
+        "content": "该地区没有大型建筑。然而，为游客组织了步行道、观景点和野餐区。该地区还有一座小教堂（Agioi Anargyroi）。"
+      },
+      {
+        "id": "protection",
+        "title": "保护与保育",
+        "content": "卡沃格雷科角由塞浦路斯森林部管理和保护。作为Natura 2000网络的一部分，它是欧盟保护的最重要生态区域之一。"
+      }
+    ]
+  },
+  "faq": {
+    "title": "常见问题解答",
+    "items": [
+      {
+        "question": "游览卡沃格雷科角需要门票吗？",
+        "answer": "不需要。卡沃格雷科角是一个完全免费的公共自然保护区，全年对外开放。"
+      },
+      {
+        "question": "最好的游泳地点在哪里？",
+        "answer": "该地区有几个天然小海湾适合游泳。但是岩石可能会很滑，需要小心。建议穿水鞋。"
+      },
+      {
+        "question": "该地区有洗手间或餐饮场所吗？",
+        "answer": "该地区没有任何商业设施或公共洗手间。建议提前准备 supplies 或在附近的阿依纳帕（Ayia Napa）使用设施。"
+      },
+      {
+        "question": "徒步困难吗？适合老年人或儿童吗？",
+        "answer": "步道通常较为容易，但一些岩石区域可能具有挑战性。老年游客和儿童应特别小心，尤其是在悬崖边缘。"
+      }
+    ]
+  },
+  "nearby": {
+    "title": "周边景点推荐",
+    "items": [
+      {
+        "name": "阿依纳帕 (Ayia Napa)",
+        "distance": "约5分钟车程",
+        "description": "以充满活力的夜生活、美丽的海滩和历史修道院而闻名的热门旅游小镇。"
+      },
+      {
+        "name": "普罗塔拉斯 (Protaras)",
+        "distance": "约10分钟车程",
+        "description": "以沙滩、清澈海水和轻松氛围而闻名的家庭友好型度假胜地。"
+      },
+      {
+        "name": "无花果树湾 (Fig Tree Bay)",
+        "distance": "约15分钟车程",
+        "description": "被认为是塞浦路斯最美丽的海滩之一，拥有金色沙滩和水晶般清澈的海水。"
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "基础信息",
+    "officialName": "正式名称",
+    "officialNameValue": "卡沃格雷科角 (Cape Cavo Greco / Ακρωτήριο Κάβο Γκρέκο)",
+    "type": "景点类型",
+    "typeValue": "自然森林公园 / 自然保护区",
+    "country": "国家",
+    "countryValue": "塞浦路斯 (Cyprus)",
+    "city": "城市",
+    "cityValue": "法马古斯塔 (Famagusta)",
+    "googleRating": "谷歌评分",
+    "googleRatingValue": "4.8 (6,281)",
+    "address": "地址",
+    "addressValue": "X36M+8CV, Ayia Napa 5330, 塞浦路斯",
+    "plusCode": "Plus Code",
+    "plusCodeValue": "X36M+8CV, Ayia Napa, 塞浦路斯"
+  },
+  "hours": {
+    "title": "开放时间",
+    "park": "进入",
+    "parkTime": "24小时开放，全年无休",
+    "bestTime": "最佳游览时间",
+    "bestTimeSpring": "春季：气候宜人，野花盛开",
+    "bestTimeSummer": "夏季：建议早晨或傍晚，避开正午高温",
+    "bestTimeAutumn": "秋季：天气温和，适合散步",
+    "bestTimeWinter": "冬季：游客较少，视野清晰",
+    "tip": "无需门票。建议在日落时前往，欣赏最佳景色。"
+  },
+  "tickets": {
+    "title": "门票信息",
+    "park": "景区参观",
+    "parkPrice": "对公众免费开放",
+    "parking": "停车",
+    "parkingPrice": "附近有免费公共停车场",
+    "guided": "导游服务",
+    "guidedPrice": "可通过当地旅游运营商安排"
+  },
+  "transport": {
+    "title": "交通指南",
+    "fromCenter": "从市中心（阿依纳帕）",
+    "fromCenterDesc": "距离阿依纳帕约5公里。可以驾车或乘坐公共交通。",
+    "fromStation": "从巴士站",
+    "fromStationDesc": "从阿依纳帕巴士站有前往该地区的巴士。",
+    "fromAirport": "从机场",
+    "fromAirportDesc": "距离拉纳卡机场约50公里。建议租车或乘坐出租车。",
+    "publicTransport": "公共交通",
+    "publicTransportDesc": "巴士：从阿依纳帕到该地区有定期服务。",
+    "walking": "步行",
+    "walkingDesc": "从阿依纳帕步行约1-1.5小时。",
+    "driving": "自驾",
+    "drivingDesc": "从阿依纳帕开车很容易到达该地区。"
+  },
+  "route": {
+    "title": "推荐游览路线",
+    "overview": "沿着自然步道漫步，享受自然景观。",
+    "steps": [
+      "从阿依纳帕出发前往卡沃格雷科角",
+      "沿着海岸小径行走",
+      "参观海蚀洞",
+      "在观景点停留拍照",
+      "在令人惊叹的日落景色中结束"
+    ]
+  },
+  "photoSpots": {
+    "title": "绝佳拍照点",
+    "spots": [
+      {
+        "title": "海蚀洞",
+        "description": "可以在这里拍摄最壮观的海蚀洞照片。",
+        "location": "海岸",
+        "image": "/gallery/cape-cavo-greco (1).jpg"
+      },
+      {
+        "title": "日落点",
+        "description": "日落摄影的理想位置。",
+        "location": "悬崖边",
+        "image": "/gallery/cape-cavo-greco (2).jpg"
+      },
+      {
+        "title": "步行道",
+        "description": "风景优美的自然步行道。",
+        "location": "入口",
+        "image": "/gallery/cape-cavo-greco (3).jpg"
+      },
+      {
+        "title": "全景视野",
+        "description": "地中海和岩石海岸线的景色。",
+        "location": "观景点",
+        "image": "/gallery/cape-cavo-greco (4).jpg"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "照片画廊",
+    "subtitle": "卡沃格雷科角的最佳景观",
+    "captions": [
+      "海蚀洞景观",
+      "远眺海角",
+      "步行小径",
+      "岩石构造",
+      "清澈海水",
+      "日落景观",
+      "自然构造",
+      "海岸线",
+      "全景海景",
+      "自然步行区",
+      "360°全景",
+      "春季景色",
+      "天然小海湾",
+      "地中海植被",
+      "日落全景",
+      "自然步道",
+      "海天一色"
+    ],
+    "viewAll": "在Google地图上查看位置",
+    "showAll": "显示完整照片",
+    "showLess": "收起照片"
+  },
+  "reviews": {
+    "title": "游客评价",
+    "declaration": "评价信息可通过Google地图查看。",
+    "moreReviews": "在Google地图上查看更多评价",
+    "items": [
+      {
+        "name": "张先生",
+        "rating": 5,
+        "date": "2026-03-15",
+        "text": "令人难以置信的地方！海蚀洞非常壮观。建议在日落时参观。"
+      },
+      {
+        "name": "玛丽 K.",
+        "rating": 5,
+        "date": "2026-02-20",
+        "text": "和家人一起来这里，体验非常棒。安静又放松，非常适合家庭出游。"
+      },
+      {
+        "name": "大卫 M.",
+        "rating": 5,
+        "date": "2026-04-05",
+        "text": "非常适合散步的美丽地方。景色超棒。是摄影的理想选择。"
+      },
+      {
+        "name": "海伦 R.",
+        "rating": 5,
+        "date": "2026-01-10",
+        "text": "游览塞浦路斯时，这是你不应该错过的顶级自然景点之一。日落时分非常浪漫。"
+      },
+      {
+        "name": "马克 T.",
+        "rating": 5,
+        "date": "2025-12-18",
+        "text": "具有不可思议能量的自然景点。免费入场，景色令人惊叹。"
+      },
+      {
+        "name": "克莱尔 W.",
+        "rating": 5,
+        "date": "2025-11-22",
+        "text": "放松和摄影的完美地点。如果你在塞浦路斯，不要错过它。"
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "地图位置",
+    "subtitle": "X36M+8CV, Ayia Napa 5330, 塞浦路斯",
+    "openMaps": "在Google地图上查看位置"
+  },
+  "footer": {
+    "brandName": "卡沃格雷科角",
+    "brandSubtitle": "自然森林公园 · 法马古斯塔, 塞浦路斯",
+    "rights": "© 2026 独立旅游研究项目 · 保留所有权利。",
+    "privacy": "隐私政策",
+    "terms": "服务条款",
+    "cookies": "Cookie 设置",
+    "officialResourcesTitle": "官方资源与资讯",
+    "officialLinks": {
+      "moa": "塞浦路斯农业、农村发展和环境部 - 森林局",
+      "visitcyprus": "塞浦路斯国家旅游副部",
+      "visitfamagusta": "法马古斯塔大区官方旅游局",
+      "agianapa": "阿依纳帕市政府",
+      "natura2000": "Natura 2000 数据库"
+    },
+    "disclaimer": "本网站是一个独立的第三方旅游资讯项目。我们与当地政府或其他官方机构没有任何关联。"
+  },
+  "officialManagement": {
+    "title": "关于卡沃格雷科角",
+    "text": "卡沃格雷科角由塞浦路斯森林部管理和保护。该遗址受塞浦路斯环境法保护。"
+  },
+  "privacy": {
+    "title": "隐私政策",
+    "lastUpdated": "最后更新：2026年5月",
+    "sections": [
+      {
+        "heading": "信息收集",
+        "content": "当您访问我们的网站时，我们可能会自动收集有关您的设备、浏览器和浏览行为的基本信息，以提供更好的用户体验。此信息不包含您的个人身份。"
+      },
+      {
+        "heading": "Cookie的使用",
+        "content": "我们使用cookie来分析网站流量并优化页面内容。您可以随时通过网站底部的\"Cookie设置\"选项管理您的偏好。"
+      },
+      {
+        "heading": "数据安全与保护",
+        "content": "我们致力于保护您的隐私数据安全，不会将您的浏览数据出售、出租或交易给第三方商业组织。"
+      }
+    ]
+  },
+  "terms": {
+    "title": "服务条款",
+    "lastUpdated": "最后更新：2026年5月",
+    "sections": [
+      {
+        "heading": "网站内容与使用",
+        "content": "本网站提供有关卡沃格雷科角的旅游、交通和历史信息。所有内容仅供参考。实际开放时间和景点信息可能随时更改；请参考官方公告。"
+      },
+      {
+        "heading": "知识产权",
+        "content": "本网站上的文本、图像和设计受版权保护。未经明确书面许可，任何人不得将网站内容用于商业目的。"
+      },
+      {
+        "heading": "免责声明",
+        "content": "我们努力确保信息的准确性和及时性，但对于因使用本网站提供的信息而直接或间接导致的旅行延误或损失，我们不承担法律责任。"
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie 设置",
+    "description": "管理您的 Cookie 偏好。",
+    "essential": {
+      "title": "必要的 Cookie",
+      "description": "基本网站功能所必需的，无法禁用。",
+      "badge": "始终开启"
+    },
+    "analytics": {
+      "title": "分析",
+      "description": "帮助我们了解访问者行为并改进网站。"
+    },
+    "marketing": {
+      "title": "营销",
+      "description": "用于跨站跟踪和提供个性化广告。"
+    },
+    "save": "保存偏好",
+    "saved": "偏好已保存！"
+  }
+}
