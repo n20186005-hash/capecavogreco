@@ -4,7 +4,7 @@ import { useMessages } from 'next-intl';
 export default function MapEmbed() {
   const t = useTranslations('mapSection');
   const messages = useMessages() as any;
-  const mapsLink = messages?.hero?.mapsLink || 'https://maps.app.goo.gl/Dupzqbpja8DxWKSH8';
+  const mapsLink = messages?.hero?.mapsLink || 'https://maps.app.goo.gl/FigeLZdG7kd1iPYcA';
 
   return (
     <section id="map" className="section-padding" style={{ background: 'var(--bg-secondary)' }}>
@@ -28,7 +28,7 @@ export default function MapEmbed() {
             This is for visual cleanliness only. Google's Terms of Service apply.
           */}
           <iframe
-            src="https://maps.google.com/maps?q=Areopagus+Hill+Athens&output=embed"
+            src="https://maps.google.com/maps?q=Cape+Cavo+Greco&output=embed"
             width="100%"
             height="450"
             style={{ border: 0 }}

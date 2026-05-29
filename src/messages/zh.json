@@ -12,10 +12,10 @@
   },
   "hero": {
     "title": "卡沃格雷科角",
-    "subtitle": "自然森林公园 · 法马古斯塔, 塞浦路斯",
+    "subtitle": "法马古斯塔, 塞浦路斯 · Cape Cavo Greco",
     "rating": "4.8",
     "reviewCount": "6,281 条评价",
-    "type": "自然森林公园",
+    "type": "自然保护区",
     "openMaps": "在Google地图上查看位置",
     "mapsLink": "https://maps.app.goo.gl/FigeLZdG7kd1iPYcA"
   },
@@ -110,9 +110,9 @@
   "basicInfo": {
     "title": "基础信息",
     "officialName": "正式名称",
-    "officialNameValue": "卡沃格雷科角 (Cape Cavo Greco / Ακρωτήριο Κάβο Γκρέκο)",
+    "officialNameValue": "Cape Cavo Greco / Ακρωτήριο Κάβο Γκρέκο",
     "type": "景点类型",
-    "typeValue": "自然森林公园 / 自然保护区",
+    "typeValue": "自然保护区",
     "country": "国家",
     "countryValue": "塞浦路斯 (Cyprus)",
     "city": "城市",

@@ -31,17 +31,7 @@ export default function LanguageToggle() {
   function switchLocale(next: Locale) {
     setOpen(false);
     if (next === locale) return;
-    
-    // Build the new path with proper locale prefix
-    let newPath;
-    if (pathname === '/' || pathname === `/${locale}`) {
-      newPath = `/${next}`;
-    } else {
-      // Remove current locale from pathname and add new one
-      const pathWithoutLocale = pathname.replace(/^\/[^\/]+/, '');
-      newPath = `/${next}${pathWithoutLocale || ''}`;
-    }
-    window.location.href = newPath;
+    router.replace(pathname, { locale: next });
   }
 
   return (

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Areopagus Hill – Athens, Greece",
-    "description": "Complete travel guide to Areopagus Hill in Athens. Learn about this historic landmark, including location, views, access, and visitor information."
+    "title": "Cape Cavo Greco – Famagusta, Cyprus",
+    "description": "Complete travel guide to Cape Cavo Greco. Learn about this nature reserve, including location, sea caves, access, and visitor information."
   },
   "header": {
     "home": "Home",
@@ -11,58 +11,58 @@
     "backToHome": "Back to Home"
   },
   "hero": {
-    "title": "Areopagus Hill",
-    "subtitle": "Historic Landmark · Athens",
+    "title": "Cape Cavo Greco",
+    "subtitle": "Famagusta, Cyprus · Cape Cavo Greco",
     "rating": "4.8",
-    "reviewCount": "5,200 reviews",
-    "type": "Ancient Landmark",
+    "reviewCount": "6,281 reviews",
+    "type": "Nature Reserve",
     "openMaps": "View on Google Maps",
-    "mapsLink": "https://maps.app.goo.gl/Dupzqbpja8DxWKSH8"
+    "mapsLink": "https://maps.app.goo.gl/FigeLZdG7kd1iPYcA"
   },
   "intro": {
-    "title": "Discover Areopagus Hill",
-    "description": "Areopagus Hill is one of the most historic sites in Athens, offering views of the Sacred Rock of the Acropolis. According to tradition, this is where Apostle Paul delivered his first speech to the Athenians. The hill offers panoramic views of the Acropolis and the city.",
+    "title": "Discover Cape Cavo Greco",
+    "description": "Cape Cavo Greco (Greek: Ακρωτήριο Κάβο Γκρέκο) is one of the most stunning nature reserves in Cyprus, located at the southeastern end of the island. Known for its spectacular sea caves, crystal clear waters, and rugged cliffs, it is a paradise for nature walks, swimming, and diving.",
     "visitGuide": {
       "title": "Visit Tips",
       "items": [
-        "The best time to visit is at sunset.",
-        "Wear comfortable shoes for the climb.",
-        "In summer, prefer morning or afternoon hours.",
-        "There are benches for resting at the top."
+        "The best time to visit is during spring and autumn.",
+        "Wear comfortable shoes for walking on rocky areas.",
+        "Bring water and sun protection during the summer.",
+        "Don't miss the sunset views from the cliff edges."
       ]
     },
     "alsoKnownAs": {
       "title": "Highlights",
       "items": [
-        "Panoramic view of the Acropolis",
-        "Historic site of Apostle Paul's speech",
-        "Large limestone rock",
-        "Ideal spot for photography"
+        "Spectacular sea caves",
+        "Crystal clear swimming spots",
+        "Nature trails",
+        "Breathtaking sunset views"
       ]
     }
   },
   "knowledge": {
-    "title": "About Areopagus Hill",
+    "title": "About Cape Cavo Greco",
     "sections": [
       {
         "id": "history",
-        "title": "History & Mythology",
-        "content": "The Areopagus (Mars Hill) was the seat of the aristocratic council and highest criminal court in ancient Athens. In mythology, Ares was tried here for the murder of Poseidon's son. In the 1st century AD (around 51 AD), Apostle Paul delivered his famous 'Unknown God' sermon here, a significant event in early Christianity."
+        "title": "History & Geography",
+        "content": "Cape Cavo Greco is one of the most important natural and ecological areas in Cyprus. Protected under the European Natura 2000 network, this area features rich biodiversity. The region is known for its unique geological formations and Mediterranean vegetation."
       },
       {
         "id": "geography",
         "title": "Geography & Geology",
-        "content": "The hill is located northwest of the Acropolis, near the Roman Agora, with an elevation of about 115 meters. Composed primarily of exposed marble and limestone, its surface has become extremely smooth over millennia of weathering and visitors' footsteps. Its location makes it one of the best spots to view the Acropolis and the city of Athens."
+        "content": "The area is characterized by dramatic cliffs, natural caves, and crystal clear waters. The sea caves were formed over thousands of years of wave erosion. The region is also one of the best-preserved natural areas in Cyprus."
       },
       {
         "id": "architecture",
-        "title": "Architecture & Ruins",
-        "content": "Unlike other ancient sites in Athens, the Areopagus features almost no monumental structures, consisting mainly of bare rock. At the base, you can find the ruins of the church dedicated to Saint Dionysius the Areopagite, the first bishop of Athens who converted after Paul's sermon. Access to the top is via modern metal stairs or ancient stone steps cut into the rock."
+        "title": "Natural Structures & Facilities",
+        "content": "There are no major structures in the area. However, walking trails, viewpoints, and picnic areas have been organized for visitors. There is also a small chapel (Agioi Anargyroi) in the area."
       },
       {
         "id": "protection",
-        "title": "Protection & Preservation",
-        "content": "As a site of immense historical and cultural value, Areopagus Hill is managed by the Athens Ephorate of Antiquities and protected by Greek heritage laws. To preserve the sacred rock and ensure safety, authorities have installed partial handrails on the steep sections while maintaining its natural appearance."
+        "title": "Protection & Conservation",
+        "content": "Cape Cavo Greco is managed and protected by the Cyprus Department of Forests. As part of the Natura 2000 network, it is one of the most important ecological areas protected by the European Union."
       }
     ]
   },
@@ -70,20 +70,20 @@
     "title": "Frequently Asked Questions",
     "items": [
       {
-        "question": "Do I need a ticket to visit Areopagus Hill?",
-        "answer": "No, Areopagus Hill is a completely free public site, open 24 hours a day, all year round."
+        "question": "Do I need a ticket to visit Cape Cavo Greco?",
+        "answer": "No, Cape Cavo Greco is a completely free public nature reserve, open all year round."
       },
       {
-        "question": "Is it safe to climb to the top at night?",
-        "answer": "There is some lighting at night, but the rocks are very slippery and there are no guardrails at the edges. We recommend bringing a flashlight, wearing non-slip shoes, and paying close attention to your footing. The night view of Athens is stunning, but safety comes first."
+        "question": "Where are the best swimming spots?",
+        "answer": "There are several natural coves in the area perfect for swimming. However, the rocks can be slippery, so be careful. Water shoes are recommended."
       },
       {
-        "question": "Are there restrooms or food vendors on the hill?",
-        "answer": "There are no commercial facilities or public restrooms on the hill itself. It is advisable to use the facilities and grab a bite in the nearby Plaka district or at cafes around the Acropolis beforehand."
+        "question": "Are there restrooms or food places in the area?",
+        "answer": "There are no commercial facilities or public restrooms in the area. It is recommended to bring your own supplies or use facilities in nearby Ayia Napa."
       },
       {
-        "question": "Is the climb difficult? Is it suitable for the elderly or children?",
-        "answer": "The climb is not very high, and there are metal and stone steps available, making it relatively easy for most fitness levels. However, due to the uneven and extremely slippery rocks, elderly visitors and children should be very careful and may need assistance."
+        "question": "Is the walking difficult? Suitable for elderly or children?",
+        "answer": "The walking trails are generally easy, but some rocky areas can be challenging. Elderly visitors and children should be particularly careful, especially near the cliff edges."
       }
     ]
   },
@@ -91,45 +91,45 @@
     "title": "Nearby Attractions",
     "items": [
       {
-        "name": "Acropolis of Athens",
-        "distance": "Approx. 3 mins walk",
-        "description": "Greece's most famous ancient citadel, containing the Parthenon, the Erechtheion, and other monumental masterpieces."
+        "name": "Ayia Napa",
+        "distance": "Approx. 5 mins drive",
+        "description": "A popular tourist town known for its vibrant nightlife, beautiful beaches, and historic monastery."
       },
       {
-        "name": "Roman Agora",
-        "distance": "Approx. 5 mins walk",
-        "description": "The commercial and administrative center of ancient Athens, featuring fascinating ruins like the Tower of the Winds."
+        "name": "Protaras",
+        "distance": "Approx. 10 mins drive",
+        "description": "A family-friendly resort known for its sandy beaches, crystal clear waters, and relaxed atmosphere."
       },
       {
-        "name": "Plaka District",
-        "distance": "Approx. 8 mins walk",
-        "description": "One of the oldest neighborhoods in Athens, famous for its maze-like narrow streets, neoclassical architecture, and numerous tavernas."
+        "name": "Fig Tree Bay",
+        "distance": "Approx. 15 mins drive",
+        "description": "Considered one of the most beautiful beaches in Cyprus, with golden sand and crystal clear waters."
       }
     ]
   },
   "basicInfo": {
     "title": "Basic Information",
     "officialName": "Official Name",
-    "officialNameValue": "Areopagus Hill (Λόφος Αρείου Πάγου)",
+    "officialNameValue": "Cape Cavo Greco / Ακρωτήριο Κάβο Γκρέκο",
     "type": "Attraction Type",
-    "typeValue": "Historic Landmark / Archaeological Site",
+    "typeValue": "Nature Reserve",
     "country": "Country",
-    "countryValue": "Greece",
+    "countryValue": "Cyprus",
     "city": "City",
-    "cityValue": "Athens (Attica)",
+    "cityValue": "Famagusta",
     "googleRating": "Google Rating",
-    "googleRatingValue": "4.8 (5,200)",
+    "googleRatingValue": "4.8 (6,281)",
     "address": "Address",
-    "addressValue": "Theorias 21, Athina 105 55, Greece",
+    "addressValue": "X36M+8CV, Ayia Napa 5330, Cyprus",
     "plusCode": "Plus Code",
-    "plusCodeValue": "XPCF+W7 Athens, Greece"
+    "plusCodeValue": "X36M+8CV, Ayia Napa, Cyprus"
   },
   "hours": {
     "title": "Visiting Hours",
     "park": "Access",
     "parkTime": "Open 24 hours, all year round",
     "bestTime": "Best Time to Visit",
-    "bestTimeSpring": "Spring: Pleasant climate, blooming flowers",
+    "bestTimeSpring": "Spring: Pleasant climate, blooming wild flowers",
     "bestTimeSummer": "Summer: Prefer morning or evening, avoid midday heat",
     "bestTimeAutumn": "Autumn: Mild weather, ideal for walking",
     "bestTimeWinter": "Winter: Fewer tourists, clear views",
@@ -142,84 +142,84 @@
     "parking": "Parking",
     "parkingPrice": "Free public parking available nearby",
     "guided": "Guided Tours",
-    "guidedPrice": "Available through local tourism operators"
+    "guidedPrice": "Available through local tour operators"
   },
   "transport": {
     "title": "How to Get Here",
-    "fromCenter": "From Center (Plaka/Monastiraki)",
-    "fromCenterDesc": "Distance about 1km from Plaka. You can walk or take the metro (Monastiraki/Thisseio stations).",
-    "fromStation": "From Metro Station",
-    "fromStationDesc": "Monastiraki or Thisseio stations (Lines 1 and 3).",
+    "fromCenter": "From Center (Ayia Napa)",
+    "fromCenterDesc": "Distance about 5km from Ayia Napa. You can drive or take public transport.",
+    "fromStation": "From Bus Station",
+    "fromStationDesc": "Buses from Ayia Napa bus station to the area are available.",
     "fromAirport": "From Airport",
-    "fromAirportDesc": "Distance about 40km. Take the metro from the airport to Monastiraki station.",
+    "fromAirportDesc": "Distance about 50km from Larnaca Airport. Car rental or taxi is recommended.",
     "publicTransport": "Public Transport",
-    "publicTransportDesc": "Metro: Monastiraki or Thisseio stations.",
+    "publicTransportDesc": "Bus: Regular service from Ayia Napa to the area.",
     "walking": "Walking",
-    "walkingDesc": "10-15 minutes walk from Plaka or Monastiraki.",
+    "walkingDesc": "About 1-1.5 hours walk from Ayia Napa.",
     "driving": "Driving",
-    "drivingDesc": "Limited parking in the area. Public transport is recommended."
+    "drivingDesc": "Easy access by car from Ayia Napa."
   },
   "route": {
     "title": "Recommended Route",
-    "overview": "Walk up the hill and enjoy the historic view.",
+    "overview": "Walk along the nature trails and enjoy the natural landscape.",
     "steps": [
-      "Start from Theorias Street near the Roman Agora",
-      "Climb the stairs to the top of the hill",
-      "Reach the point with the best view of the Acropolis",
-      "Visit the church of Saint Dionysius the Areopagite",
-      "Conclude with an unforgettable sunset"
+      "Start from Ayia Napa towards Cape Cavo Greco",
+      "Walk along the coastal trails",
+      "Visit the sea caves",
+      "Stop at viewpoints for photos",
+      "Conclude with an amazing sunset view"
     ]
   },
   "photoSpots": {
     "title": "Top Photo Spots",
     "spots": [
       {
-        "title": "Hill Top",
-        "description": "The place where you can take the most classic photos of the Acropolis.",
-        "location": "Top",
-        "image": "/gallery/areopagus-hill (1).jpg"
+        "title": "Sea Caves",
+        "description": "The place where you can take the most spectacular photos of the sea caves.",
+        "location": "Coast",
+        "image": "/gallery/cape-cavo-greco (1).jpg"
       },
       {
         "title": "Sunset Point",
-        "description": "Ideal location for photos with the Acropolis illuminated.",
-        "location": "Hill Side",
-        "image": "/gallery/areopagus-hill (2).jpg"
+        "description": "Ideal location for sunset photography.",
+        "location": "Cliff Edge",
+        "image": "/gallery/cape-cavo-greco (2).jpg"
       },
       {
-        "title": "Areopagus Stairs",
-        "description": "Historic stairs leading to the top.",
+        "title": "Walking Trail",
+        "description": "Scenic nature walking trails.",
         "location": "Entrance",
-        "image": "/gallery/areopagus-hill (3).jpg"
+        "image": "/gallery/cape-cavo-greco (3).jpg"
       },
       {
         "title": "Panoramic View",
-        "description": "View of Athens city and Lycabettus Hill.",
-        "location": "Top",
-        "image": "/gallery/areopagus-hill (4).jpg"
+        "description": "View of the Mediterranean and rocky coastline.",
+        "location": "Viewpoint",
+        "image": "/gallery/cape-cavo-greco (4).jpg"
       }
     ]
   },
   "gallery": {
     "title": "Photo Gallery",
-    "subtitle": "The Best View of Athens",
+    "subtitle": "The Best View of Cape Cavo Greco",
     "captions": [
-      "Panoramic view of the Acropolis",
-      "The hill from a distance",
-      "Stairs to the top",
-      "Statue on the hill",
-      "View of the city",
-      "The Acropolis at sunset",
-      "Historic ruins",
+      "Sea caves view",
+      "Distant view of the cape",
+      "Walking trails",
       "Rock formations",
-      "View towards Lycabettus",
-      "Ancient architecture",
+      "Crystal clear water",
+      "Sunset view",
+      "Natural formations",
+      "Coastline",
+      "Panoramic sea view",
+      "Nature area",
       "360° panoramic view",
-      "The hill in spring",
-      "Statue of Apostle Paul",
-      "View of the Roman Agora",
-      "The hill at sunset",
-      "Ancient monuments",
-      "View towards Thisseio"
+      "Spring landscape",
+      "Natural cove",
+      "Mediterranean vegetation",
+      "Sunset panorama",
+      "Nature trails",
+      "Sea and sky"
     ],
     "viewAll": "View on Google Maps",
     "showAll": "View All Photos",
@@ -231,69 +231,68 @@
     "moreReviews": "View more reviews on Google Maps",
     "items": [
       {
-        "name": "John C.",
+        "name": "John S.",
         "rating": 5,
         "date": "2026-03-15",
-        "text": "Incredible place! The best view of the Acropolis. Recommended to climb at sunset."
+        "text": "Incredible place! The sea caves are spectacular. Recommended to visit at sunset."
       },
       {
-        "name": "Mary G.",
+        "name": "Mary K.",
         "rating": 5,
         "date": "2026-02-20",
-        "text": "Went with my parents and it was excellent. Calm and relaxing place, perfect for family visit."
+        "text": "Went with my family and it was excellent. Calm and relaxing place, perfect for family visit."
       },
       {
-        "name": "David P.",
+        "name": "David M.",
         "rating": 5,
         "date": "2026-04-05",
         "text": "Very beautiful place for walking. The view is superb. Ideal for photography."
       },
       {
-        "name": "Helen S.",
+        "name": "Helen R.",
         "rating": 5,
         "date": "2026-01-10",
-        "text": "For a visit to Athens, this is one of the top historic attractions you shouldn't miss. Very romantic at sunset."
+        "text": "For a visit to Cyprus, this is one of the top natural attractions you shouldn't miss. Very romantic at sunset."
       },
       {
-        "name": "Mark A.",
+        "name": "Mark T.",
         "rating": 5,
         "date": "2025-12-18",
-        "text": "Historic site with incredible energy. Free admission and amazing views."
+        "text": "Natural site with incredible energy. Free admission and amazing views."
       },
       {
-        "name": "Claire B.",
+        "name": "Claire W.",
         "rating": 5,
         "date": "2025-11-22",
-        "text": "Perfect place for relaxation and photography. Don't miss it if you're in Athens."
+        "text": "Perfect place for relaxation and photography. Don't miss it if you're in Cyprus."
       }
     ]
   },
   "mapSection": {
     "title": "Map Location",
-    "subtitle": "Theorias 21, Athina 105 55, Greece",
+    "subtitle": "X36M+8CV, Ayia Napa 5330, Cyprus",
     "openMaps": "View on Google Maps"
   },
   "footer": {
-    "brandName": "Areopagus Hill",
-    "brandSubtitle": "Historic Landmark · Athens",
+    "brandName": "Cape Cavo Greco",
+    "brandSubtitle": "Nature Reserve · Famagusta, Cyprus",
     "rights": "© 2026 Independent Tourism Research Project · All Rights Reserved.",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
     "cookies": "Cookie Settings",
     "officialResourcesTitle": "Official Resources & Information",
     "officialLinks": {
-      "gnto": "Greek National Tourism Organization",
-      "atticaGov": "Attica Regional Government",
-      "athensAttica": "Attica Official Tourism",
-      "thisisathens": "Athens City & Official Tourism",
-      "efaath": "Athens Ephorate of Antiquities",
-      "archaeological": "National Archaeological Cadastre"
+      "moa": "Ministry of Agriculture, Rural Development and Environment - Department of Forests",
+      "visitcyprus": "Deputy Ministry of Tourism, Cyprus",
+      "visitfamagusta": "Famagusta Region Official Tourism",
+      "agianapa": "Ayia Napa Municipality",
+      "natura2000": "Natura 2000 Database"
     },
     "disclaimer": "This website is an independent third-party tourism information project. We are not affiliated with the local government or any other official agencies."
   },
   "officialManagement": {
-    "title": "About Areopagus Hill",
-    "text": "Areopagus Hill is managed and protected by the Athens Ephorate of Antiquities. The site is protected by Greek cultural heritage legislation."
+    "title": "About Cape Cavo Greco",
+    "text": "Cape Cavo Greco is managed and protected by the Cyprus Department of Forests. The site is protected by Cyprus environmental legislation."
   },
   "privacy": {
     "title": "Privacy Policy",
@@ -319,7 +318,7 @@
     "sections": [
       {
         "heading": "Website Content and Use",
-        "content": "This website provides travel, transport, and historical information about Areopagus Hill. All content is for reference only. Actual opening hours and attraction information may change at any time; please refer to official announcements."
+        "content": "This website provides travel, transport, and historical information about Cape Cavo Greco. All content is for reference only. Actual opening hours and attraction information may change at any time; please refer to official announcements."
       },
       {
         "heading": "Intellectual Property",

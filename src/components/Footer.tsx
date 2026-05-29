@@ -27,23 +27,20 @@ export default function Footer() {
               {t('officialResourcesTitle')}
             </h3>
             <div className="flex flex-col gap-2">
-              <a href="https://www.visitgreece.gr/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
-                {officialLinks.gnto || 'Greek National Tourism Organization'}
+              <a href="https://www.moa.gov.cy/moa/fd/fd.nsf/index_gr/index_gr?opendocument" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
+                {officialLinks.moa || 'Ministry of Agriculture, Rural Development and Environment - Department of Forests'}
               </a>
-              <a href="https://www.patt.gov.gr/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
-                {officialLinks.atticaGov || 'Attica Regional Government'}
+              <a href="https://www.visitcyprus.com/discover-cyprus/nature/excursions/cape-gkreko-national-forest-park/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
+                {officialLinks.visitcyprus || 'Deputy Ministry of Tourism, Cyprus'}
               </a>
-              <a href="https://athensattica.com/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
-                {officialLinks.athensAttica || 'Attica Official Tourism'}
+              <a href="https://visitfamagusta.com.cy/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
+                {officialLinks.visitfamagusta || 'Famagusta Region Official Tourism'}
               </a>
-              <a href="https://www.thisisathens.org/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
-                {officialLinks.thisisathens || 'Athens City & Official Tourism'}
+              <a href="https://www.agianapa.org.cy/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
+                {officialLinks.agianapa || 'Ayia Napa Municipality'}
               </a>
-              <a href="https://efaathculture.gr/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
-                {officialLinks.efaath || 'Athens Ephorate of Antiquities'}
-              </a>
-              <a href="https://www.arxaiologikoktimatologio.gov.gr/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
-                {officialLinks.archaeological || 'National Archaeological Cadastre'}
+              <a href="https://natura2000.eea.europa.eu/?views=Sites_View" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
+                {officialLinks.natura2000 || 'Natura 2000 Database'}
               </a>
             </div>
           </div>
