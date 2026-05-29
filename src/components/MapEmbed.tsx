@@ -35,7 +35,7 @@ export default function MapEmbed() {
             allowFullScreen
             loading="lazy"
             referrerPolicy="no-referrer-when-downgrade"
-            title="Google Maps - Areopagus Hill"
+            title="Google Maps - Cape Cavo Greco"
           />
         </div>
 

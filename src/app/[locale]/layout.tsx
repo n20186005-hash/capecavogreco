@@ -15,11 +15,12 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { locale } = await params;
   const messages = (await import(`@/messages/${locale}.json`)).default;
-  const baseUrl = 'https://areopagushillathens.com';
+  const baseUrl = 'https://capecavogreco.com';
 
   const zhUrl = `${baseUrl}/zh`;
   const enUrl = `${baseUrl}/en`;
   const elUrl = `${baseUrl}/el`;
+  const trUrl = `${baseUrl}/tr`;
   const selfUrl = `${baseUrl}/${locale}`;
 
   return {
@@ -32,6 +33,7 @@ export async function generateMetadata({
         'zh': zhUrl,
         'en': enUrl,
         'el': elUrl,
+        'tr': trUrl,
         'x-default': enUrl,
       },
     },
@@ -39,8 +41,8 @@ export async function generateMetadata({
       title: messages.meta.title,
       description: messages.meta.description,
       url: selfUrl,
-      siteName: "Areopagus Hill",
-      locale: locale === 'zh' ? 'zh_CN' : locale === 'en' ? 'en_US' : 'el_GR',
+      siteName: "Cape Cavo Greco",
+      locale: locale === 'zh' ? 'zh_CN' : locale === 'tr' ? 'tr_TR' : locale === 'en' ? 'en_US' : 'el_GR',
       type: 'website',
     },
   };
@@ -63,7 +65,7 @@ export default async function LocaleLayout({
   const messages = await getMessages();
 
   return (
-    <html lang={locale === 'zh' ? 'zh-CN' : locale === 'el' ? 'el-GR' : 'en'} suppressHydrationWarning>
+    <html lang={locale === 'zh' ? 'zh-CN' : locale === 'el' ? 'el-GR' : locale === 'tr' ? 'tr-TR' : 'en'} suppressHydrationWarning>
       <head>
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXX" crossOrigin="anonymous" />
         <meta name="google-adsense-account" content="ca-pub-XXXXXXXXXX" />
