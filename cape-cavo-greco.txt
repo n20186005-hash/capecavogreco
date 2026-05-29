@@ -1,0 +1,164 @@
+cape-cavo-greco
+
+
+
+我们网站是
+XXXXXXXXXX
+检查一遍看下是否有错误
+
+丰富下页面内容现在的内容还是太薄的了
+
+
+
+你正在用（Next.js开发）
+为一个新景点【 Cape Cavo Greco 】构建静态/Next.js 单页指南网站。
+页面只需要支持中文和英文双语言
+cape-cavo-greco
+塞浦路斯法马古斯塔	Cape Cavo Greco
+Cape Cavo Greco
+Ακρωτήριο Κάβο Γκρέκο
+4.8(6,281)
+自然保护区
+X36M+8CV, Ayia Napa 5330塞浦路斯
+https://maps.app.goo.gl/FigeLZdG7kd1iPYcA
+
+
+
+
+首屏背景图要引用以下
+C:\Users\Administrator\Downloads\塞浦路斯\cape-cavo-greco\public\gallery
+
+
+删除原先友情链接，新增以下友情链接
+
+塞浦路斯农业、农村发展和环境部 - 森林局
+https://www.moa.gov.cy/moa/fd/fd.nsf/index_gr/index_gr?opendocument
+
+塞浦路斯国家旅游副部
+https://www.visitcyprus.com/discover-cyprus/nature/excursions/cape-gkreko-national-forest-park/
+
+法马古斯塔大区官方旅游局
+https://visitfamagusta.com.cy/
+
+阿依纳帕市政府
+https://www.agianapa.org.cy/
+
+Natura 2000 数据库
+https://natura2000.eea.europa.eu/?views=Sites_View
+
+
+
+在Google地图上查看位置都跳转为 https://maps.app.goo.gl/FigeLZdG7kd1iPYcA
+页面一共四个链接每一个都需要修改
+
+
+照片画廊
+精彩照片 显示照片不全目前只显示8张，需要有显示完整照片显示功能
+检查照片名称是否正确并修正
+
+
+删除 探索更多 板块
+
+
+首屏谷歌地图位置跳转为 https://maps.app.goo.gl/FigeLZdG7kd1iPYcA
+
+照片画廊
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/FigeLZdG7kd1iPYcA
+
+游客评价
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/FigeLZdG7kd1iPYcA
+
+地图位置
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/FigeLZdG7kd1iPYcA
+
+首屏右侧切换中文的时候 网站没转为/zh
+
+新增
+希腊语（Greek）
+土耳其语（Turkish）
+
+生成一个文件忽略不需要上传的文件
+
+
+
+
+
+
+
+买域名推荐
+
+
+
+
+我们网站是
+检查下有没有错误
+
+
+
+给我五个国家级、大区级、市级到专业遗产数据库的完整链条
+
+严格限制为国家及地方政府官方、官方官方旅游局的网站友情链接，确保全部具备纯正的官方政府背景： 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+在构建涵盖数千个站点的跨国百科数据库时，遇到这种跨大区且跨越POI核心属性的情况，数据字段的映射逻辑需要进行彻底的切换。
+
+您提供的这五条链接，针对目前的**卡沃格雷科角（Cape Cavo Greco）**，**全部都需要进行重构调整**。
+
+原因在于两个根本性的变化：
+
+1. **行政区划跨越**：从西南部的利马索尔大区（Limassol），跨越到了东南部的法马古斯塔大区（Famagusta）。
+2. **遗产属性突变**：从“人文考古遗址（Archaeological Site）”变成了“自然保护区/国家森林公园（Nature Reserve / National Forest Park）”。
+
+为了确保您的词条严格遵循从国家级管辖单位向下穿透至地方行政和专业数据库的逻辑，以下是这五个层级需要调整的具体方向及对应的新官方来源：
+
+### 1. 国家级（行政最高管辖）
+
+* **原链接**：文化副部 - 古物局 (负责文物发掘与保护)
+* **调整原因**：卡沃格雷科角的核心定性是**国家森林公园（National Forest Park）**。
+* **新目标**：**塞浦路斯农业、农村发展和环境部 - 森林局（Department of Forests）**。这是全岛自然保护区、国家森林的最高级别物理管辖和生态维护机构。
+* **官方主域参考**：`[http://www.moa.gov.cy/forest]()`
+
+### 2. 国家级（官方旅游与国家名片展示）
+
+* **原链接**：国家旅游副部（指向了 Kourion 的子页面）
+* **调整原因**：主体域名正确，但 slug（URL后缀）指向错误。
+* **新目标**：**塞浦路斯国家旅游副部 (Visit Cyprus)** 针对 **Cape Greco** 的专属官方介绍页。
+* **官方主域参考**：需要将其更新为 `` 目录下关于自然与国家公园（Nature / National Forest Parks）分类中的 Cape Greco 专页。
+
+### 3. 大区级（区域资源统筹与行政协同）
+
+* **原链接**：利马索尔大区官方旅游局 (Limassol)
+* **调整原因**：地理位置不符，该保护区位于法马古斯塔大区辖内。
+* **新目标**：**法马古斯塔大区官方旅游局（Famagusta Tourism Board）**。在官方语境中，该机构常以其辖区内最著名的两个度假胜地“阿依纳帕-普罗塔拉斯（Ayia Napa - Protaras）”联合旅游局的形式对外展现。
+* **官方主域参考**：`[https://visitfamagusta.com.cy/](https://visitfamagusta.com.cy/)`
+
+### 4. 市/地方级（属地行政机构）
+
+* **原链接**：库里翁市政府 (Kourion Municipality)
+* **调整原因**：地理归属完全改变。
+* **新目标**：**阿依纳帕市政府（Ayia Napa Municipality / Δήμος Αγίας Νάπας）**。卡沃格雷科角在市政区划上直属于阿依纳帕市管辖，市政府负责该区域外围的市政交通规划及基础配套。
+* **官方主域参考**：`[https://www.ayianapa.org.cy/](https://www.ayianapa.org.cy/)`
+
+### 5. 专业遗产级（官方空间信息与生态数据库）
+
+* **原链接**：欧洲数字文化遗产平台 (Europeana / CADiP - 针对人类文明古物)
+* **调整原因**：由于其自然属性，它不在古物数字档案中，而是被纳入了欧盟级别的生态与生物多样性档案库。
+* **新目标**：**Natura 2000 数据库（欧洲环境署 EEA）**。卡沃格雷科角是欧盟 Natura 2000 生态网络的重要组成部分（作为特殊保护区 SPA 和特殊保育区 SAC），在这里可以查阅到关于该海岬地质、特有动植物种群分布的权威地理空间数据。
+* **官方主域参考**：`[https://natura2000.eea.europa.eu/](https://natura2000.eea.europa.eu/)`
+
+通过这样的调整，您的数据库节点就能完美匹配“自然遗产”的属性，并继续保持纯正的官方政府血统链条。
