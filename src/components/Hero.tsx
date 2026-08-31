@@ -1,9 +1,18 @@
-import { useTranslations } from 'next-intl';
+import { useTranslations, useLocale } from 'next-intl';
+
+const heroAltMap: Record<string, string> = {
+  el: 'Ακρωτήριο Κάβο Γκρέκο - Κύρια θέα στην Αγία Νάπα, Κύπρος',
+  en: 'Cape Cavo Greco - Main view in Ayia Napa, Cyprus',
+  zh: '卡沃格雷科角 - 塞浦路斯阿依纳帕主景观',
+  tr: 'Cape Cavo Greco - Ayia Napa, Kıbrıs ana görünüm',
+};
 
 export default function Hero() {
   const t = useTranslations('hero');
+  const locale = useLocale();
 
   const mapsLink = t('mapsLink') || 'https://maps.app.goo.gl/FigeLZdG7kd1iPYcA';
+  const imageAlt = heroAltMap[locale] || heroAltMap.en;
 
   return (
     <section className="relative min-h-screen flex items-end pb-16 sm:pb-24 overflow-hidden">
@@ -11,8 +20,10 @@ export default function Hero() {
       <div className="absolute inset-0">
         <img
           src="/gallery/cape-cavo-greco (1).jpg"
-          alt="Cape Cavo Greco"
+          alt={imageAlt}
           className="w-full h-full object-cover"
+          loading="eager"
+          fetchPriority="high"
         />
         <div className="absolute inset-0" style={{ background: 'var(--hero-overlay)' }} />
       </div>

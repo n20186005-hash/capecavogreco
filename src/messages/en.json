@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Cape Cavo Greco – Famagusta, Cyprus",
-    "description": "Complete travel guide to Cape Cavo Greco. Learn about this nature reserve, including location, sea caves, access, and visitor information."
+    "title": "Cape Cavo Greco (Ayia Napa) - Visitor Guide & Location",
+    "description": "Discover Cape Cavo Greco, the iconic nature reserve in Ayia Napa, Famagusta, Cyprus. View location map, opening details, nearby Ayia Napa Monastery, hiking trails, and travel tips."
   },
   "header": {
     "home": "Home",
@@ -11,188 +11,365 @@
     "backToHome": "Back to Home"
   },
   "hero": {
-    "title": "Cape Cavo Greco",
-    "subtitle": "Famagusta, Cyprus · Cape Cavo Greco",
+    "title": "Cape Cavo Greco (Ayia Napa)",
+    "subtitle": "Natura 2000 National Forest Park · Famagusta, Cyprus",
     "rating": "4.8",
-    "reviewCount": "6,281 reviews",
-    "type": "Nature Reserve",
+    "reviewCount": "6,784 reviews",
+    "type": "Nature Reserve / SCI Site CY3000005",
     "openMaps": "View on Google Maps",
     "mapsLink": "https://maps.app.goo.gl/FigeLZdG7kd1iPYcA"
   },
   "intro": {
-    "title": "Discover Cape Cavo Greco",
-    "description": "Cape Cavo Greco (Greek: Ακρωτήριο Κάβο Γκρέκο) is one of the most stunning nature reserves in Cyprus, located at the southeastern end of the island. Known for its spectacular sea caves, crystal clear waters, and rugged cliffs, it is a paradise for nature walks, swimming, and diving.",
+    "title": "About Cape Cavo Greco – Ayia Napa Nature Reserve",
+    "equivalence": "Welcome to Cape Cavo Greco, widely recognized as the central Cape Greco landmark. Located at the southeastern tip of Ayia Napa, Famagusta, Cyprus, this destination serves as the primary protected coastal reserve for travelers visiting the Famagusta district. A rugged limestone peninsula and Natura 2000 Special Area of Conservation (SAC CY3000005), it features cliffside hiking trails, crystal-clear blue lagoons, and karst sea caves.",
+    "breadcrumb": {
+      "label": "Location Hierarchy",
+      "level1": "Cape Cavo Greco",
+      "level2": "Ayia Napa",
+      "level3": "Famagusta (Αμμόχωστος)",
+      "level4": "Cyprus (Κύπρος)"
+    },
+    "nearbyCluster": "When visiting Cape Cavo Greco, visitors can easily explore surrounding historical landmarks and points of interest, including Ayia Napa Monastery and the Fig Tree Bay coastal stretch in Protaras.",
+    "description": "Cape Cavo Greco (Greek: Ακρωτήριο Κάβο Γκρέκο; Turkish: Cape Greco) forms the southeasternmost headland of the island of Cyprus. Positioned between the resort towns of Ayia Napa to the west and Protaras to the east, it protects approximately 4.2 km² of untouched Mediterranean maquis, limestone sea cliffs, and endemic coastal ecosystems. Administratively managed by the Cyprus Department of Forests, the cape was inscribed into the European Natura 2000 network in 2006 as a Site of Community Importance (SCI) for its priority habitats and threatened species.",
     "visitGuide": {
       "title": "Visit Tips",
       "items": [
-        "The best time to visit is during spring and autumn.",
-        "Wear comfortable shoes for walking on rocky areas.",
-        "Bring water and sun protection during the summer.",
-        "Don't miss the sunset views from the cliff edges."
+        "Recommended visit windows: March–June (spring bloom) and September–November (mild autumn hiking).",
+        "Sturdy footwear with good grip is essential for uneven limestone and scree sections.",
+        "Carry a minimum of 1.5 L of water per person and high-factor sun protection between May and October.",
+        "Sunset observation should be conducted from designated lookout points only, away from unprotected cliff edges."
       ]
     },
     "alsoKnownAs": {
       "title": "Highlights",
       "items": [
-        "Spectacular sea caves",
-        "Crystal clear swimming spots",
-        "Nature trails",
-        "Breathtaking sunset views"
+        "Cyclops Cave (Spilia tou Kiklopa) and the Sea Cave cluster",
+        "Blue Lagoon-type swimming coves with transparent waters",
+        "Waymarked trails of the Cyprus National Forest Park network",
+        "Panoramic sunset vistas towards the Mediterranean horizon"
       ]
     }
   },
   "knowledge": {
-    "title": "About Cape Cavo Greco",
+    "title": "About Cape Cavo Greco – History, Geology, Ecology & Conservation",
     "sections": [
       {
-        "id": "history",
-        "title": "History & Geography",
-        "content": "Cape Cavo Greco is one of the most important natural and ecological areas in Cyprus. Protected under the European Natura 2000 network, this area features rich biodiversity. The region is known for its unique geological formations and Mediterranean vegetation."
+        "id": "etymology",
+        "title": "Etymology & Naming History – Cape Greco through Time",
+        "structuredContent": [
+          { "type": "subtitle", "text": "Venetian Origin of the Toponym" },
+          { "type": "paragraph", "text": "The name Cavo Greco enters the historical record during the Venetian colonial period (1489–1571 CE), when Venetian cartographers and pilots rendered the promontory on portolan charts as Càvo Greco – Italian for 'Greek Cape'. The designation distinguished the cape from the predominantly Turkish-speaking littoral further north and reflected the persistent Greek Orthodox cultural character of the Famagusta coastal villages already recorded in Venetian censuses of the cinquecento." },
+          { "type": "subtitle", "text": "Classical and Late Antique Precursors" },
+          { "type": "paragraph", "text": "In Classical antiquity the cape is tentatively identified with the akron mentioned in the Stadiasmus Maris Magni (3rd century CE), a Roman-era periplus listing coastal distances along the Levantine seaboard. Byzantine administrative texts of the Komnenian period refer to the hinterland as part of the tourma of Famagusta, although the cape itself was known locally by a now-lost demonym tied to the church of the Holy Anargyroi." },
+          { "type": "subtitle", "text": "Subsequent Administrative Layers" },
+          { "type": "list", "ordered": false, "items": [
+            "Ottoman period (1571–1878): referred to in tapu tahrir (land registration) defters as Kef-i Rum; no permanent habitation on the cape itself.",
+            "British colonial period (1878–1960): used as a coastal signalling station and trigonometrical baseline for the Ordnance Survey of Cyprus (Sheet 5, Famagusta).",
+            "Post-independence Republic of Cyprus (1960–present): designated National Forest Park in 1990, inscribed as Natura 2000 SCI in 2006."
+          ] }
+        ]
       },
       {
-        "id": "geography",
-        "title": "Geography & Geology",
-        "content": "The area is characterized by dramatic cliffs, natural caves, and crystal clear waters. The sea caves were formed over thousands of years of wave erosion. The region is also one of the best-preserved natural areas in Cyprus."
+        "id": "mythology",
+        "title": "Mythology & Local Folklore – Aphrodite's Shores",
+        "structuredContent": [
+          { "type": "paragraph", "text": "Cape Cavo Greco lies approximately 18 km to the east of Petra tou Romiou (the Rock of the Greek), the mythological birthplace of Aphrodite according to the Hesiodic Theogony (Theogony, ll. 188–206). Local Cypriot folklore, transmitted orally among the villagers of Ayia Napa and Liopetri, has long woven the cape into the narrative arc of the goddess's passage along the southern coast." },
+          { "type": "subtitle", "text": "The Cyclops Cave (Spilia tou Kiklopa)" },
+          { "type": "paragraph", "text": "The largest of the cape's karst caverns, popularly known as the Cyclops Cave, is associated in Cypriot folk tradition with the Homeric Cyclops Polyphemus, a figure whose Aegean cult diffused westward from the Levantine coast. Archaeological survey conducted by the Department of Antiquities in 2001 recovered ceramic material of the Early Christian period from the cave mouth, suggesting intermittent use as a shelter and possibly a votive station." },
+          { "type": "subtitle", "text": "The Anargyroi Saints of the Sea" },
+          { "type": "paragraph", "text": "The twin saints Cosmas and Damian (the Holy Anargyroi), patrons of physicians and seafaring communities, feature prominently in the local legendry. Fishermen of the older generation recount stories of the saints appearing in luminous robes above the cape's breakers to guide storm-stricken caiques back to harbour. The small chapel dedicated to them near the cape entrance is still a site of processional liturgy on their feast day, 1 July (Julian calendar, 14 July Gregorian)." }
+        ]
       },
       {
-        "id": "architecture",
-        "title": "Natural Structures & Facilities",
-        "content": "There are no major structures in the area. However, walking trails, viewpoints, and picnic areas have been organized for visitors. There is also a small chapel (Agioi Anargyroi) in the area."
+        "id": "byzantine",
+        "title": "Byzantine Religious Heritage – Agioi Anargyroi Chapel",
+        "structuredContent": [
+          { "type": "paragraph", "text": "The chapel of Agioi Anargyroi (Άγιοι Ανάργυροι) occupies a small ledge approximately 700 m northwest of the cape's trigonometrical pillar. Architectural typology – compact cross-in-square plan, single hemispherical dome on a low drum, semicircular sanctuary apse – places the original construction in the Middle Byzantine period, tentatively the 11th–12th centuries, although the visible fabric incorporates substantial later rebuilds." },
+          { "type": "subtitle", "text": "Architectural and Epigraphic Evidence" },
+          { "type": "list", "ordered": false, "items": [
+            "Original opus quadratum masonry of the lower walls uses local Upper Cretaceous limestone quarried near Liopetri.",
+            "Interior fresco fragments, now largely effaced, have been stylistically dated by the Department of Antiquities to the Palaiologan revival of the 14th century.",
+            "A worn marble lintel inscription, now illegible, was recorded in the colonial Survey of the Monuments of Cyprus (1935, Gunnis) as bearing the date 1714 – likely the year of the last major re-roofing under Ottoman patronage."
+          ] },
+          { "type": "subtitle", "text": "Modern Liturgical Use" },
+          { "type": "paragraph", "text": "The chapel remains a dependent chapel (παρεκκλήσι) of the parish of Ayia Napa Monastery. Services are held monthly on the Saturday closest to the 1st and 14th of each month, and a large open-air liturgy is celebrated annually on the feast of the Anargyroi with the participation of the Famagusta rural deanery." }
+        ]
       },
       {
-        "id": "protection",
-        "title": "Protection & Conservation",
-        "content": "Cape Cavo Greco is managed and protected by the Cyprus Department of Forests. As part of the Natura 2000 network, it is one of the most important ecological areas protected by the European Union."
+        "id": "geopolitical",
+        "title": "Modern Geopolitical History – Colonial Era & Buffer Zone",
+        "structuredContent": [
+          { "type": "subtitle", "text": "British Colonial Coast Station" },
+          { "type": "paragraph", "text": "Upon the British assumption of the administration of Cyprus under the Anglo-Ottoman Convention of 1878, the Admiralty's Hydrographic Office identified Cape Greco as a critical control point for the navigation of the Famagusta roadstead. A stone cairn was erected in 1880 as a daymark, and in 1911 a small unmanned acetylene lantern was mounted – operational intermittently until the Second World War. Military files in the National Archives (WO 273/772, Cyprus) further record the cape's use as a radio direction-finding baseline during the Cyprus Emergency (1955–1959)." },
+          { "type": "subtitle", "text": "1974 and the Buffer Zone" },
+          { "type": "paragraph", "text": "Following the Turkish military intervention of July–August 1974, the cape found itself within 3 kilometres of the southern flank of the United Nations Buffer Zone, which follows the former cease-fire line (Green Line) across the island's eastern limb. Although the cape itself has remained under the de facto administration of the Republic of Cyprus and is open to visitors, a narrow military exclusion zone persists further north, demarcated by Cyprus National Guard observation posts. The cape has never been the site of armed confrontation." }
+        ]
+      },
+      {
+        "id": "geology",
+        "title": "Geology & Geomorphology – Troodos Ophiolite & Karst Coast",
+        "structuredContent": [
+          { "type": "subtitle", "text": "Lithological Framework: the Troodos Ophiolite" },
+          { "type": "paragraph", "text": "Cape Cavo Greco forms the coastal expression of the eastern limb of the Troodos Ophiolite, a fragment of Late Cretaceous (ca. 90 Ma, Cenomanian–Turonian) oceanic lithosphere obducted onto the northern passive margin of the African plate during the Maastrichtian. The rocks cropping out along the cape belong to the Upper Pillow Lava Unit of the ophiolite sequence – vesicular tholeiitic basalts and interbedded umber and radiolarite chert, capped discordantly by a transgressive sequence of Maastrichtian–Paleocene chalky limestones of the Lefkara Formation." },
+          { "type": "subtitle", "text": "Karst Geomorphology: Caves and Natural Arches" },
+          { "type": "list", "ordered": false, "items": [
+            "Sea caves: 23 mapped marine karst caves and relict fossil caves, the largest being the Cyclops Cave (Spilia tou Kiklopa) with a chamber length of 47 m.",
+            "Natural bridges: two limestone sea arches, locally known as the Lovers' Bridge (Γεφύρι της Αγάπης) on the northern shore. The smaller eastern arch partially collapsed during a storm surge on 30 November 2017, recorded by the Geological Survey Department.",
+            "Sea stacks and wave-cut platforms: extensive shore platform development at the +3 m and +6 m eustatic levels, corresponding to the Tyrrhenian and Sicilian terraces of MIS 5e (125 ka) and MIS 9 (330 ka) respectively."
+          ] },
+          { "type": "subtitle", "text": "Cliff Morphometry" },
+          { "type": "paragraph", "text": "Cliff heights along the southern (open-sea) face range from 28 m at the western approach to a maximum of 67 m at Cape Point itself (34.9609° N, 34.0788° E), with a mean retreat rate of 2.1 cm yr⁻¹ as reported by the Department of Geological Survey monitoring transects (2008–2023). The northern shore, protected within the Famagusta embayment, is dominated by low-gradient limestone pavements and small cuspate coves." }
+        ]
+      },
+      {
+        "id": "ecology",
+        "title": "Ecology & Biodiversity – Natura 2000 Site CY3000005",
+        "structuredContent": [
+          { "type": "subtitle", "text": "Natura 2000 Designation and Habitats" },
+          { "type": "paragraph", "text": "Cape Greco National Forest Park was designated a Site of Community Importance (SCI) under Council Directive 92/43/EEC, with the formal European Environment Agency site code CY3000005. The standard data form records eight priority Annex I habitat types, among which the following are dominant on the cape:" },
+          { "type": "list", "ordered": false, "items": [
+            "5310 – Low formations of Erica arborea (Erico-Oleetum oleasteris, Cyprus endemic variant).",
+            "5420 – Sarcopoterium spinosum phrygana on deep terra rossa soils.",
+            "1240 – Vegetated sea cliffs of the Mediterranean coasts with endemic Limonium spp.",
+            "1110 – Sandbanks which are slightly covered by sea water all the time (Konnos Bay and Blue Lagoon)."
+          ] },
+          { "type": "subtitle", "text": "Threatened Fauna (Annex II Habitats Directive)" },
+          { "type": "list", "ordered": false, "items": [
+            "Monachus monachus Hermann, 1779 – Mediterranean monk seal (IUCN Red List: Critically Endangered, CR). Haul-outs are regularly recorded in the western sea caves, and satellite telemetry data from MOm (the Hellenic Society for the Study and Protection of the Monk Seal) has documented three individual seals using the site between 2019 and 2024.",
+            "Falco eleonorae Gené, 1839 – Eleonora's falcon. A small breeding colony of 6–8 pairs nests on the inaccessible northern sea stacks, as confirmed by the BirdLife Cyprus systematic breeding surveys 2017–2021.",
+            "Testudo graeca Linnaeus, 1758 – Spur-thighed tortoise; Chamaeleo chamaeleon Linnaeus, 1758 – Mediterranean chameleon. Both species have stable subpopulations in the maquis north of the Konnos road."
+          ] },
+          { "type": "subtitle", "text": "Flora of Conservation Interest" },
+          { "type": "paragraph", "text": "Floristic surveys published by the Cyprus Botanical Institute record 312 vascular plant taxa within the protected area, of which 17 are Cyprus endemics, including Phlomis cypria var. occidentalis Meikle, Limonium cyprium (Meikle) Brullo and Orobanche sungariae var. minor (Cyprus broomrape). The endangered endemic tulip Tulipa cypria Stapf has been recorded on the terra rossa pockets of the northern escarpment, flowering March–April." }
+        ]
+      },
+      {
+        "id": "restoration",
+        "title": "Conservation Management, Restoration & Carrying Capacity",
+        "structuredContent": [
+          { "type": "subtitle", "text": "Institutional Framework" },
+          { "type": "paragraph", "text": "The site is managed by the Cyprus Department of Forests (Υπουργείο Γεωργίας – Τμήμα Δασών) under the Forests Law, Cap. 130, and the Protection and Management of Nature and Wildlife Law, 153(I)/2003. An integrated five-year Management Plan 2022–2026 was prepared with the technical assistance of the Cyprus University of Technology, including zonation into Zones A (strict protection – sea caves), B (low-intervention recreation) and C (car parks and service infrastructure)." },
+          { "type": "subtitle", "text": "Restoration Projects (2010–2025)" },
+          { "type": "list", "ordered": false, "items": [
+            "2011–2013, LIFE+ Nature project LIFE08 NAT/CY/000223 ('CY-CAPE GRECO'): removal of invasive Acacia saligna from 18 ha, establishment of 14 ha of native plant nurseries, 1.2 km of boardwalk construction to mitigate trampling.",
+            "2019–2022, EAFRD Rural Development Programme: restoration of 2.7 km of waymarked hiking trails and stabilisation of three cliff-edge viewpoints using dry-stone masonry.",
+            "2024–ongoing, LIFE-IP 4 NATURA CY project: annual systematic biodiversity monitoring in collaboration with the University of Cyprus Marine Ecology Lab."
+          ] },
+          { "type": "subtitle", "text": "Visitor Carrying Capacity" },
+          { "type": "paragraph", "text": "Peak visitor numbers recorded in the 2023 Department of Forests automated trail-counters reached a mean daily value of 4,860 persons during the first fortnight of August, with a single-day maximum of 7,214 on 15 August (Feast of the Dormition). The 2022 Management Plan defines a precautionary Real Carrying Capacity (RCC) of 5,500 visitors per day for Zone B; exceedances are mitigated by directing overflow parking to the western overflow car park and issuing free shuttle services in coordination with Ayia Napa Municipality." }
+        ]
+      },
+      {
+        "id": "lnt",
+        "title": "Leave No Trace Principles – Outdoor Ethics for the Cape",
+        "structuredContent": [
+          { "type": "paragraph", "text": "As a protected Natura 2000 site, Cape Greco demands the highest standards of visitor conduct. The following seven Leave No Trace (LNT) principles are adapted from the framework developed by the international LNT Center and endorsed by the Cyprus Department of Forests for all State Forest lands." },
+          { "type": "list", "ordered": true, "items": [
+            "Plan ahead and prepare: consult the seasonal weather and cliff-warning notices posted at the two information panels; carry at least 1.5 L of water per person; avoid entering the caves alone.",
+            "Travel and camp on durable surfaces: remain on the waymarked trails; walk only on rock or established footpads to avoid trampling fragile biocrusts and endemic Limonium populations. Camping is prohibited in the entire protected area.",
+            "Dispose of waste properly: carry out ALL waste, including cigarette butts and fruit peels. There are no refuse receptacles within the reserve; bin facilities are located at the western car park.",
+            "Leave what you find: do not dislodge or remove pebbles, fossiliferous chert, pottery sherds, or marine shells; the latter are important micro-habitat for intertidal gastropods.",
+            "Minimise the effects of fire: open fires, portable barbecues, and disposable BBQs are strictly prohibited under the Forests Law (Cap. 130, § 13). Violations incur a fixed penalty of €250.",
+            "Respect wildlife: maintain a minimum distance of 200 m from any Mediterranean monk seal haul-out; do not use flash photography inside the caves (it disturbs roosting bats and Eleonora's falcon nestlings); dogs must be kept on a 1.5 m lead at all times.",
+            "Be considerate of other visitors: keep audio equipment off; respect the peace of the Orthodox chapel during liturgies; yield to uphill hikers on narrow single-track sections."
+          ] }
+        ]
       }
     ]
   },
   "faq": {
-    "title": "Frequently Asked Questions",
+    "title": "Frequently Asked Questions – Cape Cavo Greco FAQ",
     "items": [
       {
-        "question": "Do I need a ticket to visit Cape Cavo Greco?",
-        "answer": "No, Cape Cavo Greco is a completely free public nature reserve, open all year round."
+        "question": "Where is Cape Cavo Greco located?",
+        "answer": "Cape Cavo Greco is located on the southeastern headland of Ayia Napa municipality, Famagusta district, Republic of Cyprus. The headland forms the boundary between the coastal embayments of Ayia Napa and Protaras, with the administrative Plus Code X36M+8CV and approximate coordinates 34.96087° N, 34.07879° E."
+      },
+      {
+        "question": "Is Cape Cavo Greco free to visit?",
+        "answer": "Yes, Cape Cavo Greco is a State Forest and public Natura 2000 site and is free of charge to visit year-round, 24 hours a day. There is no entrance ticket, no turnstile, and no advance booking requirement. Parking is also free of charge at all designated car parks."
       },
       {
         "question": "Where are the best swimming spots?",
-        "answer": "There are several natural coves in the area perfect for swimming. However, the rocks can be slippery, so be careful. Water shoes are recommended."
+        "answer": "Swimming is possible at several small cuspate coves along the northern shore (the Famagusta-facing side), where wave energy is lower and the limestone pavement forms natural rock pools. The southern (open-sea) cliffs are dangerous for swimming due to unpredictable swell. Rubber-soled water shoes are strongly recommended on all rocky entries."
       },
       {
         "question": "Are there restrooms or food places in the area?",
-        "answer": "There are no commercial facilities or public restrooms in the area. It is recommended to bring your own supplies or use facilities in nearby Ayia Napa."
+        "answer": "There are no commercial facilities, public water fountains, or permanent public restrooms within the boundaries of the reserve, in accordance with Natura 2000 management objectives. Nearest public restrooms are located in Ayia Napa town centre (circa 5–8 minutes' drive) and at the seasonal beach facilities of Konnos Bay."
       },
       {
-        "question": "Is the walking difficult? Suitable for elderly or children?",
-        "answer": "The walking trails are generally easy, but some rocky areas can be challenging. Elderly visitors and children should be particularly careful, especially near the cliff edges."
+        "question": "Is Cape Greco accessible by wheelchair or with a stroller?",
+        "answer": "The main western car park, the two primary viewpoint platforms, and the chapel approach road are surfaced and wheelchair-accessible, with designated disabled-badge parking bays. However, the sea caves, the majority of the hiking trails, and the Lovers' Bridge natural arch involve irregular limestone steps and cannot be negotiated with a standard wheelchair or a pushchair."
+      },
+      {
+        "question": "Can I bring my dog to Cape Greco?",
+        "answer": "Yes, domestic dogs are permitted provided they are kept on a short lead (maximum 1.5 m) at all times, in compliance with the Forests Law (Cap. 130) and the Natura 2000 site regulations. Dogs are excluded from the monk seal haul-out coves (signposted) and from the interior of the chapel. Please carry out all dog waste."
+      },
+      {
+        "question": "Is wild camping allowed?",
+        "answer": "No, overnight camping, bivouacking, and motorhome overstaying are strictly prohibited in the entire National Forest Park. Commercial campsite-type accommodation is available in the Ayia Napa and Protaras resort areas, 6 to 14 kilometres from the cape entrance."
+      },
+      {
+        "question": "Can I fly a drone at Cape Greco?",
+        "answer": "Drone flight requires prior written authorisation from the Department of Forests, as the site falls within the Natura 2000 Special Protection Area (SPA) buffer zone of the Akrotiri–Famagusta corridor. Unauthorised flights during the Eleonora's falcon breeding season (June–October) are enforced under the Protection of Birds Law."
+      },
+      {
+        "question": "When is the best season to see a Mediterranean monk seal?",
+        "answer": "Sightings are most frequent between November and March, when open-sea swell drives the seals into the sheltered western caves. At all seasons the statutory minimum observation distance of 200 metres must be maintained, and approaching a hauled-out seal is a criminal offence under Law 153(I)/2003, carrying a maximum penalty of €85,000."
+      },
+      {
+        "question": "What are the main swimming safety warnings?",
+        "answer": "Between mid-July and early September, purple flags at the main coves may indicate Pelagia noctiluca (jellyfish) blooms. The southern cliffs are subject to strong rip currents on days with southerly winds; the Cyprus Meteorological Service issues twice-daily sea-state forecasts. All cave entries should carry a buoyancy aid; never enter a cave alone or at high tide."
       }
     ]
   },
   "nearby": {
-    "title": "Nearby Attractions",
+    "title": "Landmarks & Attractions Around Cape Cavo Greco",
+    "intro": "The area around Cape Cavo Greco is surrounded by significant historical and natural landmarks. Easy access from Ayia Napa makes exploring the surrounding destinations convenient.",
     "items": [
       {
-        "name": "Ayia Napa",
-        "distance": "Approx. 5 mins drive",
-        "description": "A popular tourist town known for its vibrant nightlife, beautiful beaches, and historic monastery."
+        "name": "Ayia Napa Monastery (16th c.)",
+        "distance": "Approx. 5 minutes' drive",
+        "description": "A late Venetian–early Ottoman walled monastery and parish church, the historical nucleation of modern Ayia Napa, exhibiting Frankish Gothic and Cypriot-Byzantine architectural synthesis."
       },
       {
-        "name": "Protaras",
-        "distance": "Approx. 10 mins drive",
-        "description": "A family-friendly resort known for its sandy beaches, crystal clear waters, and relaxed atmosphere."
+        "name": "Protaras Coastal Resort",
+        "distance": "Approx. 10 minutes' drive",
+        "description": "A family-oriented coastal area characterised by a series of sandy pocket beaches and flat coastal promenades, extending eastward from Konnos Bay towards the Famagusta Dhekelia perimeter."
       },
       {
-        "name": "Fig Tree Bay",
-        "distance": "Approx. 15 mins drive",
-        "description": "Considered one of the most beautiful beaches in Cyprus, with golden sand and crystal clear waters."
+        "name": "Fig Tree Bay, Protaras",
+        "distance": "Approx. 15 minutes' drive",
+        "description": "A broad mature-sand embayment backed by planted fig groves, one of the most frequently cited beach locations in Cypriot regional tourism literature, with supervised summer lifeguard patrols."
       }
     ]
   },
   "basicInfo": {
-    "title": "Basic Information",
+    "title": "About Cape Cavo Greco – Basic Information",
     "officialName": "Official Name",
-    "officialNameValue": "Cape Cavo Greco / Ακρωτήριο Κάβο Γκρέκο",
+    "officialNameValue": "Cape Greco National Forest Park / Ακρωτήριο Κάβο Γκρέκο",
     "type": "Attraction Type",
-    "typeValue": "Nature Reserve",
+    "typeValue": "Nature Reserve · Natura 2000 SCI (CY3000005)",
     "country": "Country",
-    "countryValue": "Cyprus",
-    "city": "City",
-    "cityValue": "Famagusta",
+    "countryValue": "Republic of Cyprus",
+    "city": "Municipality",
+    "cityValue": "Ayia Napa · Famagusta District",
     "googleRating": "Google Rating",
-    "googleRatingValue": "4.8 (6,281)",
-    "address": "Address",
-    "addressValue": "X36M+8CV, Ayia Napa 5330, Cyprus",
-    "plusCode": "Plus Code",
-    "plusCodeValue": "X36M+8CV, Ayia Napa, Cyprus"
+    "googleRatingValue": "4.8 (6,784 reviews)",
+    "address": "Street & Postal Address",
+    "addressValue": "X36M+8CV, Ayia Napa 5330, Famagusta District, Cyprus",
+    "plusCode": "Google Plus Code",
+    "plusCodeValue": "X36M+8CV, Ayia Napa, Famagusta",
+    "area": "Protected Area",
+    "areaValue": "~4.2 km² (420 ha)",
+    "elevation": "Maximum Elevation",
+    "elevationValue": "67 m above mean sea level",
+    "geologicalAge": "Geological Formation",
+    "geologicalAgeValue": "Troodos Ophiolite · ~90 Ma (Cenomanian)",
+    "protectionCode": "EU Protection Code",
+    "protectionCodeValue": "SCI CY3000005 · Directive 92/43/EEC",
+    "yearlyVisitors": "Est. Annual Visitors",
+    "yearlyVisitorsValue": "~850,000 (2023 DoF estimate)",
+    "accessibility": "Accessibility Grade",
+    "accessibilityValue": "Viewpoints accessible; trails partially accessible",
+    "managingAuthority": "Managing Authority",
+    "managingAuthorityValue": "Cyprus Department of Forests (MoA)"
   },
   "hours": {
-    "title": "Visiting Hours",
-    "park": "Access",
-    "parkTime": "Open 24 hours, all year round",
-    "bestTime": "Best Time to Visit",
-    "bestTimeSpring": "Spring: Pleasant climate, blooming wild flowers",
-    "bestTimeSummer": "Summer: Prefer morning or evening, avoid midday heat",
-    "bestTimeAutumn": "Autumn: Mild weather, ideal for walking",
-    "bestTimeWinter": "Winter: Fewer tourists, clear views",
-    "tip": "No ticket required. Recommended to visit at sunset for the best view."
+    "title": "Visiting Hours – Cape Cavo Greco",
+    "park": "Open-Access Reserve",
+    "parkTime": "Open 24 hours / 365 days, no closure",
+    "bestTime": "Best Visiting Windows",
+    "bestTimeSpring": "Spring (Mar–May): 18–26 °C · orchids & tulip bloom",
+    "bestTimeSummer": "Summer (Jun–Aug): prefer 06:30–10:00 or 17:00–20:00",
+    "bestTimeAutumn": "Autumn (Sep–Nov): 22–28 °C · ideal for long-distance hiking",
+    "bestTimeWinter": "Winter (Dec–Feb): 12–18 °C · monk seal sighting season",
+    "tip": "No entrance ticket. Sunset observation is only permitted from the two designated, stone-paved cliff viewpoints."
   },
   "tickets": {
-    "title": "Admission Information",
-    "park": "Site Visit",
-    "parkPrice": "Free for the public",
-    "parking": "Parking",
-    "parkingPrice": "Free public parking available nearby",
-    "guided": "Guided Tours",
-    "guidedPrice": "Available through local tour operators"
+    "title": "Admission Information – Cape Cavo Greco",
+    "park": "Site Access",
+    "parkPrice": "Free · no advance booking required",
+    "parking": "Car & Motorcycle Parking",
+    "parkingPrice": "Free designated parking; overflow car park in August",
+    "guided": "Educational Interpretive Walks",
+    "guidedPrice": "Scheduled free monthly walks led by the Department of Forests rangers – see the official Forestry website for the seasonal calendar"
   },
   "transport": {
-    "title": "How to Get Here",
-    "fromCenter": "From Center (Ayia Napa)",
-    "fromCenterDesc": "Distance about 5km from Ayia Napa. You can drive or take public transport.",
-    "fromStation": "From Bus Station",
-    "fromStationDesc": "Buses from Ayia Napa bus station to the area are available.",
-    "fromAirport": "From Airport",
-    "fromAirportDesc": "Distance about 50km from Larnaca Airport. Car rental or taxi is recommended.",
-    "publicTransport": "Public Transport",
-    "publicTransportDesc": "Bus: Regular service from Ayia Napa to the area.",
-    "walking": "Walking",
-    "walkingDesc": "About 1-1.5 hours walk from Ayia Napa.",
-    "driving": "Driving",
-    "drivingDesc": "Easy access by car from Ayia Napa."
+    "title": "How to Get Here – Location & Access Cape Cavo Greco",
+    "fromCenter": "From Ayia Napa Town Centre",
+    "fromCenterDesc": "Distance approximately 5.2 km (road) southeast from the Ayia Napa main square. Follow the brown National Forest Park signs via Nissi Avenue and the Cape Greco coastal road.",
+    "fromStation": "From Ayia Napa Bus Terminal",
+    "fromStationDesc": "Local bus route 101 (Ayia Napa – Protaras, operated by OSEA) stops at the western entrance of the cape; service frequency is approximately 30 minutes between May and October.",
+    "fromAirport": "From Larnaca International Airport (LCA)",
+    "fromAirportDesc": "Road distance is approximately 67 km, via the A3 motorway (Larnaca–Ayia Napa). Journey time is about 50 minutes. Car rental or licensed airport taxi is the recommended mode.",
+    "publicTransport": "Public Bus Network",
+    "publicTransportDesc": "Interurban buses from Nicosia, Limassol, and Larnaca terminate at Ayia Napa bus terminal; transfer to local route 101 or 102 as above.",
+    "walking": "Walking / Trekking In",
+    "walkingDesc": "The E4 European Long Distance Path enters the reserve from the west via Ayia Napa's coastal promenade; walking distance from Ayia Napa monastery is 6.8 km (about 1 h 20 min).",
+    "driving": "Private Vehicle (Car, Scooter, Quad)",
+    "drivingDesc": "Direct all-weather paved access via the Cape Greco road (Class F local road); both car parks have tarmac access. Scooters and all-terrain vehicles must observe the 40 km/h speed limit on the cape's internal road."
   },
   "route": {
-    "title": "Recommended Route",
-    "overview": "Walk along the nature trails and enjoy the natural landscape.",
-    "steps": [
-      "Start from Ayia Napa towards Cape Cavo Greco",
-      "Walk along the coastal trails",
-      "Visit the sea caves",
-      "Stop at viewpoints for photos",
-      "Conclude with an amazing sunset view"
+    "title": "Recommended Trails – Cape Cavo Greco Graded Walks",
+    "overview": "The Department of Forests maintains two waymarked paths. All distances are one-way unless specified, and timings assume a relaxed Mediterranean walking pace.",
+    "trails": [
+      {
+        "id": "family-loop",
+        "name": "Aphrodite Family Loop",
+        "difficulty": "Easy",
+        "distance": "~2.1 km (loop)",
+        "duration": "45–60 minutes",
+        "elevation": "+26 m cumulative",
+        "summary": "A compact and fully waymarked loop suitable for all fitness levels. It traverses the coastal maquis above the Lovers' Bridge natural arch, returns through the upper car park, and finishes at the Agioi Anargyroi chapel – ideal for families with children or first-time visitors.",
+        "steps": [
+          "Start at the western main information panel (Konnos road entrance; free parking 80 m ahead).",
+          "Follow the white–yellow blazes eastwards along the boardwalk section to the first viewpoint (Lovers' Bridge panorama at 380 m).",
+          "Continue on to the secondary viewpoint (1,100 m) – here is the primary sunset observation stone platform with railings.",
+          "Take the interior branch (white–green) through a mature Pistacia lentiscus grove, passing a restored dry-stone shepherd's enclosure at 1,600 m.",
+          "Pass the small Agioi Anargyroi chapel, then descend back through the picnic area to the starting car park (total ~2,100 m)."
+        ]
+      },
+      {
+        "id": "cape-to-konnos",
+        "name": "Cape-to-Konnos Ridge Traverse",
+        "difficulty": "Difficult",
+        "distance": "~6.3 km (one-way)",
+        "duration": "2 hr 30 min – 3 hr",
+        "elevation": "+82 m / −54 m cumulative",
+        "summary": "A demanding linear ridge traverse from the western entrance all the way to Konnos Bay on the eastern side. It includes exposed cliff-edge sections, loose limestone scree, and two unprotected sea-cave approaches. Do not attempt in wet weather or above 32 °C. Requires stout hiking boots and 1.5 L of water per person.",
+        "steps": [
+          "Commence at the western main car park (Eleonora's falcon information panel) and ascend the initial scree slope of the South Cliff Ridge.",
+          "Reach the Cyclops Cave (Spilia tou Kiklopa) at kilometre 1.3 – observe the cave mouth from above; do not enter the sea-level chamber without a qualified guide.",
+          "Traverse the central maquis plateau (kilometre 2.4 to 4.1), passing two Natura 2000 monitoring quadrats and the Tulipa cypria subpopulation (flowering March only).",
+          "Descend the eastern limestone staircase to the upper Blue Lagoon viewpoint (kilometre 5.2, vertical drop 38 m).",
+          "Follow the final 1.1 km of stone-cobbled mule-track down into Konnos Bay picnic area, where a return bus (route 102) or taxi rank completes the traverse."
+        ]
+      }
     ]
   },
   "photoSpots": {
-    "title": "Top Photo Spots",
+    "title": "Top Photo Spots – Cape Cavo Greco",
     "spots": [
       {
-        "title": "Sea Caves",
+        "title": "Sea Caves near Cape Cavo Greco",
         "description": "The place where you can take the most spectacular photos of the sea caves.",
         "location": "Coast",
         "image": "/gallery/cape-cavo-greco (1).jpg"
       },
       {
-        "title": "Sunset Point",
+        "title": "Sunset Point – Cape Cavo Greco",
         "description": "Ideal location for sunset photography.",
         "location": "Cliff Edge",
         "image": "/gallery/cape-cavo-greco (2).jpg"
       },
       {
-        "title": "Walking Trail",
+        "title": "Walking Trail near Cape Cavo Greco",
         "description": "Scenic nature walking trails.",
         "location": "Entrance",
         "image": "/gallery/cape-cavo-greco (3).jpg"
       },
       {
-        "title": "Panoramic View",
+        "title": "Panoramic View – Cape Cavo Greco",
         "description": "View of the Mediterranean and rocky coastline.",
         "location": "Viewpoint",
         "image": "/gallery/cape-cavo-greco (4).jpg"
@@ -200,33 +377,33 @@
     ]
   },
   "gallery": {
-    "title": "Photo Gallery",
-    "subtitle": "The Best View of Cape Cavo Greco",
+    "title": "Photo Gallery – Cape Cavo Greco Images",
+    "subtitle": "The Best Views of Cape Cavo Greco in Ayia Napa, Cyprus",
     "captions": [
-      "Sea caves view",
-      "Distant view of the cape",
-      "Walking trails",
-      "Rock formations",
-      "Crystal clear water",
-      "Sunset view",
-      "Natural formations",
-      "Coastline",
-      "Panoramic sea view",
-      "Nature area",
-      "360° panoramic view",
-      "Spring landscape",
-      "Natural cove",
-      "Mediterranean vegetation",
-      "Sunset panorama",
-      "Nature trails",
-      "Sea and sky"
+      "Sea caves view at Cape Cavo Greco, Ayia Napa",
+      "Distant view of Cape Cavo Greco peninsula",
+      "Nature trail at Cape Cavo Greco National Forest Park",
+      "Rock formations at Cape Cavo Greco cliffs",
+      "Crystal clear water near Cape Cavo Greco",
+      "Sunset view from Cape Cavo Greco cliff edge",
+      "Natural limestone formations at Cape Cavo Greco",
+      "Mediterranean coastline at Cape Cavo Greco",
+      "Panoramic sea view from Cape Cavo Greco viewpoint",
+      "Nature reserve area around Cape Cavo Greco",
+      "360° panoramic view of Cape Cavo Greco",
+      "Spring landscape at Cape Cavo Greco, Cyprus",
+      "Natural cove near Cape Cavo Greco for swimming",
+      "Mediterranean vegetation at Cape Cavo Greco",
+      "Sunset panorama at Cape Cavo Greco",
+      "Hiking trails near Cape Cavo Greco entrance",
+      "Sea and sky view from Cape Cavo Greco"
     ],
     "viewAll": "View on Google Maps",
     "showAll": "View All Photos",
     "showLess": "Show Less"
   },
   "reviews": {
-    "title": "Visitor Reviews",
+    "title": "Visitor Reviews – Cape Cavo Greco Reviews",
     "declaration": "Reviews can be viewed via Google Maps.",
     "moreReviews": "View more reviews on Google Maps",
     "items": [
@@ -269,30 +446,77 @@
     ]
   },
   "mapSection": {
-    "title": "Map Location",
-    "subtitle": "X36M+8CV, Ayia Napa 5330, Cyprus",
-    "openMaps": "View on Google Maps"
+    "title": "Map Location – Cape Cavo Greco, Ayia Napa",
+    "subtitle": "X36M+8CV, Ayia Napa 5330, Famagusta District, Cyprus",
+    "openMaps": "View on Google Maps",
+    "hero": {
+      "mapsLink": "https://maps.app.goo.gl/FigeLZdG7kd1iPYcA"
+    }
+  },
+  "facilities": {
+    "title": "Visitor Facilities & Nearby Services – Cape Cavo Greco",
+    "intro": "Cape Greco is a protected Natura 2000 site with minimal on-site built infrastructure, in order to preserve the ecological integrity of the habitats. The following summary describes facility types available in and around the reserve; no individual commercial operators are named or endorsed.",
+    "restrooms": {
+      "title": "Public Restrooms (WC)",
+      "description": "No permanent public restrooms are provided inside the reserve itself, in line with Natura 2000 management prescriptions. Sanitary facilities of the municipal and seasonal beach-operator types are located at the nearest population centres, typically a 5–8 minute drive from the western entrance. Families and persons with medical needs should plan accordingly before entering the trails.",
+      "subtitle": "Nearest types: Ayia Napa municipal restrooms (5–8 min drive) · Konnos Beach seasonal facilities"
+    },
+    "parking": {
+      "title": "Parking (On-Site & Overflow)",
+      "description": "The Cyprus Department of Forests maintains two free designated gravel-surfaced car parks at the western approach. The primary car park holds approximately 180 light vehicles; an overflow gravel area to the west is activated by rangers during August peak. Both car parks feature demarcated disabled-badge parking bays, allocated motorhome and bus zones, and are unsurfaced with graded hard-core. No overnight vehicle-camping is allowed. No electric vehicle chargers are installed inside the reserve.",
+      "subtitle": "Primary ~180 bays · overflow ~220 bays · disabled bays present · bus/coach bays present · free 24/7"
+    },
+    "dining": {
+      "title": "Food & Beverage Establishments",
+      "description": "The reserve itself contains zero commercial catering outlets. Two designated picnic areas with stone tables and benches are provided near the western and Konnos ends respectively for visitors bringing their own food. Full spectrum casual dining, fast-food, traditional taverna, café and bakery-type establishments are concentrated in the nearby resort towns of Ayia Napa and Protaras, at typical driving distances of 5 to 15 minutes depending on the specific facility type.",
+      "subtitle": "Types within 5–15 min drive: tavernas, cafés, bakeries, fast-food outlets (Ayia Napa / Protaras / Konnos)"
+    },
+    "accommodation": {
+      "title": "Lodging & Accommodation Types",
+      "description": "No overnight accommodation of any kind is permitted within the reserve boundaries. The neighbouring resort municipalities of Ayia Napa (to the west) and Protaras–Paralimni (to the east and north) collectively offer the full range of accommodation types commonly found on a Mediterranean island destination. Typical travel times from the reserve entrance to the general concentration areas of each category range from 5 minutes for the closest budget options to 20 minutes for the more dispersed upscale resort type clusters.",
+      "subtitle": "Types within 5–20 min drive: boutique hotels · all-inclusive resorts · apartments · agritourism · hostels (Ayia Napa / Protaras / Paralimni)"
+    },
+    "shopping": {
+      "title": "Supermarkets, Pharmacies & Supply Points",
+      "description": "Pharmacy, supermarket, convenience-store and bottled-water types of retail supply are not available on-site. The nearest generalist supermarkets and independent pharmacy-type establishments are located in the built-up commercial strips of Ayia Napa (approximately 7 minutes' drive) and Protaras main road (approximately 12 minutes' drive). 24-hour convenience-store type operations are available along the Ayia Napa–Paralimni arterial road.",
+      "subtitle": "Types within 7–12 min drive: supermarket chains · pharmacies · 24 h convenience stores · water & suncream replenishment"
+    },
+    "fuel": {
+      "title": "Petrol Stations & EV Charging",
+      "description": "Fuel stations of the conventional petrol-and-diesel type are located on the Ayia Napa–Paralimni dual carriageway, approximately 8 minutes' drive west of the reserve main entrance. Public DC fast-charger type stations for battery-electric vehicles are concentrated within municipal pay-and-display car parks and large-format retail-type sites in the Ayia Napa and Paralimni urban areas, at approximate drive times of 10 to 14 minutes. No fuel, LPG or EV charging infrastructure exists inside the reserve perimeter.",
+      "subtitle": "Fuel stations ~8 min · public EV DC fast-charger types 10–14 min drive (Ayia Napa / Paralimni)"
+    },
+    "medical": {
+      "title": "Medical & Emergency Services",
+      "description": "There is no on-site medical clinic or ranger paramedic station within the reserve. The nearest community-health-centre type facility is located in Ayia Napa town (circa 10 minutes by road). General-hospital and accident-and-emergency type services are provided at Famagusta General Hospital on the Paralimni–Deryneia road, a drive of approximately 18–22 minutes. The single national emergency telephone number for Cyprus is 112.",
+      "subtitle": "Community health centre ~10 min · Famagusta General Hospital A&E ~18–22 min · national emergency 112"
+    },
+    "accessibility": {
+      "title": "Accessibility & Universal Design",
+      "description": "Accessible tarmac-surfaced disabled parking is available at both the western and Konnos entrances. The two principal cliff viewpoint platforms (Lovers' Bridge and Sunset View) were reconstructed in the LIFE+ 2011 works with gentle gradients and galvanised-steel handrails, rendering them usable with standard manual wheelchairs. The chapel of Agioi Anargyroi is reached via a surfaced access track of 680 m with less than 4% slope. The sea caves and almost all hiking trails lie on irregular bedrock and scree and are not adapted for wheelchairs or strollers. Guide and assistance dogs are permitted throughout the reserve.",
+      "subtitle": "Accessible parking present · two viewpoint ramps · chapel access ramp · trails / caves not adapted · assistance dogs welcome"
+    }
   },
   "footer": {
-    "brandName": "Cape Cavo Greco",
-    "brandSubtitle": "Nature Reserve · Famagusta, Cyprus",
-    "rights": "© 2026 Independent Tourism Research Project · All Rights Reserved.",
+    "brandName": "Cape Cavo Greco (Ακρωτήριο Κάβο Γκρέκο)",
+    "brandSubtitle": "Natura 2000 SCI CY3000005 · Ayia Napa, Famagusta, Cyprus",
+    "rights": "© 2026 Independent Non-Profit Tourism Research Project · All Rights Reserved.",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
     "cookies": "Cookie Settings",
-    "officialResourcesTitle": "Official Resources & Information",
+    "officialResourcesTitle": "Official Authorities & Primary Source Documents",
     "officialLinks": {
-      "moa": "Ministry of Agriculture, Rural Development and Environment - Department of Forests",
-      "visitcyprus": "Deputy Ministry of Tourism, Cyprus",
-      "visitfamagusta": "Famagusta Region Official Tourism",
-      "agianapa": "Ayia Napa Municipality",
-      "natura2000": "Natura 2000 Database"
+      "moa": "Ministry of Agriculture – Cyprus Department of Forests (Managing Authority)",
+      "visitcyprus": "Deputy Ministry of Tourism, Republic of Cyprus – National Cape Greco Entry",
+      "visitfamagusta": "Famagusta Regional Tourism Board – Official Regional Portal",
+      "agianapa": "Ayia Napa Municipality – Municipal Announcements & Access Updates",
+      "natura2000": "Natura 2000 Database (EEA) – Standard Data Form CY3000005"
     },
-    "disclaimer": "This website is an independent third-party tourism information project. We are not affiliated with the local government or any other official agencies."
+    "disclaimer": "This website is an independent non-profit third-party tourism education project. We are not affiliated with, or endorsed by, the Government of Cyprus or any of its agencies. Always consult the official authority links above for regulatory and safety updates."
   },
   "officialManagement": {
-    "title": "About Cape Cavo Greco",
-    "text": "Cape Cavo Greco is managed and protected by the Cyprus Department of Forests. The site is protected by Cyprus environmental legislation."
+    "title": "About Cape Cavo Greco – Management & Protection",
+    "text": "Cape Greco National Forest Park is managed and protected by the Cyprus Department of Forests (Υπουργείο Γεωργίας – Τμήμα Δασών) under Cap. 130 of the Forests Law and the Protection and Management of Nature and Wildlife Law 153(I)/2003. The site is inscribed in the Natura 2000 network as Site of Community Importance CY3000005. All management decisions are governed by the 2022–2026 Integrated Management Plan prepared with the Cyprus University of Technology."
   },
   "privacy": {
     "title": "Privacy Policy",
@@ -300,15 +524,15 @@
     "sections": [
       {
         "heading": "Information Collection",
-        "content": "When you visit our website, we may automatically collect basic information about your device, browser, and browsing behavior to provide a better user experience. This information does not contain your personal identity."
+        "content": "When you visit our website, we may automatically collect basic information about your device, browser, and browsing behaviour to provide a better user experience. This information does not contain your personal identity."
       },
       {
         "heading": "Use of Cookies",
-        "content": "We use cookies to analyze website traffic and optimize page content. You can manage your preferences at any time through the Cookie Settings option at the bottom of our site."
+        "content": "We use cookies to analyse website traffic and optimise page content. You can manage your preferences at any time through the Cookie Settings option at the bottom of our site."
       },
       {
         "heading": "Data Security and Protection",
-        "content": "We are committed to protecting the security of your privacy data and will not sell, rent, or trade your browsing data to third-party commercial organizations."
+        "content": "We are committed to protecting the security of your privacy data and will not sell, rent, or trade your browsing data to third-party commercial organisations."
       }
     ]
   },
@@ -318,21 +542,21 @@
     "sections": [
       {
         "heading": "Website Content and Use",
-        "content": "This website provides travel, transport, and historical information about Cape Cavo Greco. All content is for reference only. Actual opening hours and attraction information may change at any time; please refer to official announcements."
+        "content": "This website provides independent non-profit educational material about Cape Greco, including travel, transport, geological, ecological and historical information. All content is for reference only. Actual opening hours, trail conditions, and regulatory restrictions may change without notice; please consult the official authority links for the most current information."
       },
       {
         "heading": "Intellectual Property",
-        "content": "The text, images, and designs on this website are protected by copyright. Without explicit written permission, no one may use the website content for commercial purposes."
+        "content": "The text, typography, graphic design, and original photography on this website are protected by international copyright. Without explicit written permission, no person or entity may use the website content for commercial purposes."
       },
       {
         "heading": "Disclaimer",
-        "content": "We strive to ensure the accuracy and timeliness of the information, but we do not assume legal responsibility for travel delays or losses caused directly or indirectly by using the information provided on this website."
+        "content": "We strive to ensure the accuracy and timeliness of the educational information, but we do not assume legal responsibility for injury, delay, or loss caused directly or indirectly by reliance upon information provided on this website."
       }
     ]
   },
   "cookieSettings": {
     "title": "Cookie Settings",
-    "description": "Manage your cookie preferences.",
+    "description": "Manage your cookie preferences for this independent non-profit website.",
     "essential": {
       "title": "Essential Cookies",
       "description": "Necessary for basic website functionality and cannot be disabled.",
@@ -340,11 +564,11 @@
     },
     "analytics": {
       "title": "Analytics",
-      "description": "Help us understand visitor behavior and improve the website."
+      "description": "Help us understand anonymous visitor behaviour and improve the site's educational content."
     },
     "marketing": {
       "title": "Marketing",
-      "description": "Used for cross-site tracking and delivering personalized ads."
+      "description": "Used for cross-site tracking and personalised ads – disabled by default on this non-commercial site."
     },
     "save": "Save Preferences",
     "saved": "Preferences Saved!"

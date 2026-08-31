@@ -1,10 +1,19 @@
-import { useTranslations } from 'next-intl';
-import { useMessages } from 'next-intl';
+import { useTranslations, useLocale } from 'next-intl';
+
+const MAPS_EMBED_SRC = 'https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d5815.869364469172!2d34.0787873!3d34.9608713!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14dfc4a004d82153%3A0x3c980abfecc7494d!2sCape%20Cavo%20Greco!5e1!3m2!1szh-CN!2s!4v1788142557902!5m2!1szh-CN!2s';
+
+const titleMap: Record<string, string> = {
+  el: 'Χάρτης Google - Τοποθεσία Ακρωτηρίου Κάβο Γκρέκο',
+  en: 'Google Map - Cape Cavo Greco Location',
+  zh: '谷歌地图 - 卡沃格雷科角位置',
+  tr: 'Google Harita - Cape Cavo Greco Konumu',
+};
 
 export default function MapEmbed() {
   const t = useTranslations('mapSection');
-  const messages = useMessages() as any;
-  const mapsLink = messages?.hero?.mapsLink || 'https://maps.app.goo.gl/FigeLZdG7kd1iPYcA';
+  const locale = useLocale();
+  const mapsLink = t('hero.mapsLink') || 'https://maps.app.goo.gl/FigeLZdG7kd1iPYcA';
+  const iframeTitle = titleMap[locale] || titleMap.en;
 
   return (
     <section id="map" className="section-padding" style={{ background: 'var(--bg-secondary)' }}>
@@ -28,14 +37,14 @@ export default function MapEmbed() {
             This is for visual cleanliness only. Google's Terms of Service apply.
           */}
           <iframe
-            src="https://maps.google.com/maps?q=Cape+Cavo+Greco&output=embed"
+            src={MAPS_EMBED_SRC}
             width="100%"
             height="450"
             style={{ border: 0 }}
             allowFullScreen
             loading="lazy"
-            referrerPolicy="no-referrer-when-downgrade"
-            title="Google Maps - Cape Cavo Greco"
+            referrerPolicy="strict-origin-when-cross-origin"
+            title={iframeTitle}
           />
         </div>
 

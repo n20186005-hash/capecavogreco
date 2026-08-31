@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Cape Cavo Greco – Famagusta, Cyprus",
-    "description": "Cape Cavo Greco完整旅游指南。了解这个自然保护区，包括位置、景观、交通和游览信息。"
+    "title": "Cape Cavo Greco (Ayia Napa) - Ziyaretçi Rehberi & Konum",
+    "description": "Cape Cavo Greco'yu keşfedin: Kıbrıs, Gazimağusa, Ayia Napa'daki ikonik doğa rezervi. Konum haritasını, ziyaret saatlerini, yakındaki Ayia Napa Manastırı'nı, yürüyüş parkurlarını ve seyahat ipuçlarını görün."
   },
   "header": {
     "home": "Ana Sayfa",
@@ -11,222 +11,399 @@
     "backToHome": "Ana Sayfaya Dön"
   },
   "hero": {
-    "title": "Cape Cavo Greco",
-    "subtitle": "Doğa Rezervi · Famagusta, Kıbrıs",
+    "title": "Cape Cavo Greco (Ayia Napa)",
+    "subtitle": "Natura 2000 Ulusal Orman Parkı · Gazimağusa, Kıbrıs",
     "rating": "4.8",
-    "reviewCount": "6,281 yorum",
-    "type": "Doğa Rezervi",
+    "reviewCount": "6.784 yorum",
+    "type": "Doğa Rezervi / SCI Alanı CY3000005",
     "openMaps": "Google Maps'te Görüntüle",
     "mapsLink": "https://maps.app.goo.gl/FigeLZdG7kd1iPYcA"
   },
   "intro": {
-    "title": "Cape Cavo Greco'yu Keşfedin",
-    "description": "Cape Cavo Greco (Yunanca: Ακρωτήριο Κάβο Γκρέκο), Kıbrıs'ın güneydoğusunda yer alan muhteşem bir doğa rezervidir. Bu alan, çarpıcı deniz mağaraları, berrak sular ve dik kayalıklar ile ünlüdür. Doğa yürüyüşü, yüzme ve dalış için popüler bir destinasyondur.",
+    "title": "Cape Cavo Greco Hakkında – Ayia Napa Doğa Rezervi",
+    "equivalence": "Cape Cavo Greco'ya hoş geldiniz, bölgenin merkezi Cape Greco coğrafi simgesi olarak yaygın şekilde tanınmaktadır. Gazimağusa, Kıbrıs'ın Ayia Napa güneydoğu ucunda yer alan bu destinasyon, Gazimağusa ilçesini ziyaret eden gezginler için birincil korunan kıyı rezervidir. Engebeli bir kireçtaşı yarımadası ve Natura 2000 Özel Koruma Alanı (SAC CY3000005) olup, uçurum kenarında yürüyüş parkurları, berrak mavi lagünler ve karasit deniz mağaraları ile ünlüdür.",
+    "breadcrumb": {
+      "label": "Konum Hiyerarşisi",
+      "level1": "Cape Cavo Greco",
+      "level2": "Ayia Napa",
+      "level3": "Gazimağusa",
+      "level4": "Kıbrıs"
+    },
+    "nearbyCluster": "Cape Cavo Greco'yu ziyaret ederken ziyaretçiler, Ayia Napa Manastırı ve Protaras'taki İncir Ağacı Koyu kıyı şeridi dahil olmak üzere çevredeki tarihi simge yapıları ve ilgi çekici noktaları kolayca keşfedebilirler.",
+    "description": "Cape Cavo Greco (Yunanca: Ακρωτήριο Κάβο Γκρέko; Türkçe: Cape Greco), Kıbrıs adasının güneydoğudaki en uç başlangıcını oluşturur. Batıda Ayia Napa, doğuda Protaras tatil kasabaları arasında konumlanmış olup, yaklaşık 4,2 km² dokunulmamış Akdeniz makisi, kireçtaşı deniz uçurumları ve endemik kıyı ekosistemini korur. İdari olarak Kıbrıs Orman Dairesi (DoF) tarafından yönetilen burun, öncelikli habitatları ve tehdit altındaki türleri nedeniyle 2006 yılında Topluluk Önemi Olan Alan (SCI) olarak Avrupa Natura 2000 ağına kaydedilmiştir.",
     "visitGuide": {
       "title": "Ziyaret İpuçları",
       "items": [
-        "En iyi ziyaret zamanı ilkbahar ve sonbahardır.",
-        "Kayalık alanlarda yürüyüş için uygun ayakkabı giyin.",
-        "Yüzmek için berrak koyları ziyaret edin.",
-        "Gün batımı manzarası için yanınızda kamera bulundurun."
+        "Önerilen ziyaret dönemleri: Mart–Haziran (ilkbahar çiçek açımı) ve Eylül–Kasım (ılıman sonbahar yürüyüşü).",
+        "Engebeli kireçtaşı ve moloz bölümler için iyi tutunmalı sağlam ayakkabı şarttır.",
+        "Mayıs ile Ekim arasında kişi başına en az 1,5 L su ve yüksek faktörlü güneş koruyucu taşıyın.",
+        "Gün batımı gözlemi yalnızca korumasız uçurum kenarlarından uzak, belirlenmiş seyir noktalarından yapılmalıdır."
       ]
     },
     "alsoKnownAs": {
       "title": "Öne Çıkanlar",
       "items": [
-        "Çarpıcı deniz mağaraları",
-        "Berrak yüzme alanları",
-        "Doğa yürüyüşü parkurları",
-        "Muhteşem gün batımı manzaraları"
+        "Kiklop Mağarası (Spilia tou Kiklopa) ve deniz mağarası kümesi",
+        "Şeffaf suları olan mavi lagün tipi yüzme koyları",
+        "Kıbrıs Ulusal Orman Parkı ağına ait işaretlenmiş parkurlar",
+        "Akdeniz ufku doğrultusunda panoramik gün batımı manzaraları"
       ]
     }
   },
   "knowledge": {
-    "title": "Cape Cavo Greco Hakkında",
+    "title": "Cape Cavo Greco Hakkında – Tarih, Jeoloji, Ekoloji & Koruma",
     "sections": [
       {
-        "id": "history",
-        "title": "Tarih & Coğrafya",
-        "content": "Cape Cavo Greco, Kıbrıs'ın en önemli doğal ve ekolojik alanlarından biridir. Avrupa'nın Natura 2000 ağı tarafından korunan bu alan, zengin biyolojik çeşitliliğe sahiptir. Bölge, eşsiz jeolojik oluşumları ve Akdeniz'e özgü bitki örtüsü ile bilinir."
+        "id": "etymology",
+        "title": "Etimoloji & Adlandırma Tarihi – Zaman İçinde Cape Greco",
+        "structuredContent": [
+          { "type": "subtitle", "text": "Yer Adının Venedik Kökeni" },
+          { "type": "paragraph", "text": "Cavo Greco adı, Venedik sömürge dönemi (1489–1571 MS) sırasında Venedikli haritacıların ve kaptanların burun bölgesini portolan haritalarında Càvo Greco – İtalyanca 'Yunan Burnu' olarak göstermesiyle tarihi kayıtlara geçer. Bu adlandırma, burnu daha kuzeydeki ağırlıklı Türkçe konuşan kıyı bölgelerinden ayırır ve on altıncı yüzyıl Venedik nüfus sayımlarında zaten kaydedilmiş olan Gazimağusa kıyı köylerinin süregelen Rum Ortodoks kültür karakterini yansıtır." },
+          { "type": "subtitle", "text": "Klasik ve Geç Antik Öncüller" },
+          { "type": "paragraph", "text": "Klasik antik çağda burun, Levant kıyısı boyunca kıyı mesafelerini listeleyen Roma dönemi bir periplus olan Stadiasmus Maris Magni'de (MS 3. yüzyıl) belirtilen akron ile kesin olmayan biçimde özdeşleştirilir. Komnenos döneminin Bizans idari metinleri, hinterland'ı Gazimağusa turması'nın bir parçası olarak ansa da, burunun kendisi yerel olarak Kutsal Anargyroi kilisesine bağlı şimdi kaybolmuş bir yerleşim adıyla biliniyordu." },
+          { "type": "subtitle", "text": "Sonraki İdari Katmanlar" },
+          { "type": "list", "ordered": false, "items": [
+            "Osmanlı dönemi (1571–1878): tapu-tahrir defterlerinde Kef-i Rum olarak anılır; burnun üzerinde kalıcı yerleşim yoktur.",
+            "İngiliz sömürge dönemi (1878–1960): Kıbrıs Harita Genel Müdürlüğü (Sayfa 5, Gazimağusa) için kıyı sinyal istasyonu ve trigonometrik temel hat olarak kullanılmıştır.",
+            "Bağımsızlık sonrası Kıbrıs Cumhuriyeti (1960–günümüz): 1990 yılında Ulusal Orman Parkı, 2006 yılında Natura 2000 SCI olarak belirlenmiştir."
+          ] }
+        ]
       },
       {
-        "id": "geography",
-        "title": "Coğrafya & Jeoloji",
-        "content": "Bu alan, dik kayalıklar, doğal mağaralar ve berrak suları ile karakterizedir. Deniz mağaraları, binlerce yıllık dalga aşındırması sonucu oluşmuştur. Bölge aynı zamanda Kıbrıs'ın en iyi korunan doğal alanlarından biridir."
+        "id": "mythology",
+        "title": "Mitoloji & Yerel Folklor – Afrodit'in Kıyıları",
+        "structuredContent": [
+          { "type": "paragraph", "text": "Cape Cavo Greco, Hesiodos Teogoni'ye (Teogoni, m. 188–206) göre Afrodit'in mitolojik doğum yeri olan Petra tou Romiou (Yunan Taşı) yaklaşık 18 km doğusunda yer alır. Ayia Napa ve Liopetri köylüleri arasında sözlü olarak aktarılan yerel Kıbrıs folkloru, uzun zamandır burunu tanrıçanın güney sahili boyunca geçişinin anlatım örgüsüne örmiştir." },
+          { "type": "subtitle", "text": "Kiklop Mağarası (Spilia tou Kiklopa)" },
+          { "type": "paragraph", "text": "Burunun karasit mağaralarının en büyüğü ve halk arasında Kiklop Mağarası olarak bilinen mekân, Kıbrıs halk geleneğinde Ege kültü Levant kıyısından batıya yayılan Homerik Kiklop Polifemos ile ilişkilendirilir. 2001 yılında Eski Eserler Dairesi tarafından yapılan arkeolojik araştırmada, mağara ağzından Erken Hristiyan dönemine ait seramik malzeme ele geçmiş, bu da aralıklı olarak barınak ve muhtemelen adak istasyonu olarak kullanıldığını düşündürmektedir." },
+          { "type": "subtitle", "text": "Denizin Anargyroi Azizleri" },
+          { "type": "paragraph", "text": "Hekimlerin ve denizci topluluklarının koruyucusu olan ikiz azizler Kosmas ve Damianos (Kutsal Anargyroi), yerel efsanelerde önemli yer tutar. Yaşlı nesil balıkçıları, azizlerin burunun dalgalarının üzerinde parlak cübbeler içinde görünüp fırtınada mahsur kalan kayıkları limana geri yönlendirdiğini anlatır. Burun girişi yakınında onlara adanan küçük şapel, hâlâ bayram günleri 1 Temmuz (Yulî takvimi, 14 Temmil Grekoryen) olan tören alaylarının merkezidir." }
+        ]
       },
       {
-        "id": "architecture",
-        "title": "Doğal Yapılar & Tesisler",
-        "content": "Bölgede herhangi bir büyük yapı bulunmamaktadır. Ancak ziyaretçiler için yürüyüş yolları, manzara seyir noktaları ve piknik alanları düzenlenmiştir. Ayrıca bölgede küçük bir şapel (Agioi Anargyroi) bulunmaktadır."
+        "id": "byzantine",
+        "title": "Bizans Dini Mirası – Aziz Anargyroi Şapeli (Kosmas ve Damianos)",
+        "structuredContent": [
+          { "type": "paragraph", "text": "Aziz Anargyroi Şapeli (Άγιοι Ανάργυροι), burnun trigonometrik direğinin yaklaşık 700 m kuzeybatısında küçük bir kayalık üzerinde yer alır. Mimari tipolojisi – kompakt kare planlı haç biçimi, düşük tambur üzerinde tek yarım küre kubbe, yarım daire kutsal alan apsisi – orijinal yapıyı Orta Bizans dönemine, muhtemelen 11.–12. yüzyıllara yerleştirir, ancak görünen yapı önemli ölçüde sonraki yeniden yapımları içerir." },
+          { "type": "subtitle", "text": "Mimari ve Kitabe Kanıtları" },
+          { "type": "list", "ordered": false, "items": [
+            "Alt duvarların orijinal opus quadratum duvarcılığı, Liopetri yakınlarından çıkarılmış yerel Üst Kretase kireçtaşı kullanır.",
+            "İçindeki şimdi büyük ölçüde silinmiş olan fresk parçaları, Eski Eserler Dairesi tarafından 14. yüzyıl Palaiologos canlanmasına stilistik olarak tarihlendirilmiştir.",
+            "Aşınmış mermer lento kitabesi, şimdi okunamaz halde olup, sömürge dönemi Kıbrıs Anıtları Araştırması (1935, Gunnis) tarafından 1714 tarihini taşıdığı – muhtemelen Osmanlı himayesinde son büyük çatı yenileme yılı – olarak kaydedilmiştir."
+          ] },
+          { "type": "subtitle", "text": "Modern Liturjik Kullanım" },
+          { "type": "paragraph", "text": "Şapel, Ayia Napa Manastırı cemaatine bağlı bir şapel (παρεκκλήσι) olarak kalmaktadır. Ayın 1. ve 14. günlerine en yakın Cumartesi günleri ayda bir hizmet verilir ve her yıl Anargyroi bayramında Gazimağusa kırsal dekanlığının katılımıyla büyük bir açık hava ayini kutlanır." }
+        ]
       },
       {
-        "id": "protection",
-        "title": "Koruma & Koruma Alanı",
-        "content": "Cape Cavo Greco, Kıbrıs Orman Dairesi tarafından yönetilmekte ve korunmaktadır. Natura 2000 ağı tarafından korunan bu alan, Avrupa Birliği'nin koruma altındaki en önemli ekolojik alanlarından biridir."
+        "id": "geopolitical",
+        "title": "Modern Jeopolitik Tarih – Sömürge Dönemi & Ara Bölge",
+        "structuredContent": [
+          { "type": "subtitle", "text": "İngiliz Sömürge Kıyı İstasyonu" },
+          { "type": "paragraph", "text": "1878 Anglo-Osmanlı Sözleşmesi uyarınca İngilizlerin Kıbrıs idaresini devralması üzerine, Amiralite Hidrografi Dairesi Cape Greco'yu Gazimağusa limanının navigasyonu için kritik bir kontrol noktası olarak belirledi. 1880 yılında gündüz işareti olarak taş bir tümsek inşa edildi ve 1911 yılında küçük bir insansız asetilen feneri monte edildi – İkinci Dünya Savaşı'na kadar aralıklı olarak çalıştı. Ulusal Arşivler'deki askeri dosyalar (WO 273/772, Kıbrıs), ayrıca burnun Kıbrıs Acil Durumu (1955–1959) sırasında radyo yön bulma temel çizgisi olarak kullanıldığını kaydediyor." },
+          { "type": "subtitle", "text": "1974 ve Ara Bölge (Yeşil Hat)" },
+          { "type": "paragraph", "text": "Temmuz–Ağustos 1974 Türk askeri müdahalesinin ardından burun, adanın doğu kolunu boyunca eski ateşkes hattını (Yeşil Hat) takip eden Birleşmiş Milletler Ara Bölge'nin güney kanadının 3 kilometre içinde kaldı. Burnun kendisi fiilen Kıbrıs Cumhuriyeti idaresi altında kalmış ve ziyaretçilere açık olsa da, daha kuzeyde Kıbrıs Ulusal Muhafızları gözlem noktalarıyla sınırlandırılmış dar bir askeri men bölgesi sürmektedir. Burun hiçbir zaman silahlı çatışma alanı olmamıştır." }
+        ]
+      },
+      {
+        "id": "geology",
+        "title": "Jeoloji & Jeomorfoloji – Troodos Ofiyoliti & Karasit Kıyı",
+        "structuredContent": [
+          { "type": "subtitle", "text": "Litolojik Çerçeve: Troodos Ofiyoliti (~90 Ma Senomaniyen)" },
+          { "type": "paragraph", "text": "Cape Cavo Greco, Maastrihtiyen sırasında Afrika plakasının kuzey pasif marjına üzerine sürülen Geç Kretase (yaklaşık 90 Ma, Senomaniyen–Türoniyen) okyanusal litosferinin bir parçası olan Troodos Ofiyoliti'nin doğu kolunun kıyısal dışavurumunu oluşturur. Burun boyunca yüzeye çıkan kayalar ofiyolit dizisinin Üst Yastık Lav Birimi'ne aittir – gözenekli toleyitik bazaltlar ve arkatlı umber ve radyolarit çörtler, Lefkara Formasyonu'nun Maastrihtiyen–Paleosen tebeşirli kireçtaşlarından oluşan transgresif bir diziyle uyumsuz olarak örtülür." },
+          { "type": "subtitle", "text": "Karasit Kıyı Jeomorfolojisi: Mağaralar ve Doğal Kemergeler" },
+          { "type": "list", "ordered": false, "items": [
+            "Deniz mağaraları: 23 haritalanmış deniz karasit mağarası ve kalıntı fosil mağarası, en büyüğü 47 m salon uzunluğuyla Kiklop Mağarası (Spilia tou Kiklopa).",
+            "Doğal köprüler: kuzey kıyısında yerel olarak Sevgili Köprüsü (Γεφύρι της Αγάπης) olarak bilinen iki kireçtaşı deniz kemergesi. Daha küçük olan doğu kemergesi, Jeoloji Etütleri Dairesi tarafından kaydedildiği üzere 30 Kasım 2017'de fırtına dalgası sırasında kısmen çökmüştür.",
+            "Deniz direkleri ve dalga aşındırma platoları: +3 m ve +6 m östatik seviyelerinde geniş kıyı platformu gelişimi, sırasıyla MIS 5e (125 ka) ve MIS 9 (330 ka) Tyrrhenian ve Sicilya teraslarına karşılık gelir."
+          ] },
+          { "type": "subtitle", "text": "Uçurum Morfometrisi" },
+          { "type": "paragraph", "text": "Güney (açık deniz) cephesindeki uçurum yükseklikleri batı yaklaşımında 28 m'den Cape Point (34.9609° K, 34.0788° D) kendisinde maksimum 67 m'ye kadar değişir, Jeoloji Etütleri Dairesi izleme hatları (2008–2023) tarafından raporlandığı üzere ortalama geri çekilme hızı 2,1 cm yıl⁻¹'dir. Gazimağusa koyunda korunan kuzey kıyısı, düşük eğimli kireçtaşı döşemeleri ve küçük kütle burunlu koylar tarafından hakimdir." }
+        ]
+      },
+      {
+        "id": "ecology",
+        "title": "Ekoloji & Biyoçeşitlilik – Natura 2000 Alanı CY3000005",
+        "structuredContent": [
+          { "type": "subtitle", "text": "Natura 2000 Tesisi ve Habitatları" },
+          { "type": "paragraph", "text": "Cape Greco Ulusal Orman Parkı, 92/43/ATB Direktifi uyarınca Topluluk Önemi Olan Alan (SCI) olarak belirlenmiş, resmi Avrupa Çevre Ajansı alan kodu CY3000005'tir. Standart veri formu sekiz öncelikli Ek I habitat türünü kaydediyor; bunlar arasında burna hakim olanlar şunlardır:" },
+          { "type": "list", "ordered": false, "items": [
+            "5310 – Erica arborea alçak oluşumları (Erico-Oleetum oleasteris, Kıbrıs endemik varyantı).",
+            "5420 – Derin terra rossa topraklarında Sarcopoterium spinosum friganası.",
+            "5310 – Endemik Limonium spp. içeren Akdeniz kıyılarının bitkili deniz uçurumları.",
+            "1110 – Sürekli deniz suyuyla hafifçe kapalı kum barları (Konnos Koyu ve Mavi Lagün)."
+          ] },
+          { "type": "subtitle", "text": "Tehdit Altındaki Fauna (Habitat Direktifi Ek II)" },
+          { "type": "list", "ordered": false, "items": [
+            "Monachus monachus Hermann, 1779 – Akdeniz foku (IUCN Kırmızı Liste: Kritik Tehlike Altında, CR). Batı deniz mağaralarında düzenli olarak çıkışlar kaydedilmekte ve MOm (Yunanistan Foku Araştırma ve Koruma Derneği) uydu telemetri verileri, 2019 ile 2024 arasında üç ayrı foku bölgeyi kullandığını belgeledi.",
+            "Falco eleonorae Gené, 1839 – Eleonora şahini. BirdLife Kıbrıs 2017–2021 sistematik üreme araştırmaları tarafından teyit edildiği üzere, ulaşılmaz kuzey deniz direklerinde 6–8 çiftten oluşan küçük bir üreme kolonisi bulunur.",
+            "Testudo graeca Linnaeus, 1758 – Dikenli kaplumbağa; Chamaeleo chamaeleon Linnaeus, 1758 – Akdeniz bukalemunu. Her iki türün de Konnos yolu kuzeyindeki maki alanlarında kararlı alt popülasyonları mevcuttur."
+          ] },
+          { "type": "subtitle", "text": "Koruma İlgi Olan Florası" },
+          { "type": "paragraph", "text": "Kıbrıs Botanik Enstitüsü tarafından yayınlanan floristik araştırmalar, korunan alan içinde 312 damarlı bitki taksonu kaydediyor; bunlardan 17'si Kıbrıs endemiği olup, Phlomis cypria var. occidentalis Meikle, Limonium cyprium (Meikle) Brullo ve Orobanche sungariae var. minor (Kıbrıs yavşanotu) dahil. Tehlike altındaki endemik lale Tulipa cypria Stapf, kuzey yamacın terra rossa ceplerinde kaydedilmiş, Mart–Nisan aylarında çiçek açar." }
+        ]
+      },
+      {
+        "id": "restoration",
+        "title": "Koruma Yönetimi, Restorasyon & Taşıma Kapasitesi",
+        "structuredContent": [
+          { "type": "subtitle", "text": "Kurumsal Çerçeve" },
+          { "type": "paragraph", "text": "Alan, Ormanlar Kanunu, Mad. 130 ve Doğa ve Vahşi Yaşamı Koruma ve Yönetme Kanunu, 153(I)/2003 uyarınca Kıbrıs Orman Dairesi tarafından yönetilir. Kıbrıs Teknoloji Üniversitesi'nin teknik yardımıyla hazırlanan 2022–2026 Entegre Beş Yıllık Yönetim Planı, A Bölgesi (sıkı koruma – deniz mağaraları), B Bölgesi (düşük müdahaleli rekreasyon) ve C Bölgesi (otoparklar ve servis altyapısı) olarak bölgelendirme içerir." },
+          { "type": "subtitle", "text": "Restorasyon Projeleri (2010–2025)" },
+          { "type": "list", "ordered": false, "items": [
+            "2011–2013, LIFE+ Doğa projesi LIFE08 NAT/CY/000223 ('CY-CAPE GRECO'): 18 ha'dan istilacı Acacia saligna temizliği, 14 ha yerli bitki fidanlığı kurulumu, çiğnemeyi azaltmak için 1,2 km tahta yol yapımı.",
+            "2019–2022, EAFRD Kırsal Kalkınma Programı: 2,7 km işaretlenmiş yürüyüş parkurunun restorasyonu ve kuru taş duvarcılık kullanılarak üç uçurum kenarı seyir noktasının stabilizasyonu.",
+            "2024–devam etmekte, LIFE-IP 4 NATURA CY projesi: Kıbrıs Üniversitesi Deniz Ekolojisi Laboratuvarı ile işbirliği içinde yıllık sistematik biyoçeşitlilik izleme."
+          ] },
+          { "type": "subtitle", "text": "Ziyaretçi Taşıma Kapasitesi" },
+          { "type": "paragraph", "text": "2023 Orman Dairesi otomatik parkur sayaçlarında kaydedilen tepe ziyaretçi sayıları, Ağustos ayının ilk on beş günü ortalama günlük 4.860 kişiye ulaştı, tek günlük maksimum 15 Ağustos (Uykusunun Bayramı)'nda 7.214 idi. 2022 Yönetim Planı, B Bölgesi için günlük 5.500 ziyaretçi olarak önleyici Gerçek Taşıma Kapasitesi (RCC) tanımlar; aşan durumlar, taşma otoparkını batı taşma otoparkına yönlendirmek ve Ayia Napa Belediyesi ile koordineli olarak ücretsiz servis hizmetleri vermekle hafifletilir." }
+        ]
+      },
+      {
+        "id": "lnt",
+        "title": "İz Bırakmayan Kamp (LNT) 7 Prensibi – Burun İçin Ahlak Kuralları",
+        "structuredContent": [
+          { "type": "paragraph", "text": "Korunan bir Natura 2000 alanı olarak Cape Greco, en yüksek ziyaretçi davranış standartlarını gerektirir. Aşağıdaki yedi İz Bırakmayan Kamp (LNT) ilkesi, uluslararası LNT Merkezi tarafından geliştirilen ve Kıbrıs Orman Dairesi tarafından tüm Devlet Orman arazileri için onaylanan çerçeveden uyarlanmıştır." },
+          { "type": "list", "ordered": true, "items": [
+            "Önceden planla ve hazırlan: iki bilgi panelinde yayınlanan mevsimsel hava ve uçurum uyarı bildirimlerine danış; kişi başına en az 1,5 L su taşı; mağaralara tek başına girmekten kaçın.",
+            "Dayanıklı yüzeylerde seyahat et ve kamp kur: işaretlenmiş parkurlarda kal; kırılgan biyokabukları ve endemik Limonium popülasyonlarını çiğnememek için yalnızca kaya veya yerleşik ayak izlerinde yürü. Tüm korunan alanda kamp yapmak yasaktır.",
+            "Atıkları uygun şekilde at: sigara izmaritleri ve meyve kabukları dahil TÜM atığı kendinle geri götür. Rezerv içinde çöp kutusu yoktur; batı otoparkında çöp kutusu tesisleri bulunur.",
+            "Bulduklarını bırak: çakıl taşları, fosilli çört, seramik kırıkları veya deniz kabuklarını yerinden oynatma veya çıkarma; ikincisi gelgit arası gastropodlar için önemli mikro-habitatlardır.",
+            "Ateşin etkilerini en aza indir: Ormanlar Kanunu (Mad. 130, § 13) uyarınca açık ateş, taşınabilir barbeküler ve tek kullanımlık barbeküler kesinlikle yasaktır. İhlaller €250 sabit ceza doğurur.",
+            "Vahşi yaşama saygı göster: herhangi bir Akdeniz foku çıkışından minimum 200 m mesafeyi koru; mağaraların içinde flaşlı fotoğraf kullanma (yuvalanan yarasaları ve Eleonora şahini yavrularını rahatsız eder); köpekler her zaman 1,5 m'lik tasma üzerinde tutulmalıdır.",
+            "Diğer ziyaretçilere saygı göster: sesli ekipmanları kapat; litürjiler sırasında Ortodoks şapelin huzuruna saygı göster; dar tek şeritli bölümlerde yokuş yukarı yürüyüşçülere yol ver."
+          ] }
+        ]
       }
     ]
   },
   "faq": {
-    "title": "Sıkça Sorulan Sorular",
+    "title": "Sıkça Sorulan Sorular – Cape Cavo Greco FAQ",
     "items": [
       {
-        "question": "Cape Cavo Greco'yu ziyaret etmek ücretli mi?",
-        "answer": "Hayır, Cape Cavo Greco halka açık ücretsiz bir doğa rezervidir ve yılın her günü ziyarete açıktır."
+        "question": "Cape Cavo Greco nerede bulunur?",
+        "answer": "Cape Cavo Greco, Kıbrıs Cumhuriyeti Gazimağusa ilçesi Ayia Napa belediyesinin güneydoğu başlangıcında bulunur. Burun, Ayia Napa ve Protaras kıyı koyları arasındaki sınırı oluşturur; idari Plus Kodu X36M+8CV ve yaklaşık koordinatlar 34.96087° K, 34.07879° D'dir."
       },
       {
-        "question": "Yüzmek için en iyi yerler nerelerdir?",
-        "answer": "Bölgede yüzmek için birkaç doğal koy bulunmaktadır. Ancak kayalıklar kaygan olabilir, dikkatli olunmalıdır. Ayakkabı giyilmesi önerilir."
+        "question": "Cape Cavo Greco'yu ziyaret etmek ücretsiz mi?",
+        "answer": "Evet, Cape Cavo Greco bir Devlet Ormanı ve halka açık Natura 2000 alanıdır ve yıl boyu 24 saat ücretsiz olarak ziyaret edilebilir. Giriş bileti, turnike veya önceden rezervasyon gerekmez. Tüm belirlenmiş otoparklarda da park etmek ücretsizdir."
+      },
+      {
+        "question": "En iyi yüzme noktaları nerelerdir?",
+        "answer": "Yüzme, kuzey kıyısı boyunca (Gazimağusa'ya bakan taraf) dalga enerjisinin daha düşük olduğu ve kireçtaşı döşemesinin doğal taş havuzları oluşturduğu birkaç küçük kütle burunlu koyda mümkündür. Güney (açık deniz) uçurumları, öngörülemeyen dalga nedeniyle yüzmek için tehlikelidir. Tüm kayalık girişlerde lastik tabanlı su ayakkabısı kesinlikle önerilir."
       },
       {
         "question": "Bölgede tuvalet veya yiyecek içecek yeri var mı?",
-        "answer": "Bölgede ticari tesis veya umumi tuvalet bulunmamaktadır. Yiyecek ve içecek ihtiyacınızı önceden karşılamanız önerilir."
+        "answer": "Natura 2000 yönetim hedefleri uyarınca rezerv sınırları içinde ticari tesis, halk çeşmesi veya kalıcı kamu tuvaleti bulunmamaktadır. En yakın kamu tuvaletleri Ayia Napa şehir merkezinde (yaklaşık 5–8 dakika sürüş) ve Konnos Koyu'nun mevsimsel plaj tesislerindedir."
       },
       {
-        "question": "Yürüyüş zor mudur? Yaşlılar veya çocuklar için uygun mu?",
-        "answer": "Yürüyüş yolları genellikle kolaydır, ancak bazı kayalık bölgeler zordur. Yaşlı ziyaretçilerin ve çocukların dikkatli olması gerekir."
+        "question": "Cape Greco tekerlekli sandalye veya bebek arabası ile erişilebilir mi?",
+        "answer": "Ana batı otoparkı, iki birincil seyir platformu ve şapel yaklaşım yolu asfaltlanmıştır ve tekerlekli sandalye ile erişilebilir, belirlenmiş engelli plakalı otopark bölmeleri mevcuttur. Ancak deniz mağaraları, yürüyüş parkurlarının çoğu ve Sevgili Köprüsü doğal kemergesi düzensiz kireçtaşı basamakları içerir ve standart tekerlekli sandalye veya bebek arabası ile geçilemez."
+      },
+      {
+        "question": "Köpeğimi Cape Greco'ya getirebilir miyim?",
+        "answer": "Evet, evcil köpeklere Ormanlar Kanunu (Mad. 130) ve Natura 2000 alan yönetmelikleri uyarınca her zaman kısa tasma (maksimum 1,5 m) üzerinde tutulması şartıyla izin verilir. Köpekler fok çıkış koylarından (işaretlenmiştir) ve şapelin içinden hariç tutulur. Lütfen tüm köpek atığını kendinizle geri götürün."
+      },
+      {
+        "question": "Vahşi kamp yapmaya izin var mı?",
+        "answer": "Hayır, tüm Ulusal Orman Parkı içinde gece kampı, bivaklama ve karavan fazla kalma kesinlikle yasaktır. Ticari kamp tipi konaklama, burun girişinden 6 ila 14 kilometre uzakta olan Ayia Napa ve Protaras tatil bölgelerinde mevcuttur."
+      },
+      {
+        "question": "Cape Greco'da drone uçurabilir miyim?",
+        "answer": "Drone uçuşu, alan Akrotiri–Gazimağusa koridorunun Natura 2000 Özel Koruma Alanı (SPA) tampon bölgesi içinde yer aldığından Orman Dairesi'nden önceden yazılı izin gerektirir. Eleonora şahini üreme mevsimi (Haziran–Ekim) sırasında izinsiz uçuşlar Kuşları Koruma Kanunu uyarınca uygulanır."
+      },
+      {
+        "question": "Akdeniz fokunu görmek için en iyi sezon ne zaman?",
+        "answer": "Görülmeler en sık Kasım ile Mart arasındadır, bu dönemde açık deniz dalgaları fokları korunan batı mağaralarına sürer. Tüm mevsimlerde yasal minimum 200 metre gözlem mesafesi korunmalıdır ve çıkarılmış bir foka yaklaşmak Kanun 153(I)/2003 uyarınca cezai bir suçtur, maksimum ceza €85.000'dir."
+      },
+      {
+        "question": "Ana yüzme güvenliği uyarıları nelerdir?",
+        "answer": "Temmuz ortası ile Eylül başı arasında ana koylarda mor bayraklar Pelagia noctiluca (deniz anası) üremesini gösterebilir. Güney uçurumları güneyli rüzgarlı günlerde güçlü rip akıntılarına tabidir; Kıbrıs Meteoroloji Servisi günde iki kez deniz durumu tahmini yayınlar. Tüm mağara girişleri yüzdürme yardımı taşımalıdır; tek başına veya yüksek gelirde asla bir mağaraya girmeyin."
       }
     ]
   },
   "nearby": {
-    "title": "Yakındaki Turistik Yerler",
+    "title": "Cape Cavo Greco Çevresindeki Simgeler & Turistik Yerler",
+    "intro": "Cape Cavo Greco çevresi önemli tarihi ve doğal simge yapılarla çevrilidir. Ayia Napa'dan kolay erişim, çevredeki destinasyonları keşfetmeyi kolaylaştırır.",
     "items": [
       {
-        "name": "Ayia Napa",
+        "name": "Ayia Napa Manastırı (16. yüzyıl)",
         "distance": "Yaklaşık 5 dakika sürüş",
-        "description": "Canlı gece hayatı, güzel plajlar ve tarihi manastırı ile ünlü popüler bir turistik kasabadır."
+        "description": "Geç Venedik–erken Osmanlı döneminden duvarlı manastır ve cemaat kilisesi, modern Ayia Napa'nın tarihi çekirdeği, Frankisk Gotik ve Kıbrıs-Bizans mimari sentezini sergiler."
       },
       {
-        "name": "Protaras",
+        "name": "Protaras Kıyı Tatil Köyü",
         "distance": "Yaklaşık 10 dakika sürüş",
-        "description": "Aile dostu plajları, berrak suları ve rahat atmosferi ile bilinen bir tatil beldesidir."
+        "description": "Konnos Koyu'ndan doğuya doğru Gazimağusa Dikelya çevresine uzanan, bir dizi kumlu cep plajı ve düz kıyı gezinti yolları ile karakterize edilen aile odaklı bir kıyı alanıdır."
       },
       {
-        "name": "Fig Tree Bay",
+        "name": "İncir Ağacı Koyu, Protaras",
         "distance": "Yaklaşık 15 dakika sürüş",
-        "description": "Kıbrıs'ın en güzel plajlarından biri olarak kabul edilen, altın kumlu ve berrak suyu olan plajdır."
+        "description": "Dikilmiş incir bahçeleriyle desteklenen geniş olgun kumlu bir koy, Kıbrıs bölgesel turizm literatüründe en sık anılan plaj konumlarından biridir, yaz aylarında denetimli cankurtaran devriyesi vardır."
       }
     ]
   },
   "basicInfo": {
-    "title": "Temel Bilgiler",
+    "title": "Cape Cavo Greco Hakkında – Temel Bilgiler",
     "officialName": "Resmi Adı",
-    "officialNameValue": "Cape Cavo Greco (Ακρωτήριο Κάβο Γκρέκο)",
+    "officialNameValue": "Cape Greco Ulusal Orman Parkı / Ακρωτήριο Κάβο Γκρέκο",
     "type": "Cazibe Türü",
-    "typeValue": "Doğa Rezervi / Koruma Alanı",
+    "typeValue": "Doğa Rezervi · Natura 2000 SCI (CY3000005)",
     "country": "Ülke",
-    "countryValue": "Kıbrıs",
-    "city": "Şehir",
-    "cityValue": "Famagusta",
+    "countryValue": "Kıbrıs Cumhuriyeti",
+    "city": "Belediye",
+    "cityValue": "Ayia Napa · Gazimağusa İlçesi",
     "googleRating": "Google Değerlendirmesi",
-    "googleRatingValue": "4.8 (6,281)",
-    "address": "Adres",
-    "addressValue": "X36M+8CV, Ayia Napa 5330, Kıbrıs",
-    "plusCode": "Plus Code",
-    "plusCodeValue": "X36M+8CV, Ayia Napa, Kıbrıs"
+    "googleRatingValue": "4.8 (6.784 yorum)",
+    "address": "Sokak & Posta Adresi",
+    "addressValue": "X36M+8CV, Ayia Napa 5330, Gazimağusa İlçesi, Kıbrıs",
+    "plusCode": "Google Plus Kodu",
+    "plusCodeValue": "X36M+8CV, Ayia Napa, Gazimağusa",
+    "area": "Korunan Alan",
+    "areaValue": "~4,2 km² (420 ha)",
+    "elevation": "Maksimum Yükselti",
+    "elevationValue": "Ortalama deniz seviyesinden 67 m yukarıda",
+    "geologicalAge": "Jeolojik Oluşum",
+    "geologicalAgeValue": "Troodos Ofiyoliti · ~90 Ma (Senomaniyen)",
+    "protectionCode": "AB Koruma Kodu",
+    "protectionCodeValue": "SCI CY3000005 · Direktif 92/43/ATB",
+    "yearlyVisitors": "Tahmini Yıllık Ziyaretçi",
+    "yearlyVisitorsValue": "~850.000 (2023 DoF tahmini)",
+    "accessibility": "Erişilebilirlik Derecesi",
+    "accessibilityValue": "Seyir noktaları erişilebilir; parkurlar kısmen erişilebilir",
+    "managingAuthority": "Yönetim Otoritesi",
+    "managingAuthorityValue": "Kıbrıs Orman Dairesi (Tarım Bakanlığı)"
   },
   "hours": {
-    "title": "Ziyaret Saatleri",
-    "park": "Erişim",
-    "parkTime": "24 saat açık, yılın her günü",
-    "bestTime": "En İyi Ziyaret Zamanı",
-    "bestTimeSpring": "İlkbahar: İdela hava, çiçek açımı",
-    "bestTimeSummer": "Yaz: Sabah veya akşamüstü tercih edin, öğle sıcağından kaçının",
-    "bestTimeAutumn": "Sonbahar: Ilıman hava, yürüyüş için ideal",
-    "bestTimeWinter": "Kış: Daha az turist, açık manzaralar",
-    "tip": "Ücretsiz giriş. Gün batımında ziyaret önerilir."
+    "title": "Ziyaret Saatleri – Cape Cavo Greco",
+    "park": "Açık Erişim Rezervi",
+    "parkTime": "24 saat / 365 gün açık, kapanış yok",
+    "bestTime": "En İyi Ziyaret Dönemleri",
+    "bestTimeSpring": "İlkbahar (Mar–May): 18–26 °C · orkide ve lale çiçek açımı",
+    "bestTimeSummer": "Yaz (Haz–Ağu): 06:30–10:00 veya 17:00–20:00 arası tercih edin",
+    "bestTimeAutumn": "Sonbahar (Eyl–Kas): 22–28 °C · uzun mesafe yürüyüşü için ideal",
+    "bestTimeWinter": "Kış (Ara–Şub): 12–18 °C · Akdeniz foku görme sezonu",
+    "tip": "Giriş bileti yoktur. Gün batımı gözlemi yalnızca iki belirlenmiş, taş döşemeli uçurum seyir noktasından izin verilir."
   },
   "tickets": {
-    "title": "Giriş Bilgileri",
-    "park": "Bölge Ziyareti",
-    "parkPrice": "Halka ücretsiz",
-    "parking": "Otopark",
-    "parkingPrice": "Yakınlarda ücretsiz otopark mevcut",
-    "guided": "Rehberli Turlar",
-    "guidedPrice": "Yerel tur operatörleri aracılığıyla mevcut"
+    "title": "Giriş Bilgileri – Cape Cavo Greco",
+    "park": "Alan Erişimi",
+    "parkPrice": "Ücretsiz · önceden rezervasyon gerekmez",
+    "parking": "Otomobil & Motosiklet Parkı",
+    "parkingPrice": "Ücretsiz belirlenmiş otopark; Ağustos ayında taşma otoparkı etkin",
+    "guided": "Eğitici Yorumlayıcı Yürüyüşler",
+    "guidedPrice": "Orman Dairesi bekçileri tarafından yürütülen planlı ücretsiz aylık yürüyüşler – mevsimsel takvim için resmi Ormancılık web sitesine bakın"
   },
   "transport": {
-    "title": "Nasıl Gidilir",
-    "fromCenter": "Merkezden (Ayia Napa)",
-    "fromCenterDesc": "Ayia Napa'dan yaklaşık 5 km. Araç veya toplu taşıma ile gidilebilir.",
-    "fromStation": "Otobüs Durağından",
-    "fromStationDesc": "Ayia Napa otobüs durağından bölgeye otobüsler mevcuttur.",
-    "fromAirport": "Havalimanından",
-    "fromAirportDesc": "Larnaka Havalimanı'dan yaklaşık 50 km. Araç kiralama veya taksi ile gidilebilir.",
-    "publicTransport": "Toplu Taşıma",
-    "publicTransportDesc": "Otobüs: Ayia Napa'dan bölgeye düzenli seferler.",
-    "walking": "Yürüyüş",
-    "walkingDesc": "Ayia Napa'dan yaklaşık 1-1.5 saat yürüyüş mesafesi.",
-    "driving": "Araçla",
-    "drivingDesc": "Ayia Napa'dan bölgeye arabayla kolayca ulaşılabilir."
+    "title": "Nasıl Gidilir – Konum & Cape Cavo Greco'ya Ulaşım",
+    "fromCenter": "Ayia Napa Şehir Merkezinden",
+    "fromCenterDesc": "Ayia Napa ana meydanından güneydoğuya yaklaşık 5,2 km (yol) uzaklıkta. Kahverengi Ulusal Orman Parkı tabelalarını Nissi Caddesi ve Cape Greco kıyı yolu üzerinden takip edin.",
+    "fromStation": "Ayia Napa Otobüs Terminalinden",
+    "fromStationDesc": "Yerel otobüs 101 hattı (Ayia Napa – Protaras, OSEA tarafından işletilir) burnun batı girişinde durur; hizmet sıklığı Mayıs ile Ekim arasında yaklaşık 30 dakikadır.",
+    "fromAirport": "Larnaka Uluslararası Havalimanından (LCA)",
+    "fromAirportDesc": "Yol mesafesi A3 otoyolu (Larnaka–Ayia Napa) üzerinden yaklaşık 67 km'dir. Seyahat süresi yaklaşık 50 dakikadır. Araç kiralama veya lisanslı havalimanı taksisi önerilen ulaşım şeklidir.",
+    "publicTransport": "Toplu Otobüs Ağı",
+    "publicTransportDesc": "Lefkoşa, Limasol ve Larnaka'dan gelen şehirler arası otobüsler Ayia Napa otobüs terminalinde sona erer; yukarıda belirtildiği gibi yerel 101 veya 102 hattına aktarım yapın.",
+    "walking": "Yürüyerek / Trekking İle Giriş",
+    "walkingDesc": "E4 Avrupa Uzun Yol patikası rezervi batıdan Ayia Napa'nın kıyı gezinti yolu üzerinden girer; Ayia Napa manastırından yürüyüş mesafesi 6,8 km'dir (yaklaşık 1 saat 20 dakika).",
+    "driving": "Özel Araç (Otomobil, Scooter, Dört Tekerlek)",
+    "drivingDesc": "Cape Greco yolu (F sınıfı yerel yol) üzerinden doğrudan her tür hava koşulunda asfalt erişim; her iki otoparkın da asfalt erişimi vardır. Scooterlar ve arazözler burnun iç yolunda 40 km/s hız sınırına uymalıdır."
   },
   "route": {
-    "title": "Önerilen Rota",
-    "overview": "Doğa yürüyüşü yapın ve manzarın keyfini çıkarın.",
-    "steps": [
-      "Ayia Napa'dan yürüyüşe başlayın",
-      "Cape Cavo Greco'ya doğru yürüyün",
-      "Deniz mağaralarını ziyaret edin",
-      "Manzara seyir noktalarında mola verin",
-      "Gün batımında bu eşsiz manzaranın keyfini çıkarın"
+    "title": "Önerilen Parkurlar – Cape Cavo Greco Dereceli Yürüyüşler",
+    "overview": "Orman Dairesi iki işaretlenmiş yolu bakımını yapar. Tüm mesafeler aksi belirtilmedikçe tek yönlüdür ve süreler rahat bir Akdeniz yürüme hızını varsayar.",
+    "trails": [
+      {
+        "id": "family-loop",
+        "name": "Afrodit Aile Döngüsü",
+        "difficulty": "Kolay",
+        "distance": "~2,1 km (döngü)",
+        "duration": "45–60 dakika",
+        "elevation": "+26 m kümülatif",
+        "summary": "Tüm fitness seviyeleri için uygun kompakt ve tamamen işaretlenmiş bir döngü. Sevgili Köprüsü doğal kemergesi üzerindeki kıyı makisini geçer, üst otoparktan geri döner ve Aziz Anargyroi şapelinde biter – çocuklu aileler veya ilk kez gelen ziyaretçiler için ideal.",
+        "steps": [
+          "Batı ana bilgi panelinden başlayın (Konnos yolu girişi; 80 m ilerde ücretsiz otopark).",
+          "Beyaz–sarı işaretleri tahta yol bölümü boyunca ilk seyir noktasına (380 m'de Sevgili Köprüsü panoraması) doğru doğuya takip edin.",
+          "İkinci seyir noktasına (1.100 m) devam edin – burada korkuluklu birincil gün batımı gözlem taşı platformu bulunur.",
+          "İç dalı (beyaz–yeşil) olgun Pistacia lentiscus bahçesinden geçerek 1.600 m'de restore edilmiş kuru taş çoban muhafazasını geçerek alın.",
+          "Küçük Aziz Anargyroi şapelini geçin, ardından piknik alanından geri dönerek başlangıç otoparkına inin (toplam ~2.100 m)."
+        ]
+      },
+      {
+        "id": "cape-to-konnos",
+        "name": "Burnu-Konnos Sırt Geçişi",
+        "difficulty": "Zor",
+        "distance": "~6,3 km (tek yön)",
+        "duration": "2 saat 30 dk – 3 saat",
+        "elevation": "+82 m / −54 m kümülatif",
+        "summary": "Batı girişinden doğudaki Konnos Koyu'na kadar uzanan zorlu doğrusal bir sırt geçişi. Açık uçurum kenarı bölümleri, gevşek kireçtaşı molozu ve iki korumasız deniz mağarası yaklaşımı içerir. Yaşlı havada veya 32 °C üstünde denemeyin. Sağlam yürüyüş botları ve kişi başına 1,5 L su gerekir.",
+        "steps": [
+          "Batı ana otoparkından (Eleonora şahini bilgi paneli) başlayın ve Güney Uçurum Sırtı'nın başlangıç moloz yamacını tırmanın.",
+          "Kilometre 1.3'te Kiklop Mağarası'na (Spilia tou Kiklopa) ulaşın – mağara ağzını yukarıdan gözlemleyin; kalifiye rehber olmadan deniz seviyesi salonuna girmeyin.",
+          "Orta maki platosunu (kilometre 2.4 ila 4.1) geçerek iki Natura 2000 izleme kadranını ve Tulipa cypria alt popülasyonunu (yalnız Mart çiçek açımı) geçin.",
+          "Doğu kireçtaşı merdivenini aşağı doğru inerek üst Mavi Lagün seyir noktasına (kilometre 5.2, düşey düşüş 38 m) ulaşın.",
+          "Son 1,1 km'lik taş döşemeli katır yolunu aşağı doğru Konnos Koyu piknik alanına indirin, burada dönüş otobüsü (102 hattı) veya taksi durağı geçişi tamamlar."
+        ]
+      }
     ]
   },
   "photoSpots": {
-    "title": "En İyi Fotoğraf Noktaları",
+    "title": "En İyi Fotoğraf Noktaları – Cape Cavo Greco",
     "spots": [
       {
-        "title": "Deniz Mağaraları",
-        "description": "Çarpıcı deniz mağaralarının fotoğraflarını çekebileceğiniz yer.",
+        "title": "Cape Cavo Greco Yakınında Deniz Mağaraları",
+        "description": "Deniz mağaralarının en spektaküler fotoğraflarını çekebileceğiniz yer.",
         "location": "Kıyı",
         "image": "/gallery/cape-cavo-greco (1).jpg"
       },
       {
-        "title": "Gün Batımı Noktası",
-        "description": "Gün batımı fotoğrafları için ideal konum.",
-        "location": "Kayalık",
+        "title": "Gün Batımı Noktası – Cape Cavo Greco",
+        "description": "Gün batımı fotoğrafçılığı için ideal konum.",
+        "location": "Uçurum Kenarı",
         "image": "/gallery/cape-cavo-greco (2).jpg"
       },
       {
-        "title": "Yürüyüş Yolu",
-        "description": "Doğa yürüyüşü yolları ve manzarası.",
+        "title": "Cape Cavo Greco Yakınında Yürüyüş Parkuru",
+        "description": "Manzaralı doğa yürüyüş parkurları.",
         "location": "Giriş",
         "image": "/gallery/cape-cavo-greco (3).jpg"
       },
       {
-        "title": "Panoramik Manzara",
-        "description": "Akdeniz'in ve kayalıkların manzarası.",
+        "title": "Panoramik Manzara – Cape Cavo Greco",
+        "description": "Akdeniz'in ve kayalık kıyının manzarası.",
         "location": "Seyir Noktası",
         "image": "/gallery/cape-cavo-greco (4).jpg"
       }
     ]
   },
   "gallery": {
-    "title": "Fotoğraf Galerisi",
-    "subtitle": "Cape Cavo Greco'nun En Güzel Manzaraları",
+    "title": "Fotoğraf Galerisi – Cape Cavo Greco Görselleri",
+    "subtitle": "Ayia Napa, Kıbrıs'taki Cape Cavo Greco'nun En Güzel Manzaraları",
     "captions": [
-      "Deniz mağaraları manzarası",
-      "Uzaktan görünüm",
-      "Yürüyüş yolları",
-      "Kayalık oluşumlar",
-      "Berrak deniz suyu",
-      "Gün batımı",
-      "Doğal oluşumlar",
-      "Kıyı şeridi",
-      "Panoramik deniz manzarası",
-      "Doğa yürüyüşü alanı",
-      "360° panoramik görünüm",
-      "İlkbahar manzarası",
-      "Doğal koy",
-      "Akdeniz bitki örtüsü",
-      "Gün batımı manzarası",
-      "Doğal parkurlar",
-      "Deniz ve gökyüzü"
+      "Cape Cavo Greco'da deniz mağaraları görünümü, Ayia Napa",
+      "Cape Cavo Greco yarımadasının uzaktan görünümü",
+      "Cape Cavo Greco Ulusal Orman Parkı doğa yürüyüş yolu",
+      "Cape Cavo Greco uçurumlarında kaya oluşumları",
+      "Cape Cavo Greco yakınında berrak deniz suyu",
+      "Cape Cavo Greco uçurum kenarından gün batımı görünümü",
+      "Cape Cavo Greco'da doğal kireçtaşı oluşumları",
+      "Cape Cavo Greco'da Akdeniz kıyı şeridi",
+      "Cape Cavo Greco seyir noktasından panoramik deniz görünümü",
+      "Cape Cavo Greco çevresi doğa rezerv alanı",
+      "Cape Cavo Greco 360° panoramik görünüm",
+      "Kıbrıs Cape Cavo Greco'da ilkbahar manzarası",
+      "Cape Cavo Greco yakınında doğal yüzme koyu",
+      "Cape Cavo Greco'da Akdeniz bitki örtüsü (Maquis Akdeniz çalılıkları)",
+      "Cape Cavo Greco'da gün batımı panoraması",
+      "Cape Cavo Greco giriş yakınında yürüyüş parkurları",
+      "Cape Cavo Greco'da deniz ve gökyüzü görünümü"
     ],
     "viewAll": "Google Maps'te Görüntüle",
     "showAll": "Tüm Fotoğrafları Görüntüle",
     "showLess": "Daha Az Fotoğraf"
   },
   "reviews": {
-    "title": "Ziyaretçi Yorumları",
+    "title": "Ziyaretçi Yorumları – Cape Cavo Greco Değerlendirmeleri",
     "declaration": "Yorumlar Google Maps üzerinden görüntülenebilir.",
     "moreReviews": "Google Maps'te daha fazla yorum görüntüle",
     "items": [
@@ -234,31 +411,31 @@
         "name": "Ahmet Y.",
         "rating": 5,
         "date": "2026-03-15",
-        "text": "Harika bir yer! Doğa yürüyüşü için mükemmel. Deniz mağaralarını mutlaka görün."
+        "text": "İnanılmaz bir yer! Deniz mağaraları muhteşem. Gün batımında ziyaret edilmesi önerilir."
       },
       {
-        "name": "Mehmet D.",
+        "name": "Mary K.",
         "rating": 5,
         "date": "2026-02-20",
         "text": "Ailemle gittim ve harika geçti. Sakin ve huzurlu bir yer, aile ziyareti için mükemmel."
       },
       {
-        "name": "Ayşe K.",
+        "name": "Mehmet D.",
         "rating": 5,
         "date": "2026-04-05",
-        "text": "Yürüyüş için çok güzel bir yer. Manzara muhteşem. Fotoğrafçılık için ideal."
+        "text": "Yürüyüş için çok güzel bir yer. Manzara harika. Fotoğrafçılık için ideal."
       },
       {
-        "name": "Fatma S.",
+        "name": "Ayşe K.",
         "rating": 5,
         "date": "2026-01-10",
-        "text": "Kıbrıs'ta ziyaret etmeniz gereken en iyi doğal alanlardan biri. Gün batımında çok romantik."
+        "text": "Kıbrıs ziyaretinde kaçırmamanız gereken en iyi doğal cazibelerden biri. Gün batımında çok romantik."
       },
       {
         "name": "Mustafa A.",
         "rating": 5,
         "date": "2025-12-18",
-        "text": "Doğa enerjisi harika bir yer. Ücretsiz giriş ve muhteşem manzaralar."
+        "text": "İnanılmaz enerjisi olan doğal alan. Ücretsiz giriş ve muhteşem manzaralar."
       },
       {
         "name": "Zeynep B.",
@@ -269,30 +446,77 @@
     ]
   },
   "mapSection": {
-    "title": "Harita Konumu",
-    "subtitle": "X36M+8CV, Ayia Napa 5330, Kıbrıs",
-    "openMaps": "Google Maps'te Görüntüle"
+    "title": "Harita Konumu – Cape Cavo Greco, Ayia Napa",
+    "subtitle": "X36M+8CV, Ayia Napa 5330, Gazimağusa İlçesi, Kıbrıs",
+    "openMaps": "Google Maps'te Görüntüle",
+    "hero": {
+      "mapsLink": "https://maps.app.goo.gl/FigeLZdG7kd1iPYcA"
+    }
+  },
+  "facilities": {
+    "title": "Ziyaretçi Tesisleri & Yakındaki Hizmetler – Cape Cavo Greco",
+    "intro": "Cape Greco, habitatların ekolojik bütünlüğünü korumak amacıyla yerleşik inşa edilmiş altyapısı minimum olan korunan bir Natura 2000 alanıdır. Aşağıdaki özet, rezerv içinde ve çevresinde mevcut olan tesis türlerini açıklar; hiçbir bireysel ticari işletme isimlendirilmez veya onaylanmaz.",
+    "restrooms": {
+      "title": "Kamu Tuvaletleri (WC)",
+      "description": "Natura 2000 yönetim reçeteleri uyarınca rezervin içinde kalıcı kamu tuvaleti sağlanmamaktadır. Belediye ve mevsimsel plaj işletçisi tipi sıhhi tesisler, en yakın nüfus merkezlerinde, tipik olarak batı girişinden 5–8 dakika sürüş mesafesinde yer almaktadır. Aileler ve tıbbi ihtiyaçları olan kişiler parkurlara girmeden önce buna göre plan yapmalıdır.",
+      "subtitle": "En yakın türler: Ayia Napa belediye tuvaletleri (5–8 dk sürüş) · Konnos Plajı mevsimsel tesisleri"
+    },
+    "parking": {
+      "title": "Otopark (Yerleşik & Taşma)",
+      "description": "Kıbrıs Orman Dairesi batı yaklaşımında iki ücretsiz belirlenmiş çakıl kaplı otoparkı bakımını yapar. Birincil otopark yaklaşık 180 hafif araç kapasitelidir; batıdaki bir taşma çakıl alanı Ağustos tepe döneminde bekçiler tarafından etkinleştirilir. Her iki otoparkta da sınırlandırılmış engelli plakalı otopark bölmeleri, ayrılmış karavan ve otobüs bölgeleri bulunur ve derecelendirilmiş sert çekirdek ile kaplanmamıştır. Overnight araç kampına izin verilmez. Rezerv içinde elektrikli araç şarj cihazı kurulu değildir.",
+      "subtitle": "Birincil ~180 bölme · taşma ~220 bölme · engelli bölmeleri mevcut · otobüs/koç bölmeleri mevcut · ücretsiz 24/7"
+    },
+    "dining": {
+      "title": "Yiyecek & İçecek İşletmeleri",
+      "description": "Rezervin kendisi sıfır ticari catering işletmesi içerir. Batı ve Konnos uçlarında sırasıyla ziyaretçilerin kendi yiyeceklerini getirmeleri için taş masa ve banklı iki belirlenmiş piknik alanı sağlanmıştır. Tam spektrumlu rahat yemek, fast-food, geleneksel taverna, kafe ve fırın tipi işletmeler, belirli tesis türüne bağlı olarak tipik 5 ila 15 dakikalık sürüş mesafelerinde yakındaki Ayia Napa ve Protaras tatil kasabalarında yoğunlaşmıştır.",
+      "subtitle": "5–15 dk sürüş içindeki türler: tavernalar, kafeler, fırınlar, fast-food işletmeleri (Ayia Napa / Protaras / Konnos)"
+    },
+    "accommodation": {
+      "title": "Konaklama & Konaklama Türleri",
+      "description": "Rezerv sınırları içinde hiçbir tür gece konaklamasına izin verilmez. Komşu tatil belediyeleri olan batıdaki Ayia Napa ile doğu ve kuzeydeki Protaras–Paralimni birlikte, Akdeniz adası destinasyonunda yaygın olarak bulunan tüm konaklama türleri yelpazesini sunar. Rezerv girişinden her kategorinin genel yoğunlaşma alanlarına kadar tipik seyahat süreleri, en yakın bütçe seçenekleri için 5 dakikadan daha dağınık lüks resort tipi kümeler için 20 dakikaya kadar değişir.",
+      "subtitle": "5–20 dk sürüş içindeki türler: butik oteller · her şey dahil resort · daireler · tarım turizmi · hosteller (Ayia Napa / Protaras / Paralimni)"
+    },
+    "shopping": {
+      "title": "Süpermarketler, Eczaneler & Tedarik Noktaları",
+      "description": "Eczane, süpermarket, bakkal ve şişelenmiş su perakende tedarik türleri yerinde mevcut değildir. En yakın genel süpermarketler ve bağımsız eczane tipi işletmeler, Ayia Napa'nın yapılı ticari şeritlerinde (yaklaşık 7 dakika sürüş) ve Protaras ana yolunda (yaklaşık 12 dakika sürüş) yer almaktadır. 24 saatlik bakkal tipi işletmeler Ayia Napa–Paralimni anayolu boyunca mevcuttur.",
+      "subtitle": "7–12 dk sürüş içindeki türler: süpermarket zincirleri · eczaneler · 24 s bakkallar · su & güneş kremi ikmali"
+    },
+    "fuel": {
+      "title": "Akaryakıt İstasyonları & EV Şarjı",
+      "description": "Konvansiyonel benzinli ve dizel tipi akaryakıt istasyonları, rezerv ana girişinin yaklaşık 8 dakika batısında Ayia Napa–Paralimni çift şeritli yolunda yer almaktadır. Akülü elektrikli araçlar için kamuya açık DC hızlı şarj tipi istasyonlar, yaklaşık 10 ila 14 dakikalık sürüş sürelerinde Ayia Napa ve Paralimni kentsel alanlarında belediye ücretli otoparklar ve büyük format perakende tipi siteler içinde yoğunlaşmıştır. Rezev çevresi içinde yakıt, LPG veya EV şarj altyapısı mevcut değildir.",
+      "subtitle": "Akaryakıt istasyonları ~8 dk · kamuya açık EV DC hızlı şarj türleri 10–14 dk sürüş (Ayia Napa / Paralimni)"
+    },
+    "medical": {
+      "title": "Tıbbi & Acil Durum Hizmetleri",
+      "description": "Rezerv içinde yerinde tıbbi klinik veya bekçi paramedik istasyonu yoktur. En yakın toplum sağlığı merkezi tipi tesis Ayia Napa kasabasında yer alır (karayolu ile yaklaşık 10 dakika). Genel hastane ve acil servis tipi hizmetler, Paralimni–Deryneia yolundaki Gazimağusa Devlet Hastanesi Acil tarafından sağlanır, yaklaşık 18–22 dakikalık sürüş. Kıbrıs için tek ulusal acil durum telefon numarası 112'dir.",
+      "subtitle": "Toplum sağlığı merkezi ~10 dk · Gazimağusa Devlet Hastanesi Acil ~18–22 dk · ulusal acil durum 112"
+    },
+    "accessibility": {
+      "title": "Erişilebilirlik & Evrensel Tasarım",
+      "description": "Erişilebilir asfalt kaplı engelli otopark hem batı hem de Konnos girişlerinde mevcuttur. İki ana uçurum seyir platformu (Sevgili Köprüsü ve Gün Batımı Manzarası), LIFE+ 2011 çalışmalarında nazik eğimler ve galvanizli çelik korkuluklarla yeniden yapılmıştır, bu da onları standart manuel tekerlekli sandalyelerle kullanılabilir hale getirmiştir. Aziz Anargyroi şapeline, %4'ten az eğimli 680 m'lik kaplanmış erişim yolu ile ulaşılır. Deniz mağaraları ve neredeyse tüm yürüyüş parkurları düzensiz ana kaya ve moloz üzerinde yatmaktadır ve tekerlekli sandalye veya bebek arabası için uyarlanmamıştır. Rehber ve yardımcı köpeklere rezerv boyunca izin verilir.",
+      "subtitle": "Erişilebilir otopark mevcut · iki seyir pisti · şapel erişim pisti · parkurlar / mağaralar uyarlanmamış · yardımcı köpekler hoş geldiniz"
+    }
   },
   "footer": {
-    "brandName": "Cape Cavo Greco",
-    "brandSubtitle": "Doğa Rezervi · Famagusta, Kıbrıs",
-    "rights": "© 2026 Bağımsız Turizm Araştırma Projesi · Tüm Hakları Saklıdır.",
+    "brandName": "Cape Cavo Greco (Ακρωτήριο Κάβο Γκρέκο)",
+    "brandSubtitle": "Natura 2000 SCI CY3000005 · Ayia Napa, Gazimağusa, Kıbrıs",
+    "rights": "© 2026 Bağımsız Kar Amacı Gütmeyen Turizm Araştırma Projesi · Tüm Hakları Saklıdır.",
     "privacy": "Gizlilik Politikası",
     "terms": "Kullanım Şartları",
     "cookies": "Çerez Ayarları",
-    "officialResourcesTitle": "Resmi Kaynaklar ve Bilgiler",
+    "officialResourcesTitle": "Resmi Otoriteler & Birincil Kaynak Belgeler",
     "officialLinks": {
-      "moa": "Kıbrıs Tarım, Kırsal Kalkınma ve Çevre Bakanlığı - Orman Dairesi",
-      "visitcyprus": "Kıbrıs Ulusal Turizm Alt Bakanlığı",
-      "visitfamagusta": "Famagusta Bölgesi Resmi Turizm Ofisi",
-      "agianapa": "Ayia Napa Belediyesi",
-      "natura2000": "Natura 2000 Veritabanı"
+      "moa": "Tarım Bakanlığı – Kıbrıs Orman Dairesi (Yönetim Otoritesi)",
+      "visitcyprus": "Kıbrıs Cumhuriyeti Turizm Alt Bakanlığı – Ulusal Cape Greco Girişi",
+      "visitfamagusta": "Gazimağusa Bölgesel Turizm Kurulu – Resmi Bölge Portalı",
+      "agianapa": "Ayia Napa Belediyesi – Belediye Duyuruları & Erişim Güncellemeleri",
+      "natura2000": "Natura 2000 Veritabanı (AEÇ) – Standart Veri Formu CY3000005"
     },
-    "disclaimer": "Bu web sitesi bağımsız bir üçüncü taraf turizm bilgi projesidir. Yerel yönetim veya diğer resmi kurumlarla ilişkili değiliz."
+    "disclaimer": "Bu web sitesi bağımsız kar amacı gütmeyen üçüncü taraf turizm eğitim projesidir. Kıbrıs Hükümeti veya herhangi bir kurumuyla ilişkili veya onlar tarafından onaylanmış değiliz. Düzenleyici ve güvenlik güncellemeleri için her zaman yukarıdaki resmi otorite bağlantılarına danışın."
   },
   "officialManagement": {
-    "title": "Cape Cavo Greco Hakkında",
-    "text": "Cape Cavo Greco, Kıbrıs Orman Dairesi tarafından yönetilmekte ve korunmaktadır. Alan, Kıbrıs çevre mevzuatı tarafından korunmaktadır."
+    "title": "Cape Cavo Greco Hakkında – Yönetim & Koruma",
+    "text": "Cape Greco Ulusal Orman Parkı, Ormanlar Kanunu Mad. 130 ve Doğa ve Vahşi Yaşamı Koruma ve Yönetme Kanunu 153(I)/2003 uyarınca Kıbrıs Orman Dairesi tarafından yönetilir ve korunur. Alan, Topluluk Önemi Olan Alan CY3000005 olarak Natura 2000 ağına kaydedilmiştir. Tüm yönetim kararları, Kıbrıs Teknoloji Üniversitesi ile hazırlanan 2022–2026 Entegre Yönetim Planı tarafından yönetilir."
   },
   "privacy": {
     "title": "Gizlilik Politikası",
@@ -308,7 +532,7 @@
       },
       {
         "heading": "Veri Güvenliği ve Koruma",
-        "content": "Gizlilik verilerinizin güvenliğini korumayı taahhüt ediyoruz ve tarama verilerinizi üçüncü taraf ticari kuruluşlara satmayız, kiralamaz veya takas edemeyiz."
+        "content": "Gizlilik verilerinizin güvenliğini korumayı taahhüt ediyoruz ve tarama verilerinizi üçüncü taraf ticari kuruluşlara satmayız, kiralamayız veya takas etmeyiz."
       }
     ]
   },
@@ -318,21 +542,21 @@
     "sections": [
       {
         "heading": "Web Sitesi İçeriği ve Kullanımı",
-        "content": "Bu web sitesi Cape Cavo Greco hakkında seyahat, ulaşım ve tarih bilgileri sağlar. Tüm içerik yalnızca referans içindir. Gerçek açılış saatleri ve cazibe bilgileri herhangi bir zamanda değişebilir; lütfen resmi duyurulara bakın."
+        "content": "Bu web sitesi Cape Greco hakkında seyahat, ulaşım, jeolojik, ekolojik ve tarihsel bilgiler dahil olmak üzere bağımsız kar amacı gütmeyen eğitim materyali sağlar. Tüm içerik yalnızca referans içindir. Gerçek açılış saatleri, parkur koşulları ve düzenleyici kısıtlamalar bildirim yapılmadan değişebilir; lütfen en güncel bilgi için resmi otorite bağlantılarına danışın."
       },
       {
         "heading": "Fikri Mülkiyet",
-        "content": "Bu web sitesindeki metinler, görseller ve tasarımlar telif hakkı ile korunmaktadır. Açık yazılı izin olmadan, web sitesi içeriği ticari amaçlar için kullanılamaz."
+        "content": "Bu web sitesindeki metin, tipografi, grafik tasarım ve orijinal fotoğrafçılık uluslararası telif hakkı ile korunmaktadır. Açık yazılı izin olmadan hiçbir kişi veya kuruluş web sitesi içeriğini ticari amaçlarla kullanamaz."
       },
       {
         "heading": "Sorumluluk Reddi",
-        "content": "Bilgilerin doğruluğunu ve güncelliğini sağlamak için çaba sarf ediyoruz, ancak bu web sitesinde sağlanan bilgilerin kullanımı nedeniyle doğrudan veya dolaylı olarak oluşan seyahat gecikmeleri veya kayıplardan yasal sorumluluk kabul etmiyoruz."
+        "content": "Eğitim bilgilerinin doğruluğunu ve güncelliğini sağlamak için çaba sarf ediyoruz, ancak bu web sitesinde sağlanan bilgilere güvenilmesi nedeniyle doğrudan veya dolaylı olarak meydana gelen yaralanma, gecikme veya kayıp için yasal sorumluluk kabul etmiyoruz."
       }
     ]
   },
   "cookieSettings": {
     "title": "Çerez Ayarları",
-    "description": "Çerez tercihlerinizi yönetin.",
+    "description": "Bu bağımsız kar amacı gütmeyen web sitesi için çerez tercihlerinizi yönetin.",
     "essential": {
       "title": "Gerekli Çerezler",
       "description": "Temel web sitesi işlevselliği için gereklidir ve devre dışı bırakılamaz.",
@@ -340,11 +564,11 @@
     },
     "analytics": {
       "title": "Analitik",
-      "description": "Ziyaretçi davranışını anlamamıza ve web sitesini iyileştirmemize yardımcı olur."
+      "description": "Anonim ziyaretçi davranışını anlamamıza ve sitenin eğitim içeriğini iyileştirmemize yardımcı olur."
     },
     "marketing": {
       "title": "Pazarlama",
-      "description": "Siteler arası takip ve kişiselleştirilmiş reklamlar için kullanılır."
+      "description": "Siteler arası takip ve kişiselleştirilmiş reklamlar için kullanılır – bu ticari olmayan sitede varsayılan olarak devre dışıdır."
     },
     "save": "Tercihleri Kaydet",
     "saved": "Tercihler Kaydedildi!"

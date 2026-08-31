@@ -4,6 +4,7 @@ export default function NearbySection() {
   const t = useTranslations('nearby');
   const messages = useMessages() as any;
   const items = (messages?.nearby?.items || []) as Array<{ name: string; distance: string; description: string }>;
+  const hasIntro = messages?.nearby?.intro;
 
   return (
     <section className="section-padding" style={{ background: 'var(--bg-secondary)' }}>
@@ -14,7 +15,18 @@ export default function NearbySection() {
         >
           {t('title')}
         </h2>
-        <div className="w-12 h-0.5 mb-12 mx-auto" style={{ background: 'var(--accent)' }} />
+        <div className="w-12 h-0.5 mb-8 mx-auto" style={{ background: 'var(--accent)' }} />
+
+        {hasIntro && (
+          <div className="max-w-3xl mx-auto mb-12 text-center">
+            <p
+              className="text-base leading-relaxed"
+              style={{ color: 'var(--text-secondary)' }}
+            >
+              {t('intro')}
+            </p>
+          </div>
+        )}
 
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           {items.map((item, index) => (
