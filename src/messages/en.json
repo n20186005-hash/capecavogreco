@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Cape Cavo Greco (Ayia Napa) - Visitor Guide & Location",
-    "description": "Discover Cape Cavo Greco, the iconic nature reserve in Ayia Napa, Famagusta, Cyprus. View location map, opening details, nearby Ayia Napa Monastery, hiking trails, and travel tips."
+    "title": "Cape Greco Cyprus: Ultimate Visitor Guide & Must-See Spots",
+    "description": "Plan your visit to Cape Greco (Cavo Greco) National Park in Cyprus. Discover the famous Sea Caves, Kamara Tou Koraka bridge, hiking trails, bus routes & sunset spots. Free entry!"
   },
   "header": {
     "home": "Home",
@@ -11,7 +11,7 @@
     "backToHome": "Back to Home"
   },
   "hero": {
-    "title": "Cape Cavo Greco (Ayia Napa)",
+    "title": "Cape Greco Cyprus – Sea Caves & Visitor Guide",
     "subtitle": "Natura 2000 National Forest Park · Famagusta, Cyprus",
     "rating": "4.8",
     "reviewCount": "6,784 reviews",
@@ -376,6 +376,37 @@
       }
     ]
   },
+  "attractions": {
+    "title": "Top Attractions at Cape Greco – Sea Caves & Must-See Spots",
+    "subtitle": "The five must-see spots inside Cape Greco National Forest Park, each marked on Google Maps and reachable on foot or by boat.",
+    "spots": [
+      {
+        "name": "Sea Caves (Sea Caves Ayia Napa)",
+        "tag": "Iconic",
+        "description": "The signature karst sea caves carved into the southern cliffs. Best explored by kayak or a boat trip from Ayia Napa; cliff jumping is only safe at the locally marked spots."
+      },
+      {
+        "name": "Kamara Tou Koraka (Lovers' Bridge)",
+        "tag": "Photo Spot",
+        "description": "A natural limestone sea arch – one of the most photographed places on the island, especially glowing at sunset. Easy 15-minute walk from the main car park."
+      },
+      {
+        "name": "Agioi Anargyroi Chapel",
+        "tag": "History",
+        "description": "A whitewashed medieval Byzantine chapel with a blue dome, reached via a scenic 700 m approach track. Services are held monthly and on the feast day of the Anargyroi."
+      },
+      {
+        "name": "Cyclops Cave (Spilia tou Kiklopa)",
+        "tag": "Hiking",
+        "description": "The cape's largest karst cavern (47 m chamber), linked in local legend to the Homeric Cyclops. Reachable only on foot via the waymarked trails – view the cave mouth from above."
+      },
+      {
+        "name": "Konnos Bay & Blue Lagoon",
+        "tag": "Beach",
+        "description": "A sheltered golden-sand beach at the eastern edge of the park with clear shallow water, water-sports rentals and a seasonal taverna – the classic post-cape swim stop."
+      }
+    ]
+  },
   "gallery": {
     "title": "Photo Gallery – Cape Cavo Greco Images",
     "subtitle": "The Best Views of Cape Cavo Greco in Ayia Napa, Cyprus",
@@ -512,7 +543,8 @@
       "agianapa": "Ayia Napa Municipality – Municipal Announcements & Access Updates",
       "natura2000": "Natura 2000 Database (EEA) – Standard Data Form CY3000005"
     },
-    "disclaimer": "This website is an independent non-profit third-party tourism education project. We are not affiliated with, or endorsed by, the Government of Cyprus or any of its agencies. Always consult the official authority links above for regulatory and safety updates."
+    "disclaimer": "This website is an independent non-profit third-party tourism education project. We are not affiliated with, or endorsed by, the Government of Cyprus or any of its agencies. Always consult the official authority links above for regulatory and safety updates.",
+    "imageRights": "All images displayed on this website are the property and copyright of their respective photographers."
   },
   "officialManagement": {
     "title": "About Cape Cavo Greco – Management & Protection",

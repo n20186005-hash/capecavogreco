@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Cape Cavo Greco (Ayia Napa) - Ziyaretçi Rehberi & Konum",
-    "description": "Cape Cavo Greco'yu keşfedin: Kıbrıs, Gazimağusa, Ayia Napa'daki ikonik doğa rezervi. Konum haritasını, ziyaret saatlerini, yakındaki Ayia Napa Manastırı'nı, yürüyüş parkurlarını ve seyahat ipuçlarını görün."
+    "title": "Cape Greco Kıbrıs: Nihai Ziyaretçi Rehberi & Görülecek Yerler",
+    "description": "Kıbrıs'taki Cape Greco (Cavo Greco) Milli Parkı ziyaretinizi planlayın. Ünlü Deniz Mağaraları, Kamara Tou Koraka köprüsü, yürüyüş parkurları, otobüs güzergahları ve gün batımı noktalarını keşfedin. Ücretsiz giriş!"
   },
   "header": {
     "home": "Ana Sayfa",
@@ -11,7 +11,7 @@
     "backToHome": "Ana Sayfaya Dön"
   },
   "hero": {
-    "title": "Cape Cavo Greco (Ayia Napa)",
+    "title": "Cape Greco Kıbrıs – Deniz Mağaraları & Ziyaretçi Rehberi",
     "subtitle": "Natura 2000 Ulusal Orman Parkı · Gazimağusa, Kıbrıs",
     "rating": "4.8",
     "reviewCount": "6.784 yorum",
@@ -376,6 +376,37 @@
       }
     ]
   },
+  "attractions": {
+    "title": "Cape Greco'da Görülmesi Gereken Yerler – Deniz Mağaraları & Kaçırılmaması Gereken Noktalar",
+    "subtitle": "Cape Greco Ulusal Orman Parkı içindeki kaçırılmaması gereken beş nokta; her biri Google Haritalar'da işaretlidir ve yürüyerek veya tekneyle ulaşılabilir.",
+    "spots": [
+      {
+        "name": "Deniz Mağaraları (Sea Caves Ayia Napa)",
+        "tag": "Sembol",
+        "description": "Güney kayalıklarına oyulmuş karakteristik karstik deniz mağaraları. En iyi kano veya Ayia Napa'dan kalkan tekne turuyla keşfedilir; kayalıktan atlamak yalnızca işaretli noktalarda güvenlidir."
+      },
+      {
+        "name": "Kamara Tou Koraka (Aşıklar Köprüsü)",
+        "tag": "Fotoğraf Noktası",
+        "description": "Doğal kireçtaşı deniz kemeri – adanın en çok fotoğraflanan yerlerinden biri, özellikle gün batımında. Ana otoparktan 15 dakikalık kolay bir yürüyüş."
+      },
+      {
+        "name": "Agioi Anargyroi Şapeli",
+        "tag": "Tarih",
+        "description": "Mavi kubbeli, badanalı Orta Çağ Bizans şapeli; 700 metrelik manzaralı bir yoldan ulaşılır. Ayinler her ay ve Anargyroi bayram gününde yapılır."
+      },
+      {
+        "name": "Kiklop Mağarası (Spilia tou Kiklopa)",
+        "tag": "Yürüyüş",
+        "description": "Burnun en büyük karstik mağarası (47 m salon), yerel efsanede Homeros'un Kiklopu ile bağlantılıdır. Yalnızca işaretli parkurlardan yürüyerek ulaşılır – mağara ağzını yukarıdan izleyin."
+      },
+      {
+        "name": "Konnos Koyu & Mavi Lagün",
+        "tag": "Plaj",
+        "description": "Parkın doğu ucunda korunaklı altın kumlu plaj; berrak sığ sular, su sporu kiralama ve sezonluk taverna – burun ziyaretinden sonra klasik yüzme molası."
+      }
+    ]
+  },
   "gallery": {
     "title": "Fotoğraf Galerisi – Cape Cavo Greco Görselleri",
     "subtitle": "Ayia Napa, Kıbrıs'taki Cape Cavo Greco'nun En Güzel Manzaraları",
@@ -512,7 +543,8 @@
       "agianapa": "Ayia Napa Belediyesi – Belediye Duyuruları & Erişim Güncellemeleri",
       "natura2000": "Natura 2000 Veritabanı (AEÇ) – Standart Veri Formu CY3000005"
     },
-    "disclaimer": "Bu web sitesi bağımsız kar amacı gütmeyen üçüncü taraf turizm eğitim projesidir. Kıbrıs Hükümeti veya herhangi bir kurumuyla ilişkili veya onlar tarafından onaylanmış değiliz. Düzenleyici ve güvenlik güncellemeleri için her zaman yukarıdaki resmi otorite bağlantılarına danışın."
+    "disclaimer": "Bu web sitesi bağımsız kar amacı gütmeyen üçüncü taraf turizm eğitim projesidir. Kıbrıs Hükümeti veya herhangi bir kurumuyla ilişkili veya onlar tarafından onaylanmış değiliz. Düzenleyici ve güvenlik güncellemeleri için her zaman yukarıdaki resmi otorite bağlantılarına danışın.",
+    "imageRights": "Bu web sitesinde sergilenen tüm görseller, ilgili fotoğrafçıların mülkiyeti ve telif hakları kapsamındadır."
   },
   "officialManagement": {
     "title": "Cape Cavo Greco Hakkında – Yönetim & Koruma",

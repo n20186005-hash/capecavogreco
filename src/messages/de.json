@@ -1,0 +1,608 @@
+{
+  "meta": {
+    "title": "Cape Greco Zypern: Der ultimative Besucherführer & Sehenswürdigkeiten",
+    "description": "Planen Sie Ihren Besuch im Nationalpark Cape Greco (Cavo Greco) auf Zypern. Entdecken Sie die berühmten Meeresgrotten, die Kamara-Tou-Koraka-Brücke, Wanderwege, Busverbindungen & Sonnenuntergangsplätze. Freier Eintritt!"
+  },
+  "header": {
+    "home": "Startseite",
+    "gallery": "Galerie",
+    "reviews": "Bewertungen",
+    "map": "Karte",
+    "backToHome": "Zurück zur Startseite"
+  },
+  "hero": {
+    "title": "Cape Greco Zypern – Meeresgrotten & Besucherführer",
+    "subtitle": "Natura-2000-Nationalforstpark · Famagusta, Zypern",
+    "rating": "4.8",
+    "reviewCount": "6.784 Bewertungen",
+    "type": "Naturschutzgebiet / SCI-Gebiet CY3000005",
+    "openMaps": "Auf Google Maps ansehen",
+    "mapsLink": "https://maps.app.goo.gl/FigeLZdG7kd1iPYcA"
+  },
+  "intro": {
+    "title": "Über Cape Cavo Greco – Naturschutzgebiet Agia Napa",
+    "equivalence": "Willkommen bei Cape Cavo Greco, weithin als zentrales Wahrzeichen des Cape Greco anerkannt. Am südöstlichen Ende von Agia Napa, Famagusta, Zypern gelegen, dient dieses Ziel als wichtigstes geschütztes Küstenschutzgebiet für Reisende im Bezirk Famagusta. Eine zerklüftete Kalksteinhalbinsel und Natura-2000-Besonderes-Schutzgebiet (SAC CY3000005) mit Klippenwanderwegen, kristallklaren blauen Lagunen und Karst-Meeresgrotten.",
+    "breadcrumb": {
+      "label": "Ortshierarchie",
+      "level1": "Cape Cavo Greco",
+      "level2": "Agia Napa",
+      "level3": "Famagusta (Αμμόχωστος)",
+      "level4": "Zypern (Κύπρος)"
+    },
+    "nearbyCluster": "Bei einem Besuch des Cape Cavo Greco können Reisende bequem die umliegenden historischen Wahrzeichen und Sehenswürdigkeiten erkunden, darunter das Agia-Napa-Kloster und den Küstenabschnitt der Feigenbaum-Bucht in Protaras.",
+    "description": "Cape Cavo Greco (griechisch: Ακρωτήριο Κάβο Γκρέκο; türkisch: Cape Greco) bildet die südöstlichste Landspitze der Insel Zypern. Zwischen den Ferienorten Agia Napa im Westen und Protaras im Osten gelegen, schützt es rund 4,2 km² unberührter mediterraner Macchie, Kalksteinklippen und endemischer Küstenökosysteme. Administrativ vom Forstdepartement Zyperns verwaltet, wurde die Landspitze 2006 in das europäische Natura-2000-Netz als Gebiet von gemeinschaftlicher Bedeutung (SCI) für seine prioritären Lebensräume und gefährdeten Arten aufgenommen.",
+    "visitGuide": {
+      "title": "Besuchstipps",
+      "items": [
+        "Empfohlene Besuchszeiten: März–Juni (Frühlingsblüte) und September–November (mildes Herbstwandern).",
+        "Festes Schuhwerk mit guter Sohle ist für unebene Kalkstein- und Geröllabschnitte unerlässlich.",
+        "Mindestens 1,5 l Wasser pro Person und Sonnenschutz mit hohem Lichtschutzfaktor zwischen Mai und Oktober mitführen.",
+        "Die Beobachtung des Sonnenuntergangs sollte nur von den ausgewiesenen Aussichtspunkten erfolgen, fern von ungeschützten Klippenkanten."
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Highlights",
+      "items": [
+        "Zyklopenhöhle (Spilia tou Kiklopa) und die Meeresgrotten-Gruppe",
+        "Badebuchten im Blue-Lagoon-Stil mit klarem Wasser",
+        "Markierte Wege des Nationalforstpark-Netzes von Zypern",
+        "Panoramablick auf den Sonnenuntergang am Mittelmeerhorizont"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "Über Cape Cavo Greco – Geschichte, Geologie, Ökologie & Naturschutz",
+    "sections": [
+      {
+        "id": "etymology",
+        "title": "Etymologie & Namensgeschichte – Cape Greco im Wandel der Zeit",
+        "structuredContent": [
+          { "type": "subtitle", "text": "Venezianischer Ursprung des Ortsnamens" },
+          { "type": "paragraph", "text": "Der Name Cavo Greco taucht in der historischen Überlieferung während der venezianischen Kolonialzeit (1489–1571 n. Chr.) auf, als venezianische Kartografen und Lotsen die Landspitze auf Portolankarten als Càvo Greco verzeichneten – italienisch für „griechisches Kap“. Die Bezeichnung unterschied das Kap von der weiter nördlich gelegenen, überwiegend türkischsprachigen Küste und spiegelte den anhaltenden griechisch-orthodoxen Kulturcharakter der Küstendörfer von Famagusta wider, der bereits in den venezianischen Volkszählungen des Cinquecento dokumentiert ist." },
+          { "type": "subtitle", "text": "Klassische und spätantike Vorläufer" },
+          { "type": "paragraph", "text": "In der klassischen Antike wird das Kap versuchsweise mit dem Akron identifiziert, das im Stadiasmus Maris Magni (3. Jahrhundert n. Chr.) erwähnt wird, einem Periplous aus römischer Zeit, der die Küstenentfernungen entlang der Levanteküste auflistet. Byzantinische Verwaltungstexte der Komnenenzeit bezeichnen das Hinterland als Teil der Tourma von Famagusta, obwohl das Kap selbst lokal unter einem heute verlorenen Namen bekannt war, der mit der Kirche der Heiligen Anargyroi in Verbindung stand." },
+          { "type": "subtitle", "text": "Spätere Verwaltungsebenen" },
+          { "type": "list", "ordered": false, "items": [
+            "Osmanische Zeit (1571–1878): in den tapu tahrir (Grundbuch-)Registern als Kef-i Rum erwähnt; keine dauerhafte Besiedlung auf dem Kap selbst.",
+            "Britische Kolonialzeit (1878–1960): Nutzung als Küstensignalstation und trigonometrische Basislinie für die Ordnance Survey von Zypern (Blatt 5, Famagusta).",
+            "Republik Zypern nach der Unabhängigkeit (1960–heute): 1990 als Nationalforstpark ausgewiesen, 2006 als Natura-2000-SCI eingetragen."
+          ] }
+        ]
+      },
+      {
+        "id": "mythology",
+        "title": "Mythologie & lokale Volkskunde – Aphrodites Küsten",
+        "structuredContent": [
+          { "type": "paragraph", "text": "Cape Cavo Greco liegt etwa 18 km östlich von Petra tou Romiou (Felsen der Griechin), dem mythologischen Geburtsort der Aphrodite gemäß der hesiodeischen Theogonie (Theogonie, Verse 188–206). Die lokale zypriotische Volkskunde, die mündlich unter den Dorfbewohnern von Agia Napa und Liopetri überliefert wird, hat das Kap seit jeher in den Erzählbogen der Reise der Göttin entlang der Südküste eingewoben." },
+          { "type": "subtitle", "text": "Die Zyklopenhöhle (Spilia tou Kiklopa)" },
+          { "type": "paragraph", "text": "Die größte der Karsthöhlen des Kaps, allgemein als Zyklopenhöhle bekannt, wird in der zypriotischen Volkstradition mit dem homerischen Zyklopen Polyphem in Verbindung gebracht, einer Figur, deren ägäischer Kult sich von der Levanteküste westwärts verbreitete. Archäologische Untersuchungen des Antikendepartements aus dem Jahr 2001 erbrachten keramisches Material aus frühchristlicher Zeit am Höhleneingang, was auf eine zeitweise Nutzung als Unterschlupf und möglicherweise als Votivstation hindeutet." },
+          { "type": "subtitle", "text": "Die heiligen Anargyroi des Meeres" },
+          { "type": "paragraph", "text": "Die Zwillingsheiligen Kosmas und Damian (die heiligen Anargyroi), Schutzpatrone der Ärzte und Seefahrergemeinschaften, spielen eine prominente Rolle in der lokalen Legende. Fischer der älteren Generation erzählen Geschichten von den Heiligen, die in leuchtenden Gewändern über den Brechern des Kaps erschienen, um von Stürmen heimgesuchte Kaïken sicher in den Hafen zurückzuführen. Die ihnen geweihte kleine Kapelle nahe dem Kapeingang ist noch immer Ort prozessionaler Liturgie an ihrem Festtag, dem 1. Juli (Julianischer Kalender, 14. Juli gregorianisch)." }
+        ]
+      },
+      {
+        "id": "byzantine",
+        "title": "Byzantinisches religiöses Erbe – Kapelle der Agioi Anargyroi",
+        "structuredContent": [
+          { "type": "paragraph", "text": "Die Kapelle der Agioi Anargyroi (Άγιοι Ανάργυροι) nimmt einen kleinen Felsvorsprung etwa 700 m nordwestlich des trigonometrischen Pfeilers des Kaps ein. Die architektonische Typologie – kompakter Kreuzkuppelgrundriss, eine einzige halbkugelförmige Kuppel auf niedriger Trommel, halbrunde Apsis des Sanktuariums – verortet den ursprünglichen Bau in der mittelbyzantinischen Zeit, versuchsweise im 11.–12. Jahrhundert, obwohl das sichtbare Mauerwerk beträchtliche spätere Umbauten einschließt." },
+          { "type": "subtitle", "text": "Architektonische und epigraphische Belege" },
+          { "type": "list", "ordered": false, "items": [
+            "Das originale opus quadratum Mauerwerk der unteren Wände verwendet lokalen oberkretazischen Kalkstein, der bei Liopetri gebrochen wurde.",
+            "Innenraum-Freskenfragmente, heute weitgehend verblasst, wurden vom Antikendepartement stilistisch der palaiologischen Renaissance des 14. Jahrhunderts zugeordnet.",
+            "Eine abgenutzte Marmorsturz-Inschrift, heute unleserlich, wurde in der kolonialen Survey of the Monuments of Cyprus (1935, Gunnis) mit dem Datum 1714 verzeichnet – vermutlich das Jahr der letzten großen Neueindeckung unter osmanischer Schirmherrschaft."
+          ] },
+          { "type": "subtitle", "text": "Moderne liturgische Nutzung" },
+          { "type": "paragraph", "text": "Die Kapelle bleibt eine abhängige Kapelle (παρεκκλήσι) der Pfarrei des Agia-Napa-Klosters. Gottesdienste werden monatlich am Samstag statt, der dem 1. und 14. jedes Monats am nächsten liegt, und eine große Freiluftliturgie wird jährlich am Fest der Anargyroi unter Beteiligung der ländlichen Dekanei von Famagusta gefeiert." }
+        ]
+      },
+      {
+        "id": "geopolitical",
+        "title": "Moderne geopolitische Geschichte – Kolonialzeit & Pufferzone",
+        "structuredContent": [
+          { "type": "subtitle", "text": "Britische koloniale Küstenstation" },
+          { "type": "paragraph", "text": "Nach der Übernahme der Verwaltung Zyperns durch Großbritannien im Rahmen des Anglo-Osmanischen Abkommens von 1878 identifizierte das Hydrographische Amt der Admiralität Cape Greco als kritischen Kontrollpunkt für die Navigation der Reede von Famagusta. 1880 wurde ein Steinhügel als Tagesmarke errichtet, und 1911 wurde eine kleine unbemannte Acetylenlaterne montiert – bis zum Zweiten Weltkrieg mit Unterbrechungen in Betrieb. Militärakten in den National Archives (WO 273/772, Cyprus) dokumentieren zudem die Nutzung des Kaps als Funkpeil-Basislinie während des Zypern-Notstands (1955–1959)." },
+          { "type": "subtitle", "text": "1974 und die Pufferzone" },
+          { "type": "paragraph", "text": "Nach der türkischen Militärintervention von Juli–August 1974 befand sich das Kap innerhalb von 3 Kilometern des südlichen Flügels der Pufferzone der Vereinten Nationen, die der ehemaligen Waffenstillstandslinie (Grüne Linie) über den östlichen Teil der Insel folgt. Obwohl das Kap selbst unter der faktischen Verwaltung der Republik Zypern geblieben ist und für Besucher offen steht, besteht weiterhin nördlich eine schmale militärische Sperrzone, die durch Beobachtungsposten der Zypriotischen Nationalgarde markiert ist. Das Kap war nie Schauplatz bewaffneter Auseinandersetzungen." }
+        ]
+      },
+      {
+        "id": "geology",
+        "title": "Geologie & Geomorphologie – Troodos-Ophiolith & Karstküste",
+        "structuredContent": [
+          { "type": "subtitle", "text": "Lithologischer Rahmen: der Troodos-Ophiolith" },
+          { "type": "paragraph", "text": "Cape Cavo Greco bildet den küstennahen Ausdruck des östlichen Teils des Troodos-Ophioliths, eines Fragments ozeanischer Lithosphäre aus der Oberkreide (ca. 90 Ma, Cenoman–Turon), das während des Maastrichtiums auf den nördlichen passiven Rand der afrikanischen Platte obduziert wurde. Die entlang des Kaps anstehenden Gesteine gehören zur Upper Pillow Lava Unit der Ophiolith-Sequenz – vesikuläre tholeiitische Basalte sowie zwischengelagerte Umber- und Radiolarit-Cherte, diskordant überlagert von einer transgressiven Sequenz maastrichtium-paläozäner kreidiger Kalksteine der Lefkara-Formation." },
+          { "type": "subtitle", "text": "Karstgeomorphologie: Höhlen und natürliche Bögen" },
+          { "type": "list", "ordered": false, "items": [
+            "Meeresgrotten: 23 kartierte marine Karsthöhlen und Relikthöhlen, die größte ist die Zyklopenhöhle (Spilia tou Kiklopa) mit einer Kammerlänge von 47 m.",
+            "Natürliche Brücken: zwei Kalkstein-Meeresbögen, lokal als Brücke der Liebenden (Γεφύρι της Αγάπης) an der Nordküste bekannt. Der kleinere östliche Bogen stürzte teilweise während einer Sturmflut am 30. November 2017 ein, aufgezeichnet vom Geological Survey Department.",
+            "Meeresstapel und Wellenplattformen: ausgedehnte Entwicklung von Küstenplattformen auf den eustatischen Niveaus +3 m und +6 m, entsprechend den tyrrhenischen und sizilianischen Terrassen des MIS 5e (125 ka) bzw. MIS 9 (330 ka)."
+          ] },
+          { "type": "subtitle", "text": "Klippenmorphometrie" },
+          { "type": "paragraph", "text": "Die Klippenhöhen entlang der südlichen (hochseitigen) Front reichen von 28 m am westlichen Zugang bis maximal 67 m am Cape Point selbst (34,9609° N, 34,0788° O), mit einer mittleren Rückzugsrate von 2,1 cm/Jahr gemäß den Monitoring-Transsekten des Geological Survey Department (2008–2023). Die Nordküste, innerhalb der Bucht von Famagusta geschützt, wird von flachen Kalksteinplatten und kleinen halbmondförmigen Buchten dominiert." }
+        ]
+      },
+      {
+        "id": "ecology",
+        "title": "Ökologie & Biodiversität – Natura-2000-Gebiet CY3000005",
+        "structuredContent": [
+          { "type": "subtitle", "text": "Natura-2000-Ausweisung und Lebensräume" },
+          { "type": "paragraph", "text": "Der Nationalforstpark Cape Greco wurde gemäß der Richtlinie 92/43/EWG des Rates als Gebiet von gemeinschaftlicher Bedeutung (SCI) ausgewiesen, mit dem offiziellen Gebietscode CY3000005 der Europäischen Umweltagentur. Das Standarddatenbogen verzeichnet acht prioritäre Lebensraumtypen des Anhangs I, unter denen die folgenden auf dem Kap dominieren:" },
+          { "type": "list", "ordered": false, "items": [
+            "5310 – Niedrige Formationen von Erica arborea (Erico-Oleetum oleasteris, zypriotische endemische Variante).",
+            "5420 – Phrygana mit Sarcopoterium spinosum auf tiefen Terra-Rossa-Böden.",
+            "1240 – Bewachsene Meeresklippen der Mittelmeerküsten mit endemischen Limonium-Arten.",
+            "1110 – Sandbänke, die ständig leicht von Meerwasser bedeckt sind (Konnos Bay und Blue Lagoon)."
+          ] },
+          { "type": "subtitle", "text": "Gefährdete Fauna (Anhang II der Habitatrichtlinie)" },
+          { "type": "list", "ordered": false, "items": [
+            "Monachus monachus Hermann, 1779 – Mittelmeer-Mönchsrobbe (IUCN Rote Liste: vom Aussterben bedroht, CR). Liegeplätze werden regelmäßig in den westlichen Meeresgrotten verzeichnet, und Satellitentelemetriedaten von MOm (Griechische Gesellschaft zum Studium und Schutz der Mönchsrobbe) haben zwischen 2019 und 2024 drei einzelne Robben dokumentiert, die das Gebiet nutzten.",
+            "Falco eleonorae Gené, 1839 – Eleonorenfalke. Eine kleine Brutkolonie von 6–8 Paaren nistet auf den unzugänglichen nördlichen Meeresstapeln, bestätigt durch die systematischen Brutvogelkartierungen von BirdLife Cyprus 2017–2021.",
+            "Testudo graeca Linnaeus, 1758 – Maurische Landschildkröte; Chamaeleo chamaeleon Linnaeus, 1758 – Europäisches Chamäleon. Beide Arten haben stabile Teilpopulationen in der Macchie nördlich der Konnos-Straße."
+          ] },
+          { "type": "subtitle", "text": "Schutzwürdige Flora" },
+          { "type": "paragraph", "text": "Floristische Erhebungen, veröffentlicht vom Botanischen Institut Zyperns, verzeichnen 312 Gefäßpflanzen-Sippen innerhalb des Schutzgebiets, von denen 17 zypriotische Endemiten sind, darunter Phlomis cypria var. occidentalis Meikle, Limonium cyprium (Meikle) Brullo und Orobanche sungariae var. minor (Zypriotische Sommerwurz). Die gefährdete endemische Tulpe Tulipa cypria Stapf wurde auf den Terra-Rossa-Taschen des nördlichen Abhangs verzeichnet; ihre Blütezeit ist März–April." }
+        ]
+      },
+      {
+        "id": "restoration",
+        "title": "Naturschutzmanagement, Wiederherstellung & Tragfähigkeit",
+        "structuredContent": [
+          { "type": "subtitle", "text": "Institutioneller Rahmen" },
+          { "type": "paragraph", "text": "Das Gebiet wird vom Forstdepartement Zyperns (Υπουργείο Γεωργίας – Τμήμα Δασών) nach dem Forstgesetz, Cap. 130, und dem Gesetz zum Schutz und zur Bewirtschaftung von Natur und Wildtieren, 153(I)/2003, verwaltet. Ein integrierter Fünfjahres-Managementplan 2022–2026 wurde mit technischer Unterstützung der Technischen Universität Zyperns erstellt, einschließlich einer Zonierung in Zone A (strenger Schutz – Meeresgrotten), Zone B (Freizeitnutzung mit geringem Eingriff) und Zone C (Parkplätze und Serviceinfrastruktur)." },
+          { "type": "subtitle", "text": "Wiederherstellungsprojekte (2010–2025)" },
+          { "type": "list", "ordered": false, "items": [
+            "2011–2013, LIFE+ Naturprojekt LIFE08 NAT/CY/000223 („CY-CAPE GRECO“): Entfernung invasiver Acacia saligna auf 18 ha, Anlage von 14 ha einheimischer Pflanzgärten, Bau von 1,2 km Bohlenwegen zur Verminderung von Trittschäden.",
+            "2019–2022, EAFRD-Programm zur Entwicklung des ländlichen Raums: Wiederherstellung von 2,7 km markierter Wanderwege und Stabilisierung von drei Klippenrand-Aussichtspunkten mit Trockenmauerwerk.",
+            "2024–laufend, LIFE-IP 4 NATURA CY Projekt: jährliches systematisches Biodiversitätsmonitoring in Zusammenarbeit mit dem Meeresökologie-Labor der Universität Zyperns."
+          ] },
+          { "type": "subtitle", "text": "Besuchertragfähigkeit" },
+          { "type": "paragraph", "text": "Die höchsten Besucherzahlen, aufgezeichnet durch die automatischen Wegezähler des Forstdepartements 2023, erreichten in der ersten Augusthälfte einen mittleren Tageswert von 4.860 Personen, mit einem Tagesmaximum von 7.214 am 15. August (Fest der Entschlafung Mariens). Der Managementplan 2022 definiert eine vorsorgliche reale Tragfähigkeit (RCC) von 5.500 Besuchern pro Tag für Zone B; Überschreitungen werden abgemildert, indem der Überschussparkverkehr auf den westlichen Ausweichparkplatz gelenkt und in Abstimmung mit der Gemeinde Agia Napa kostenlose Shuttle-Dienste angeboten werden." }
+        ]
+      },
+      {
+        "id": "lnt",
+        "title": "Leave No Trace – Outdoor-Ethik für das Kap",
+        "structuredContent": [
+          { "type": "paragraph", "text": "Als geschütztes Natura-2000-Gebiet verlangt Cape Greco höchste Standards des Besucherverhaltens. Die folgenden sieben Leave-No-Trace-Prinzipien (LNT) sind dem Rahmen des internationalen LNT-Zentrums entnommen und vom Forstdepartement Zyperns für alle Staatswaldflächen übernommen." },
+          { "type": "list", "ordered": true, "items": [
+            "Planen Sie voraus und bereiten Sie sich vor: konsultieren Sie die saisonalen Wetter- und Klippenwarnhinweise an den beiden Informationstafeln; nehmen Sie mindestens 1,5 l Wasser pro Person mit; vermeiden Sie es, die Höhlen allein zu betreten.",
+            "Bewegen Sie sich auf belastbaren Flächen: bleiben Sie auf den markierten Wegen; gehen Sie nur auf Fels oder etablierten Pfaden, um das Zertreten fragiler Biokrusten und endemischer Limonium-Bestände zu vermeiden. Zelten ist im gesamten Schutzgebiet verboten.",
+            "Entsorgen Sie Abfälle ordnungsgemäß: nehmen Sie ALLE Abfälle mit, einschließlich Zigarettenstummel und Obstschalen. Innerhalb des Reservats gibt es keine Abfallbehälter; Abfallanlagen befinden sich am westlichen Parkplatz.",
+            "Lassen Sie zurück, was Sie finden: entfernen Sie keine Kiesel, fossilienhaltigen Chert, Tonscherben oder Muschelschalen; letztere sind wichtiger Mikro-Lebensraum für Gezeiten-Schnecken.",
+            "Minimieren Sie die Brandgefahr: offene Feuer, tragbare Grills und Einweg-BBQs sind nach dem Forstgesetz (Cap. 130, § 13) strengstens verboten. Verstöße werden mit einer Feststrafe von 250 € geahndet.",
+            "Respektieren Sie die Tierwelt: halten Sie einen Mindestabstand von 200 m zu jedem Liegeplatz der Mittelmeer-Mönchsrobbe; verwenden Sie in den Höhlen kein Blitzlicht (es stört rastende Fledermäuse und die Nestlinge des Eleonorenfalken); Hunde müssen stets an einer 1,5 m langen Leine geführt werden.",
+            "Seien Sie rücksichtsvoll gegenüber anderen Besuchern: schalten Sie Audiogeräte aus; respektieren Sie die Stille der orthodoxen Kapelle während der Liturgien; geben Sie auf schmalen Einzelspur-Abschnitten aufsteigenden Wanderern Vorrang."
+          ] }
+        ]
+      }
+    ]
+  },
+  "faq": {
+    "title": "Häufig gestellte Fragen – Cape Cavo Greco FAQ",
+    "items": [
+      {
+        "question": "Wo liegt Cape Cavo Greco?",
+        "answer": "Cape Cavo Greco liegt auf der südöstlichen Landspitze der Gemeinde Agia Napa, Bezirk Famagusta, Republik Zypern. Die Landspitze bildet die Grenze zwischen den Küstenbuchten von Agia Napa und Protaras, mit dem administrativen Plus Code X36M+8CV und den ungefähren Koordinaten 34,96087° N, 34,07879° O."
+      },
+      {
+        "question": "Ist der Besuch von Cape Cavo Greco kostenlos?",
+        "answer": "Ja, Cape Cavo Greco ist ein Staatswald und öffentliches Natura-2000-Gebiet und das ganze Jahr über rund um die Uhr kostenlos zugänglich. Es gibt keine Eintrittskarte, kein Drehkreuz und keine Voranmeldung. Auch das Parken ist auf allen ausgewiesenen Parkplätzen kostenlos."
+      },
+      {
+        "question": "Wo sind die besten Badeplätze?",
+        "answer": "Schwimmen ist an mehreren kleinen halbmondförmigen Buchten entlang der Nordküste (der Famagusta zugewandten Seite) möglich, wo die Wellenenergie geringer ist und die Kalksteinplatten natürliche Felsbecken bilden. Die südlichen (hochseitigen) Klippen sind wegen unberechenbarer Dünung zum Schwimmen gefährlich. Bei allen felsigen Einstiegen werden Gummisohlen-Wasserschuhe dringend empfohlen."
+      },
+      {
+        "question": "Gibt es Toiletten oder Essensmöglichkeiten in der Umgebung?",
+        "answer": "Innerhalb der Grenzen des Reservats gibt es gemäß den Natura-2000-Managementzielen keine kommerziellen Einrichtungen, öffentlichen Wasserbrunnen oder dauerhaften öffentlichen Toiletten. Die nächstgelegenen öffentlichen Toiletten befinden sich im Stadtzentrum von Agia Napa (ca. 5–8 Autominuten) und in den saisonalen Strandanlagen der Konnos Bay."
+      },
+      {
+        "question": "Ist Cape Greco mit dem Rollstuhl oder Kinderwagen zugänglich?",
+        "answer": "Der westliche Hauptparkplatz, die beiden primären Aussichtsplattformen und die Zufahrtsstraße zur Kapelle sind befestigt und rollstuhlgerecht, mit ausgewiesenen Behindertenparkplätzen. Die Meeresgrotten, die meisten Wanderwege und der Naturbogen der Brücke der Liebenden umfassen jedoch unregelmäßige Kalksteinstufen und sind mit einem Standard-Rollstuhl oder Kinderwagen nicht zu bewältigen."
+      },
+      {
+        "question": "Darf ich meinen Hund zum Cape Greco mitbringen?",
+        "answer": "Ja, Haushunde sind erlaubt, sofern sie stets an einer kurzen Leine (maximal 1,5 m) geführt werden, gemäß dem Forstgesetz (Cap. 130) und den Vorschriften des Natura-2000-Gebiets. Hunde sind von den Liegeplatz-Buchten der Mönchsrobbe (ausgeschildert) und vom Innenraum der Kapelle ausgeschlossen. Bitte nehmen Sie alle Hinterlassenschaften Ihres Hundes mit."
+      },
+      {
+        "question": "Ist Wildcamping erlaubt?",
+        "answer": "Nein, Übernachtung im Freien, Biwakieren und langes Parken mit Wohnmobil sind im gesamten Nationalforstpark strengstens verboten. Kommerzielle campingeinrichtungen sind in den Ferienorten Agia Napa und Protaras verfügbar, 6 bis 14 Kilometer vom Kapeingang entfernt."
+      },
+      {
+        "question": "Darf ich am Cape Greco eine Drohne fliegen?",
+        "answer": "Für Drohnenflüge ist eine vorherige schriftliche Genehmigung des Forstdepartements erforderlich, da das Gebiet in die Pufferzone des Natura-2000-Besonderen-Schutzgebiets (SPA) des Korridors Akrotiri–Famagusta fällt. Unbefugte Flüge während der Brutsaison des Eleonorenfalken (Juni–Oktober) werden nach dem Vogelschutzgesetz verfolgt."
+      },
+      {
+        "question": "Wann ist die beste Saison, um eine Mittelmeer-Mönchsrobbe zu sehen?",
+        "answer": "Sichtungen sind zwischen November und März am häufigsten, wenn die Hochseidünung die Robben in die geschützten westlichen Höhlen treibt. Zu allen Jahreszeiten muss der gesetzliche Mindestbeobachtungsabstand von 200 Metern eingehalten werden; das Annähern an eine lagernde Robbe ist nach Gesetz 153(I)/2003 eine Straftat mit einer Höchststrafe von 85.000 €."
+      },
+      {
+        "question": "Was sind die wichtigsten Sicherheitswarnungen beim Schwimmen?",
+        "answer": "Zwischen Mitte Juli und Anfang September können lila Flaggen an den Hauptbuchten auf Blüten von Pelagia noctiluca (Qualle) hinweisen. Die südlichen Klippen sind an Tagen mit südlichen Winden starken Strömungen ausgesetzt; der zypriotische Wetterdienst gibt zweimal täglich Seegangsvorhersagen heraus. Bei allen Höhlengängen sollte eine Schwimmhilfe mitgeführt werden; betreten Sie eine Höhle niemals allein oder bei Hochwasser."
+      }
+    ]
+  },
+  "nearby": {
+    "title": "Wahrzeichen & Sehenswürdigkeiten rund um Cape Cavo Greco",
+    "intro": "Die Umgebung des Cape Cavo Greco ist von bedeutenden historischen und natürlichen Wahrzeichen umgeben. Die gute Anbindung an Agia Napa macht die Erkundung der umliegenden Ziele bequem.",
+    "items": [
+      {
+        "name": "Agia-Napa-Kloster (16. Jh.)",
+        "distance": "Ca. 5 Autominuten",
+        "description": "Ein spätvenezianisch-frühosmanisches befestigtes Kloster und Pfarrkirche, der historische Kern des modernen Agia Napa, das eine Synthese aus fränkischer Gotik und zypriotisch-byzantinischer Architektur zeigt."
+      },
+      {
+        "name": "Küstenort Protaras",
+        "distance": "Ca. 10 Autominuten",
+        "description": "Ein familienorientiertes Küstengebiet mit einer Reihe sandiger Badebuchten und flacher Küstenpromenaden, das sich östlich der Konnos Bay bis zum Famagusta-Dhekelia-Rand erstreckt."
+      },
+      {
+        "name": "Feigenbaum-Bucht, Protaras",
+        "distance": "Ca. 15 Autominuten",
+        "description": "Eine breite Bucht mit reifem Sand, gesäumt von gepflanzten Feigenhainen, einer der am häufigsten zitierten Strände in der zypriotischen Regionalliteratur, mit beaufsichtigten Sommerrettungspatrouillen."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Über Cape Cavo Greco – Basisinformationen",
+    "officialName": "Offizieller Name",
+    "officialNameValue": "Cape Greco National Forest Park / Ακρωτήριο Κάβο Γκρέκο",
+    "type": "Art der Attraktion",
+    "typeValue": "Naturschutzgebiet · Natura 2000 SCI (CY3000005)",
+    "country": "Land",
+    "countryValue": "Republik Zypern",
+    "city": "Gemeinde",
+    "cityValue": "Agia Napa · Bezirk Famagusta",
+    "googleRating": "Google-Bewertung",
+    "googleRatingValue": "4.8 (6.784 Bewertungen)",
+    "address": "Straße & Postanschrift",
+    "addressValue": "X36M+8CV, Agia Napa 5330, Bezirk Famagusta, Zypern",
+    "plusCode": "Google Plus Code",
+    "plusCodeValue": "X36M+8CV, Agia Napa, Famagusta",
+    "area": "Schutzgebietsfläche",
+    "areaValue": "~4,2 km² (420 ha)",
+    "elevation": "Maximale Höhe",
+    "elevationValue": "67 m über dem Meeresspiegel",
+    "geologicalAge": "Geologische Formation",
+    "geologicalAgeValue": "Troodos-Ophiolith · ~90 Ma (Cenoman)",
+    "protectionCode": "EU-Schutzcode",
+    "protectionCodeValue": "SCI CY3000005 · Richtlinie 92/43/EWG",
+    "yearlyVisitors": "Geschätzte jährliche Besucher",
+    "yearlyVisitorsValue": "~850.000 (DoF-Schätzung 2023)",
+    "accessibility": "Barrierefreiheitsgrad",
+    "accessibilityValue": "Aussichtspunkte zugänglich; Wege teilweise zugänglich",
+    "managingAuthority": "Verwaltungsbehörde",
+    "managingAuthorityValue": "Forstdepartement Zyperns (MoA)"
+  },
+  "hours": {
+    "title": "Besuchszeiten – Cape Cavo Greco",
+    "park": "Frei zugängliches Reservat",
+    "parkTime": "24 Stunden geöffnet / 365 Tage, keine Schließung",
+    "bestTime": "Beste Besuchszeiten",
+    "bestTimeSpring": "Frühling (Mär–Mai): 18–26 °C · Orchideen- & Tulpenblüte",
+    "bestTimeSummer": "Sommer (Jun–Aug): 06:30–10:00 oder 17:00–20:00 bevorzugen",
+    "bestTimeAutumn": "Herbst (Sep–Nov): 22–28 °C · ideal für lange Wanderungen",
+    "bestTimeWinter": "Winter (Dez–Feb): 12–18 °C · Saison der Mönchsrobbe-Sichtungen",
+    "tip": "Kein Eintrittsticket. Die Beobachtung des Sonnenuntergangs ist nur von den beiden ausgewiesenen, mit Stein gepflasterten Klippen-Aussichtspunkten gestattet."
+  },
+  "tickets": {
+    "title": "Zutrittsinformationen – Cape Cavo Greco",
+    "park": "Zugang zum Gelände",
+    "parkPrice": "Kostenlos · keine Voranmeldung erforderlich",
+    "parking": "Parken (Auto & Motorrad)",
+    "parkingPrice": "Kostenlose ausgewiesene Parkplätze; Ausweichparkplatz im August",
+    "guided": "Pädagogische Interpretationswanderungen",
+    "guidedPrice": "Regelmäßige kostenlose monatliche Wanderungen unter Leitung der Ranger des Forstdepartements – siehe den saisonalen Kalender auf der offiziellen Forst-Website"
+  },
+  "transport": {
+    "title": "Anreise – Lage & Zugang Cape Cavo Greco",
+    "fromCenter": "Vom Stadtzentrum Agia Napa",
+    "fromCenterDesc": "Entfernung ca. 5,2 km (Straße) südöstlich vom Hauptplatz von Agia Napa. Folgen Sie den braunen Nationalforstpark-Schildern über die Nissi Avenue und die Küstenstraße des Cape Greco.",
+    "fromStation": "Vom Busbahnhof Agia Napa",
+    "fromStationDesc": "Die lokale Buslinie 101 (Agia Napa – Protaras, betrieben von OSEA) hält am westlichen Eingang des Kaps; die Frequenz beträgt zwischen Mai und Oktober etwa 30 Minuten.",
+    "fromAirport": "Vom Internationalen Flughafen Larnaka (LCA)",
+    "fromAirportDesc": "Die Straßenentfernung beträgt ca. 67 km über die Autobahn A3 (Larnaka–Agia Napa). Die Fahrzeit beträgt etwa 50 Minuten. Mietwagen oder ein lizenzierter Flughafentransfer wird empfohlen.",
+    "publicTransport": "Öffentliches Busnetz",
+    "publicTransportDesc": "Überlandbusse aus Nikosia, Limassol und Larnaka enden am Busbahnhof Agia Napa; steigen Sie wie oben auf die lokale Linie 101 oder 102 um.",
+    "walking": "Zu Fuß / Wanderung",
+    "walkingDesc": "Der Europäische Fernwanderweg E4 erreicht das Reservat von Westen über die Küstenpromenade von Agia Napa; die Gehdistanz vom Agia-Napa-Kloster beträgt 6,8 km (ca. 1 Std. 20 Min.).",
+    "driving": "Privatfahrzeug (Auto, Roller, Quad)",
+    "drivingDesc": "Direkte, ganzjährig asphaltierte Zufahrt über die Cape-Greco-Straße (lokale Straße Klasse F); beide Parkplätze haben Asphaltzugang. Roller und Geländefahrzeuge müssen auf der internen Straße des Kaps die Geschwindigkeitsbegrenzung von 40 km/h einhalten."
+  },
+  "route": {
+    "title": "Empfohlene Wege – Cape Greco Wanderwege mit Schwierigkeitsgrad",
+    "overview": "Das Forstdepartement unterhält zwei markierte Pfade. Alle Entfernungen sind, sofern nicht anders angegeben, ein Weg; die Zeiten gehen von einem entspannten mediterranen Wandertempo aus.",
+    "trails": [
+      {
+        "id": "family-loop",
+        "name": "Aphrodite-Familienrunde",
+        "difficulty": "Leicht",
+        "distance": "~2,1 km (Rundweg)",
+        "duration": "45–60 Minuten",
+        "elevation": "+26 m kumuliert",
+        "summary": "Eine kompakte und vollständig markierte Runde, die für alle Fitnessniveaus geeignet ist. Sie durchquert die Küstenmacchie oberhalb des Naturbogens der Brücke der Liebenden, führt durch den oberen Parkplatz zurück und endet an der Kapelle der Agioi Anargyroi – ideal für Familien mit Kindern oder Erstbesucher.",
+        "steps": [
+          "Start an der westlichen Hauptinformationstafel (Einfahrt Konnos-Straße; kostenloses Parken 80 m voraus).",
+          "Folgen Sie den weiß-gelben Markierungen östlich entlang des Bohlenwegs zum ersten Aussichtspunkt (Panorama der Brücke der Liebenden bei 380 m).",
+          "Weiter zum zweiten Aussichtspunkt (1.100 m) – hier befindet sich die primäre, mit Geländern versehene Steinplattform zur Sonnenuntergangsbeobachtung.",
+          "Nehmen Sie den inneren Abzweig (weiß-grün) durch einen alten Pistacia-lentiscus-Hain und passieren Sie bei 1.600 m eine restaurierte Trockenstein-Schafhürde.",
+          "Passieren Sie die kleine Kapelle der Agioi Anargyroi und steigen Sie dann durch den Picknickbereich zurück zum Startparkplatz (insgesamt ~2.100 m)."
+        ]
+      },
+      {
+        "id": "cape-to-konnos",
+        "name": "Kap-zum-Konnos-Gratdurchquerung",
+        "difficulty": "Schwierig",
+        "distance": "~6,3 km (eine Richtung)",
+        "duration": "2 Std. 30 Min. – 3 Std.",
+        "elevation": "+82 m / −54 m kumuliert",
+        "summary": "Eine anspruchsvolle lineare Gratdurchquerung vom westlichen Eingang bis zur Konnos Bay auf der Ostseite. Sie umfasst exponierte Klippenrand-Abschnitte, lockeren Kalksteinschutt und zwei ungeschützte Zugänge zu Meeresgrotten. Nicht bei nassem Wetter oder über 32 °C versuchen. Erfordert feste Wanderschuhe und 1,5 l Wasser pro Person.",
+        "steps": [
+          "Beginnen Sie am westlichen Hauptparkplatz (Informationstafel zum Eleonorenfalken) und steigen Sie den anfänglichen Geröllhang des South Cliff Ridge hinauf.",
+          "Erreichen Sie die Zyklopenhöhle (Spilia tou Kiklopa) bei Kilometer 1,3 – beobachten Sie den Höhleneingang von oben; betreten Sie die Kammer auf Meereshöhe nicht ohne qualifizierten Führer.",
+          "Durchqueren Sie das zentrale Macchie-Plateau (Kilometer 2,4 bis 4,1) und passieren Sie zwei Natura-2000-Monitoring-Quadrate und die Teilpopulation von Tulipa cypria (Blüte nur im März).",
+          "Steigen Sie die östliche Kalksteintreppe zum oberen Blue-Lagoon-Aussichtspunkt hinab (Kilometer 5,2, vertikaler Abstieg 38 m).",
+          "Folgen Sie den letzten 1,1 km des steingepflasterten Maultierpfads hinunter in den Picknickbereich der Konnos Bay, wo ein Rückbus (Linie 102) oder eine Taxistation die Durchquerung abschließt."
+        ]
+      }
+    ]
+  },
+  "photoSpots": {
+    "title": "Top-Fotospots – Cape Cavo Greco",
+    "spots": [
+      {
+        "title": "Meeresgrotten bei Cape Cavo Greco",
+        "description": "Der Ort, an dem Sie die spektakulärsten Fotos der Meeresgrotten machen können.",
+        "location": "Küste",
+        "image": "/gallery/cape-cavo-greco (1).jpg"
+      },
+      {
+        "title": "Sonnenuntergangspunkt – Cape Cavo Greco",
+        "description": "Idealer Ort für Sonnenuntergangsfotografie.",
+        "location": "Klippenrand",
+        "image": "/gallery/cape-cavo-greco (2).jpg"
+      },
+      {
+        "title": "Wanderweg bei Cape Cavo Greco",
+        "description": "Malerische Naturwanderwege.",
+        "location": "Eingang",
+        "image": "/gallery/cape-cavo-greco (3).jpg"
+      },
+      {
+        "title": "Panoramablick – Cape Cavo Greco",
+        "description": "Blick auf das Mittelmeer und die felsige Küste.",
+        "location": "Aussichtspunkt",
+        "image": "/gallery/cape-cavo-greco (4).jpg"
+      }
+    ]
+  },
+  "attractions": {
+    "title": "Top-Attraktionen am Cape Greco – Meeresgrotten & Must-see-Spots",
+    "subtitle": "Die fünf Must-see-Spots im Nationalforstpark Cape Greco, jeweils auf Google Maps markiert und zu Fuß oder per Boot erreichbar.",
+    "spots": [
+      {
+        "name": "Meeresgrotten (Sea Caves Ayia Napa)",
+        "tag": "Ikonisch",
+        "description": "Die charakteristischen Karst-Meeresgrotten, in die Südklippen gemeißelt. Am besten per Kajak oder mit einer Bootstour ab Agia Napa zu erkunden; Klippenspringen ist nur an den örtlich markierten Stellen sicher."
+      },
+      {
+        "name": "Kamara Tou Koraka (Brücke der Liebenden)",
+        "tag": "Fotospot",
+        "description": "Ein natürlicher Kalkstein-Meeresbogen – einer der meistfotografierten Orte der Insel, besonders leuchtend bei Sonnenuntergang. Bequemer 15-minütiger Fußweg vom Hauptparkplatz."
+      },
+      {
+        "name": "Kapelle der Agioi Anargyroi",
+        "tag": "Geschichte",
+        "description": "Eine weiß getünchte mittelalterliche byzantinische Kapelle mit blauer Kuppel, erreichbar über einen malerischen 700 m langen Zufahrtsweg. Gottesdienste finden monatlich und am Festtag der Anargyroi statt."
+      },
+      {
+        "name": "Zyklopenhöhle (Spilia tou Kiklopa)",
+        "tag": "Wandern",
+        "description": "Die größte Karsthöhle des Kaps (47 m Kammer), in der lokalen Legende mit dem homerischen Zyklopen verbunden. Nur zu Fuß über die markierten Wege erreichbar – betrachten Sie den Höhleneingang von oben."
+      },
+      {
+        "name": "Konnos Bay & Blue Lagoon",
+        "tag": "Strand",
+        "description": "Ein geschützter goldsandiger Strand am östlichen Rand des Parks mit klarem flachen Wasser, Wassersportverleih und einer saisonalen Taverne – der klassische Bade-Stopp nach der Kap-Besichtigung."
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Fotogalerie – Cape Cavo Greco Bilder",
+    "subtitle": "Die schönsten Ansichten von Cape Cavo Greco in Agia Napa, Zypern",
+    "captions": [
+      "Meeresgrotten-Blick am Cape Cavo Greco, Agia Napa",
+      "Fernansicht der Halbinsel Cape Cavo Greco",
+      "Naturpfad im Nationalforstpark Cape Cavo Greco",
+      "Felsformationen an den Klippen des Cape Cavo Greco",
+      "Kristallklares Wasser nahe Cape Cavo Greco",
+      "Sonnenuntergangs-Blick vom Klippenrand des Cape Cavo Greco",
+      "Natürliche Kalksteinformationen am Cape Cavo Greco",
+      "Mittelmeerküste am Cape Cavo Greco",
+      "Panorama-Seeblick vom Aussichtspunkt Cape Cavo Greco",
+      "Naturschutzgebiet rund um Cape Cavo Greco",
+      "360°-Panoramablick auf Cape Cavo Greco",
+      "Frühlingslandschaft am Cape Cavo Greco, Zypern",
+      "Natürliche Bucht bei Cape Cavo Greco zum Schwimmen",
+      "Mittelmeervegetation am Cape Cavo Greco",
+      "Sonnenuntergangs-Panorama am Cape Cavo Greco",
+      "Wanderwege nahe dem Eingang des Cape Cavo Greco",
+      "Meer- und Himmelblick vom Cape Cavo Greco"
+    ],
+    "viewAll": "Auf Google Maps ansehen",
+    "showAll": "Alle Fotos anzeigen",
+    "showLess": "Weniger anzeigen"
+  },
+  "reviews": {
+    "title": "Besucherbewertungen – Cape Cavo Greco Bewertungen",
+    "declaration": "Bewertungen können über Google Maps eingesehen werden.",
+    "moreReviews": "Weitere Bewertungen auf Google Maps ansehen",
+    "items": [
+      {
+        "name": "John S.",
+        "rating": 5,
+        "date": "2026-03-15",
+        "text": "Unglaublicher Ort! Die Meeresgrotten sind spektakulär. Ein Besuch bei Sonnenuntergang wird empfohlen."
+      },
+      {
+        "name": "Mary K.",
+        "rating": 5,
+        "date": "2026-02-20",
+        "text": "Mit meiner Familie unterwegs gewesen und es war ausgezeichnet. Ein ruhiger und entspannender Ort, perfekt für Familienbesuche."
+      },
+      {
+        "name": "David M.",
+        "rating": 5,
+        "date": "2026-04-05",
+        "text": "Ein sehr schöner Ort zum Wandern. Die Aussicht ist großartig. Ideal zum Fotografieren."
+      },
+      {
+        "name": "Helen R.",
+        "rating": 5,
+        "date": "2026-01-10",
+        "text": "Bei einem Besuch auf Zypern ist dies eine der Top-Naturattraktionen, die Sie nicht verpassen sollten. Bei Sonnenuntergang sehr romantisch."
+      },
+      {
+        "name": "Mark T.",
+        "rating": 5,
+        "date": "2025-12-18",
+        "text": "Natürlicher Ort mit unglaublicher Energie. Freier Eintritt und atemberaubende Aussichten."
+      },
+      {
+        "name": "Claire W.",
+        "rating": 5,
+        "date": "2025-11-22",
+        "text": "Perfekter Ort zur Entspannung und Fotografie. Nicht verpassen, wenn Sie auf Zypern sind."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Kartenstandort – Cape Cavo Greco, Agia Napa",
+    "subtitle": "X36M+8CV, Agia Napa 5330, Bezirk Famagusta, Zypern",
+    "openMaps": "Auf Google Maps ansehen",
+    "hero": {
+      "mapsLink": "https://maps.app.goo.gl/FigeLZdG7kd1iPYcA"
+    }
+  },
+  "facilities": {
+    "title": "Besuchereinrichtungen & Dienstleistungen in der Nähe – Cape Cavo Greco",
+    "intro": "Cape Greco ist ein geschütztes Natura-2000-Gebiet mit minimaler baulicher Infrastruktur vor Ort, um die ökologische Integrität der Lebensräume zu bewahren. Die folgende Zusammenfassung beschreibt die Art der Einrichtungen, die im und um das Reservat verfügbar sind; es werden keine einzelnen kommerziellen Betreiber genannt oder empfohlen.",
+    "restrooms": {
+      "title": "Öffentliche Toiletten (WC)",
+      "description": "Innerhalb des Reservats selbst werden gemäß den Natura-2000-Managementvorschriften keine dauerhaften öffentlichen Toiletten bereitgestellt. Sanitäranlagen kommunaler und saisonaler Strandbetreiber befinden sich in den nächstgelegenen Ortschaften, typischerweise 5–8 Autominuten vom westlichen Eingang entfernt. Familien und Personen mit medizinischem Bedarf sollten dies vor dem Betreten der Wege einplanen.",
+      "subtitle": "Nächste Arten: kommunale Toiletten Agia Napa (5–8 Min. Fahrt) · saisonale Anlagen Konnos Beach"
+    },
+    "parking": {
+      "title": "Parken (Vor Ort & Ausweichfläche)",
+      "description": "Das Forstdepartement Zyperns unterhält zwei kostenlose ausgewiesene Schotterparkplätze am westlichen Zugang. Der Hauptparkplatz fasst ca. 180 leichte Fahrzeuge; eine westlich gelegene Ausweichschotterfläche wird während der Augustspitze von den Rangern aktiviert. Beide Parkplätze verfügen über gekennzeichnete Behindertenparkplätze, ausgewiesene Wohnmobil- und Buszonen und sind unversiegelt mit verdichtetem Schotter. Übernachtung mit Fahrzeug ist nicht gestattet. Im Reservat sind keine Ladestationen für Elektrofahrzeuge installiert.",
+      "subtitle": "Hauptfläche ~180 Plätze · Ausweichfläche ~220 Plätze · Behindertenplätze vorhanden · Busplätze vorhanden · kostenlos 24/7"
+    },
+    "dining": {
+      "title": "Gastronomiebetriebe",
+      "description": "Das Reservat selbst enthält keinerlei kommerzielle Gastronomieangebote. An den westlichen und Konnos-Endpunkten werden zwei ausgewiesene Picknickbereiche mit Steintischen und -bänken für Besucher mit eigenen Speisen bereitgestellt. Das volle Spektrum an ungezwungenen Restaurants, Schnellrestaurants, traditionellen Tavernen, Cafés und Bäckereien konzentriert sich in den nahegelegenen Ferienorten Agia Napa und Protaras, bei typischen Fahrzeiten von 5 bis 15 Minuten je nach Einrichtungstyp.",
+      "subtitle": "Arten innerhalb von 5–15 Min. Fahrt: Tavernen, Cafés, Bäckereien, Schnellrestaurants (Agia Napa / Protaras / Konnos)"
+    },
+    "accommodation": {
+      "title": "Unterkunftsarten",
+      "description": "Innerhalb der Grenzen des Reservats ist jede Art von Übernachtung untersagt. Die benachbarten Ferienorte Agia Napa (im Westen) und Protaras–Paralimni (im Osten und Norden) bieten zusammen das volle Spektrum an Unterkunftsarten, das auf einem Mittelmeerziel üblich ist. Die typischen Fahrzeiten vom Reservatseingang zu den Konzentrationsgebieten jeder Kategorie reichen von 5 Minuten für die günstigsten Optionen bis 20 Minuten zu den verstreuteren gehobenen Resorts.",
+      "subtitle": "Arten innerhalb von 5–20 Min. Fahrt: Boutique-Hotels · All-Inclusive-Resorts · Apartments · Agrotourismus · Hostels (Agia Napa / Protaras / Paralimni)"
+    },
+    "shopping": {
+      "title": "Supermärkte, Apotheken & Versorgungspunkte",
+      "description": "Apotheken, Supermärkte, Convenience-Stores und Trinkwasserangebote sind vor Ort nicht verfügbar. Die nächstgelegenen Supermärkte und unabhängigen Apotheken befinden sich in den bebaukten Geschäftsstraßen von Agia Napa (ca. 7 Autominuten) und der Hauptstraße von Protaras (ca. 12 Autominuten). 24-Stunden-Convenience-Stores sind entlang der Straße Agia Napa–Paralimni verfügbar.",
+      "subtitle": "Arten innerhalb von 7–12 Min. Fahrt: Supermarktketten · Apotheken · 24-h-Convenience-Stores · Wasser- & Sonnencreme-Nachschub"
+    },
+    "fuel": {
+      "title": "Tankstellen & E-Ladesäulen",
+      "description": "Konventionelle Tankstellen für Benzin und Diesel befinden sich an der Schnellstraße Agia Napa–Paralimni, ca. 8 Autominuten westlich des Haupteingangs. Öffentliche DC-Schnellladestationen für Elektrofahrzeuge konzentrieren sich in kommunalen Parkhäusern mit Gebührenpflicht und großflächigen Einzelhandelsstandorten in den Stadtgebieten von Agia Napa und Paralimni, bei Fahrzeiten von ca. 10 bis 14 Minuten. Innerhalb des Reservats gibt es keinerlei Kraftstoff-, LPG- oder EV-Ladeinfrastruktur.",
+      "subtitle": "Tankstellen ~8 Min. · öffentliche EV-DC-Schnelllader 10–14 Min. Fahrt (Agia Napa / Paralimni)"
+    },
+    "medical": {
+      "title": "Medizinische & Notdienste",
+      "description": "Es gibt keine medizinische Klinik oder Ranger-Sanitätsstation im Reservat. Die nächstgelegene Einrichtung vom Typ Gesundheitszentrum befindet sich in der Stadt Agia Napa (ca. 10 Autominuten). Allgemeinkrankenhaus- und Notfallleistungen bietet das General Hospital Famagusta an der Straße Paralimni–Deryneia, ca. 18–22 Autominuten entfernt. Die landesweite Notrufnummer für Zypern ist 112.",
+      "subtitle": "Gesundheitszentrum ~10 Min. · General Hospital Famagusta Notaufnahme ~18–22 Min. · landesweite Notrufnummer 112"
+    },
+    "accessibility": {
+      "title": "Barrierefreiheit & Universelles Design",
+      "description": "Barrierefreie asphaltierte Behindertenparkplätze sind an beiden Eingängen (West und Konnos) verfügbar. Die beiden Hauptklippen-Aussichtsplattformen (Brücke der Liebenden und Sunset View) wurden in den LIFE+-Arbeiten 2011 mit sanften Steigungen und verzinkten Stahlgeländern wiederaufgebaut und sind mit Standard-Rollstühlen nutzbar. Die Kapelle der Agioi Anargyroi ist über einen befestigten Zufahrtsweg von 680 m mit weniger als 4 % Steigung erreichbar. Die Meeresgrotten und fast alle Wanderwege verlaufen über unregelmäßigen Felsgrund und Geröll und sind nicht für Rollstühle oder Kinderwagen geeignet. Begleit- und Assistenzhunde sind im gesamten Reservat erlaubt.",
+      "subtitle": "Barrierefreie Parkplätze vorhanden · zwei Aussichtsrampen · Kapellen-Zugangsrampe · Wege/Höhlen nicht angepasst · Assistenzhunde willkommen"
+    }
+  },
+  "footer": {
+    "brandName": "Cape Cavo Greco (Ακρωτήριο Κάβο Γκρέκο)",
+    "brandSubtitle": "Natura 2000 SCI CY3000005 · Agia Napa, Famagusta, Zypern",
+    "rights": "© 2026 Unabhängiges gemeinnütziges Tourismus-Forschungsprojekt · Alle Rechte vorbehalten.",
+    "privacy": "Datenschutzerklärung",
+    "terms": "Nutzungsbedingungen",
+    "cookies": "Cookie-Einstellungen",
+    "officialResourcesTitle": "Offizielle Behörden & Primärquellen",
+    "officialLinks": {
+      "moa": "Landwirtschaftsministerium – Forstdepartement Zyperns (Verwaltungsbehörde)",
+      "visitcyprus": "Stellvertretendes Tourismusministerium der Republik Zypern – Nationaler Eintrag Cape Greco",
+      "visitfamagusta": "Regionaler Tourismusverband Famagusta – Offizielles Regionalportal",
+      "agianapa": "Gemeinde Agia Napa – Gemeindemitteilungen & Zugangs-Updates",
+      "natura2000": "Natura-2000-Datenbank (EUA) – Standarddatenbogen CY3000005"
+    },
+    "disclaimer": "Diese Website ist ein unabhängiges gemeinnütziges Tourismus-Bildungsprojekt Dritter. Wir sind weder mit der Regierung Zyperns noch mit einer ihrer Behörden verbunden oder von ihnen unterstützt. Für regulatorische und sicherheitsrelevante Aktualisierungen konsultieren Sie bitte stets die oben genannten offiziellen Behördenlinks.",
+    "imageRights": "Alle auf dieser Website angezeigten Bilder sind Eigentum der jeweiligen Fotografen und urheberrechtlich geschützt."
+  },
+  "officialManagement": {
+    "title": "Über Cape Cavo Greco – Management & Schutz",
+    "text": "Der Nationalforstpark Cape Greco wird vom Forstdepartement Zyperns (Υπουργείο Γεωργίας – Τμήμα Δασών) nach Cap. 130 des Forstgesetzes und dem Gesetz zum Schutz und zur Bewirtschaftung von Natur und Wildtieren 153(I)/2003 verwaltet und geschützt. Das Gebiet ist im Natura-2000-Netz als Gebiet von gemeinschaftlicher Bedeutung CY3000005 eingetragen. Alle Managemententscheidungen folgen dem integrierten Managementplan 2022–2026, der mit der Technischen Universität Zyperns erstellt wurde."
+  },
+  "privacy": {
+    "title": "Datenschutzerklärung",
+    "lastUpdated": "Zuletzt aktualisiert: Mai 2026",
+    "sections": [
+      {
+        "heading": "Informationserfassung",
+        "content": "Wenn Sie unsere Website besuchen, erfassen wir möglicherweise automatisch grundlegende Informationen über Ihr Gerät, Ihren Browser und Ihr Surfverhalten, um ein besseres Nutzungserlebnis zu bieten. Diese Informationen enthalten keine persönliche Identität."
+      },
+      {
+        "heading": "Verwendung von Cookies",
+        "content": "Wir verwenden Cookies, um den Website-Verkehr zu analysieren und die Seiteninhalte zu optimieren. Sie können Ihre Präferenzen jederzeit über die Option Cookie-Einstellungen am Ende unserer Website verwalten."
+      },
+      {
+        "heading": "Datensicherheit und -schutz",
+        "content": "Wir verpflichten uns, die Sicherheit Ihrer Privatsphärendaten zu schützen und werden Ihre Surf-Daten nicht an Dritte zu kommerziellen Zwecken verkaufen, vermieten oder handeln."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Nutzungsbedingungen",
+    "lastUpdated": "Zuletzt aktualisiert: Mai 2026",
+    "sections": [
+      {
+        "heading": "Website-Inhalte und Nutzung",
+        "content": "Diese Website bietet unabhängiges gemeinnütziges Bildungsmaterial über Cape Greco, einschließlich Reise-, Transport-, geologischer, ökologischer und historischer Informationen. Alle Inhalte dienen nur der Information. Tatsächliche Öffnungszeiten, Wegezustände und behördliche Beschränkungen können sich ohne Vorankündigung ändern; konsultieren Sie bitte die offiziellen Behördenlinks für die aktuellsten Informationen."
+      },
+      {
+        "heading": "Geistiges Eigentum",
+        "content": "Die Texte, Typografie, das Grafikdesign und die Originalfotografie auf dieser Website sind durch internationales Urheberrecht geschützt. Ohne ausdrückliche schriftliche Genehmigung darf niemand die Website-Inhalte zu kommerziellen Zwecken nutzen."
+      },
+      {
+        "heading": "Haftungsausschluss",
+        "content": "Wir bemühen uns um die Richtigkeit und Aktualität der Bildungsinformationen, übernehmen jedoch keine rechtliche Verantwortung für Verletzungen, Verzögerungen oder Verluste, die direkt oder indirekt durch das Vertrauen auf die auf dieser Website bereitgestellten Informationen entstehen."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie-Einstellungen",
+    "description": "Verwalten Sie Ihre Cookie-Präferenzen für diese unabhängige gemeinnützige Website.",
+    "essential": {
+      "title": "Notwendige Cookies",
+      "description": "Für die grundlegende Funktionalität der Website erforderlich und können nicht deaktiviert werden.",
+      "badge": "Immer aktiv"
+    },
+    "analytics": {
+      "title": "Analyse",
+      "description": "Helfen uns, anonymes Besucherverhalten zu verstehen und die Bildungsinhalte der Website zu verbessern."
+    },
+    "marketing": {
+      "title": "Marketing",
+      "description": "Wird für standortübergreifendes Tracking und personalisierte Werbung verwendet – auf dieser nicht-kommerziellen Website standardmäßig deaktiviert."
+    },
+    "save": "Präferenzen speichern",
+    "saved": "Präferenzen gespeichert!"
+  }
+}

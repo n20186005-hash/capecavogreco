@@ -10,6 +10,7 @@ import FacilitiesSection from '@/components/FacilitiesSection';
 import InfoSection from '@/components/InfoSection';
 import NearbySection from '@/components/NearbySection';
 import RouteSection from '@/components/RouteSection';
+import AttractionsSection from '@/components/AttractionsSection';
 import Gallery from '@/components/Gallery';
 import Reviews from '@/components/Reviews';
 import MapEmbed from '@/components/MapEmbed';
@@ -38,6 +39,7 @@ export default async function HomePage({
         <InfoSection />
         <NearbySection />
         <RouteSection />
+        <AttractionsSection />
         <Gallery />
         <Reviews />
         <FAQSection />

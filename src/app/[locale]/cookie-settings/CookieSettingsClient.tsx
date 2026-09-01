@@ -69,6 +69,22 @@ export default function CookieSettingsClient() {
 
   function handleSave() {
     localStorage.setItem('cookiePrefs', JSON.stringify({ analytics, marketing }));
+    // 启用分析后立即加载 GA4，无需刷新页面
+    try {
+      const w = window as any;
+      if (analytics && !w.gtag) {
+        w.dataLayer = w.dataLayer || [];
+        w.gtag = function () {
+          w.dataLayer.push(arguments);
+        };
+        const s = document.createElement('script');
+        s.async = true;
+        s.src = 'https://www.googletagmanager.com/gtag/js?id=G-HXM22WWPKP';
+        document.head.appendChild(s);
+        w.gtag('js', new Date());
+        w.gtag('config', 'G-HXM22WWPKP');
+      }
+    } catch (e) {}
     setSaved(true);
     setTimeout(() => setSaved(false), 2000);
   }
