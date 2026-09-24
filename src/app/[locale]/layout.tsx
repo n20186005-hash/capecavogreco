@@ -4,7 +4,7 @@ import { notFound } from 'next/navigation';
 import { routing } from '@/i18n/routing';
 import type { Metadata } from 'next';
 
-const DOMAIN_NAME = 'capecavogreco.com';
+const DOMAIN_NAME = 'www.capecavogreco.com';
 const BASE_URL = `https://${DOMAIN_NAME}`;
 const HERO_IMAGE = `${BASE_URL}/gallery/cape-cavo-greco%20(1).jpg`;
 const MAPS_SHARE_URL = 'https://maps.app.goo.gl/FigeLZdG7kd1iPYcA';
@@ -146,6 +146,28 @@ const localeData: Record<string, {
     faqBestTimeA: 'Die Meeresgrotten lassen sich am besten morgens (vor 10:00 Uhr) oder am späten Nachmittag zum Fotografieren besuchen, um der Mittagshitze auszuweichen. April–Juni und September–November bieten die angenehmsten Bedingungen für die Wanderwege.',
     imageAlt: 'Cape Cavo Greco – Hauptansicht in Agia Napa, Zypern',
   },
+  pl: {
+    ogLocale: 'pl_PL',
+    htmlLang: 'pl-PL',
+    fullName: 'Cape Cavo Greco',
+    shortName: 'Cape Cavo Greco',
+    cityName: 'Ayia Napa',
+    stateProvince: 'Famagusta',
+    countryName: 'Cypr',
+    nearby1: 'Klasztor Ayia Napa',
+    nearby2: 'Zatoka Figowa, Protaras',
+    title: 'Cape Greco na Cyprze: Ostateczny przewodnik i najlepsze atrakcje',
+    description: 'Zaplanuj wizytę w parku narodowym Cape Greco (Cavo Greco) na Cyprze. Odkryj słynne Jaskinie Morskie, most Kamara Tou Koraka, szlaki piesze, linie autobusowe i punkty zachodu słońca. Bezpłatne wejście!',
+    ogTitle: 'Cape Greco na Cyprze: Ostateczny przewodnik i najlepsze atrakcje',
+    ogDescription: 'Zaplanuj wizytę w parku narodowym Cape Greco na Cyprze – Jaskinie Morskie, Most Zakochanych, szlaki piesze i punkty zachodu słońca. Bezpłatne wejście!',
+    faqLocationQ: 'Gdzie znajduje się Cape Cavo Greco?',
+    faqLocationA: 'Cape Cavo Greco znajduje się w Ayia Napa, w dystrykcie Famagusta, na Cyprze.',
+    faqFreeQ: 'Czy wstęp do Cape Cavo Greco jest bezpłatny?',
+    faqFreeA: 'Tak, Cape Cavo Greco jest terenem publicznym i można go zwiedzać bezpłatnie przez cały rok.',
+    faqBestTimeQ: 'Kiedy najlepiej odwiedzić Jaskinie Morskie w Cape Greco?',
+    faqBestTimeA: 'Jaskinie morskie najlepiej odwiedzać rano (przed 10:00) lub późnym popołudniem, by uniknąć południowego upału. Kwiecień–czerwiec i wrzesień–listopad to najprzyjemniejszy czas na szlaki piesze.',
+    imageAlt: 'Cape Cavo Greco – główny widok w Ayia Napa, Cypr',
+  },
 };
 
 export function generateStaticParams() {
@@ -192,7 +214,7 @@ export async function generateMetadata({
         'zh': zhUrl,
         'tr': trUrl,
         'de': deUrl,
-        'x-default': elUrl,
+        'x-default': enUrl,
       },
     },
     openGraph: {
