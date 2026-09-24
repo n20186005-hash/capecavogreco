@@ -1,0 +1,608 @@
+{
+  "meta": {
+    "title": "Cape Greco na Cyprze: Ostateczny przewodnik i najlepsze atrakcje",
+    "description": "Zaplanuj wizytę w parku narodowym Cape Greco (Cavo Greco) na Cyprze. Odkryj słynne Jaskinie Morskie, most Kamara Tou Koraka, szlaki piesze, linie autobusowe i punkty zachodu słońca. Bezpłatne wejście!"
+  },
+  "header": {
+    "home": "Strona główna",
+    "gallery": "Galeria",
+    "reviews": "Opinie",
+    "map": "Mapa",
+    "backToHome": "Powrót do strony głównej"
+  },
+  "hero": {
+    "title": "Cape Greco na Cyprze – Jaskinie Morskie i przewodnik",
+    "subtitle": "Natura 2000 · Park Narodowy · Famagusta, Cypr",
+    "rating": "4.8",
+    "reviewCount": "6 784 opinii",
+    "type": "Rezerwat przyrody / SCI CY3000005",
+    "openMaps": "Zobacz w Mapach Google",
+    "mapsLink": "https://maps.app.goo.gl/FigeLZdG7kd1iPYcA"
+  },
+  "intro": {
+    "title": "O Cape Cavo Greco – rezerwat przyrody w Ayia Napa",
+    "equivalence": "Witamy w Cape Cavo Greco, powszechnie uznawanym za główny punkt orientacyjny Cape Greco. Położony na południowo-wschodnim cyplu Ayia Napa w dystrykcie Famagusta na Cyprze, ten cel stanowi główny chroniony rezerwat wybrzeża dla podróżnych odwiedzających region Famagusty. To surowy półwysep wapienny i obszar Natura 2000 (Specjalny Obszar Ochrony – SAC CY3000005), z klifowymi szlakami pieszymi, krystalicznie czystymi błękitnymi lagunami i krasowymi jaskiniami morskimi.",
+    "breadcrumb": {
+      "label": "Hierarchia lokalizacji",
+      "level1": "Cape Cavo Greco",
+      "level2": "Ayia Napa",
+      "level3": "Famagusta (Αμμόχωστος)",
+      "level4": "Cypr (Κύπρος)"
+    },
+    "nearbyCluster": "Podczas wizyty w Cape Cavo Greco można łatwo zwiedzić okoliczne zabytki i atrakcje, w tym klasztor Ayia Napa oraz pas wybrzeża Zatoki Figowej w Protaras.",
+    "description": "Cape Cavo Greco (gr. Ακρωτήριο Κάβο Γκρέκο; tur. Cape Greco) tworzy najbardziej na południowy wschód wysunięty cypel wyspy Cypr. Położony między kurortami Ayia Napa na zachodzie a Protaras na wschodzie, chroni około 4,2 km² nietkniętej śródziemnomorskiej makii, wapiennych klifów morskich i endemicznych ekosystemów wybrzeża. Administrowany przez cypryjski Wydział Lasów, cypel został wpisany do europejskiej sieci Natura 2000 w 2006 roku jako Obszar Znaczenia Wspólnotowego (SCI) ze względu na siedliska priorytetowe i zagrożone gatunki.",
+    "visitGuide": {
+      "title": "Wskazówki do zwiedzania",
+      "items": [
+        "Zalecane terminy wizyt: marzec–czerwiec (wiosenne kwitnienie) oraz wrzesień–listopad (łagodna jesienna aura na szlaki).",
+        "Buty o dobrej przyczepności są niezbędne na nierównym wapieniu i na usypiskach.",
+        "Należy zabrać co najmniej 1,5 l wody na osobę oraz silny filtr przeciwsłoneczny między majem a październikiem.",
+        "Obserwację zachodu słońca należy prowadzić wyłącznie z wyznaczonych punktów widokowych, z dala od niezabezpieczonych krawędzi klifów."
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Najważniejsze atrakcje",
+      "items": [
+        "Jaskinia Cyklopa (Spilia tou Kiklopa) i skupisko Jaskiń Morskich",
+        "Zatoczki do pływania typu Blue Lagoon z przejrzystą wodą",
+        "Oznakowane szlaki sieci cypryjskich parków narodowych",
+        "Panoramiczne widoki zachodu słońca nad horyzontem Morza Śródziemnego"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "O Cape Cavo Greco – historia, geologia, ekologia i ochrona",
+    "sections": [
+      {
+        "id": "etymology",
+        "title": "Etymologia i nazewnictwo – Cape Greco na przestrzeni wieków",
+        "structuredContent": [
+          { "type": "subtitle", "text": "Weneckie pochodzenie nazwy" },
+          { "type": "paragraph", "text": "Nazwa Cavo Greco pojawia się w zapisach historycznych w okresie weneckiej kolonizacji (1489–1571 n.e.), gdy weneccy kartografowie i piloci nanieśli przylądek na portolany jako Càvo Greco – po włosku „grecki przylądek”. Nazwa odróżniała cypel od przeważającego tureckojęzycznego wybrzeża na północy i odzwierciedlała trwały grecko-prawosławny charakter wiosek wybrzeża Famagusty, odnotowany już w weneckich spisach z XVI wieku." },
+          { "type": "subtitle", "text": "Antyczne i późnoantyczne odpowiedniki" },
+          { "type": "paragraph", "text": "W starożytności cypel jest wstępnie utożsamiany z akron wymienionym w Stadiasmus Maris Magni (III w. n.e.), rzymskim periplusie wyliczającym odległości wybrzeży Lewantu. Bizantyjskie teksty administracyjne z okresu Komnenów określają zaplecze jako część turmy Famagusty, choć sam cypel był znany lokalnie pod obecnie zapomnianym mianem związanym z cerkwią Świętych Bezśrebrników." },
+          { "type": "subtitle", "text": "Późniejsze warstwy administracyjne" },
+          { "type": "list", "ordered": false, "items": [
+            "Okres osmański (1571–1878): w rejestrach ziemskich (tapu tahrir) określany jako Kef-i Rum; brak stałego osadnictwa na samym cyplu.",
+            "Okres brytyjskiej kolonizacji (1878–1960): wykorzystywany jako stacja sygnałowa wybrzeża i baza trygonometryczna dla Ordnance Survey of Cyprus (arkusz 5, Famagusta).",
+            "Niepodległa Republika Cypru (1960–obecnie): ustanowiony parkiem narodowym w 1990 r., wpisany jako SCI Natura 2000 w 2006 r."
+          ] }
+        ]
+      },
+      {
+        "id": "mythology",
+        "title": "Mitologia i lokalny folklor – wybrzeże Afrodyty",
+        "structuredContent": [
+          { "type": "paragraph", "text": "Cape Cavo Greco leży około 18 km na wschód od Petra tou Romiou (Skały Greka), mitycznego miejsca narodzin Afrodyty według Teogonii Hezjoda (Teogonia, w. 188–206). Cypryjski folklor, przekazywany ustnie wśród mieszkańców Ayia Napa i Liopetri, od dawna wplata cypel w narrację o wędrówce bogini wzdłuż południowego wybrzeża." },
+          { "type": "subtitle", "text": "Jaskinia Cyklopa (Spilia tou Kiklopa)" },
+          { "type": "paragraph", "text": "Największa z krasowych jaskiń cypla, znana powszechnie jako Jaskinia Cyklopa, jest w cypryjskiej tradycji ludowej wiązana z homeryckim Cyklopem Polifemem – postacią, której egejskie kulte rozprzestrzeniły się na zachód od wybrzeży Lewantu. Prace archeologiczne Wydziału Zabytków z 2001 r. odkryły przy wejściu do jaskini ceramikę z okresu wczesnochrześcijańskiego, co sugeruje jej okresowe wykorzystanie jako schronienia i być może stacji wotywnej." },
+          { "type": "subtitle", "text": "Święci Anargyroi morza" },
+          { "type": "paragraph", "text": "Bliźniaczy święci Kosma i Damian (Święci Anargyroi), patroni lekarzy i społeczności morskich, zajmują ważne miejsce w lokalnej legendzie. Rybacy starszego pokolenia opowiadają historie o świętych ukazujących się w świetlistych szatach nad falami cypla, by prowadzić targane burzą łodzie do portu. Mała kaplica im poświęcona przy wejściu na cypel wciąż jest miejscem procesyjnych nabożeństw w ich dzień święta, 1 lipca (kalendarz juliański, 14 lipca gregoriański)." }
+        ]
+      },
+      {
+        "id": "byzantine",
+        "title": "Bizantyjskie dziedzictwo religijne – kaplica Agioi Anargyroi",
+        "structuredContent": [
+          { "type": "paragraph", "text": "Kaplica Agioi Anargyroi (Άγιοι Ανάργυροι) zajmuje małą półkę około 700 m na północny zachód od triangulacyjnego słupa cypla. Typologia architektoniczna – zwarty plan krzyżowo-kopułowy, pojedyncza półkolistą kopuła na niskim bębnie, półkolista absyda sanktuarium – datuje pierwotną budowlę na średniowizantyjski okres, wstępnie XI–XII wiek, choć widoczna substancja zawiera znaczące późniejsze przebudowy." },
+          { "type": "subtitle", "text": "Dowody architektoniczne i epigraficzne" },
+          { "type": "list", "ordered": false, "items": [
+            "Oryginalne murowanie opus quadratum dolnych ścian wykorzystuje miejscowy górno-kredowy wapień wydobywany w pobliżu Liopetri.",
+            "Fragmenty wewnętrznych fresków, dziś w dużej mierze zatarte, zostały stylowo datowane przez Wydział Zabytków na palajologowskie odrodzenie w XIV wieku.",
+            "Zużyta marmurowa nadprożna inskrypcja, dziś nieczytelna, została odnotowana w kolonialnym Survey of the Monuments of Cyprus (1935, Gunnis) jako nosząca datę 1714 – prawdopodobnie rok ostatniego większego pokrycia dachem pod osmańskim mecenatem."
+          ] },
+          { "type": "subtitle", "text": "Współczesne użytkowanie liturgiczne" },
+          { "type": "paragraph", "text": "Kaplica pozostaje kaplicą zależną (παρεκκλήσι) parafii klasztoru Ayia Napa. Nabożeństwa odprawiane są raz w miesiącu w sobotę najbliższą 1. i 14. dnia miesiąca, a raz w roku w święto Anargyroi odprawiana jest duża liturgia na świeżym powietrzu z udziałem dekanatu wiejskiego Famagusty." }
+        ]
+      },
+      {
+        "id": "geopolitical",
+        "title": "Nowoczesna historia geopolityczna – era kolonialna i strefa buforowa",
+        "structuredContent": [
+          { "type": "subtitle", "text": "Brytyjska kolonialna stacja wybrzeża" },
+          { "type": "paragraph", "text": "Po przejęciu administracji Cypru przez Wielką Brytanię na mocy konwencji brytyjsko-osmańskiej z 1878 r., Hydrograficzny Urząd Admiralicji wskazał Cape Greco jako kluczowy punkt kontrolny nawigacji redy Famagusty. W 1880 r. wzniesiono kamienny znak dzienny, a w 1911 r. zamontowano małą nieobsadzoną latarnię acetylenową – działającą z przerwami do II wojny światowej. Akta wojskowe w Narodowym Archiwum (WO 273/772, Cyprus) dodatkowo odnotowują wykorzystanie cypla jako bazy radiowej radiolokacji podczas cypryjskiego stanu wyjątkowego (1955–1959)." },
+          { "type": "subtitle", "text": "1974 i strefa buforowa" },
+          { "type": "paragraph", "text": "Po tureckiej interwencji wojskowej z lipca–sierpnia 1974 r. cypel znalazł się w odległości 3 km od południowego skrzydła strefy buforowej ONZ, podążającej wzdłuż dawnej linii zawieszenia broni (Zielonej Linii) przez wschodnią część wyspy. Choć sam cypel pozostaje pod faktyczną administracją Republiki Cypru i jest otwarty dla zwiedzających, węższa strefa wyłączenia wojskowego utrzymuje się dalej na północ, wyznaczona posterunkami obserwacyjnymi Gwardii Narodowej Cypru. Cypel nigdy nie był miejscem walk zbrojnych." }
+        ]
+      },
+      {
+        "id": "geology",
+        "title": "Geologia i geomorfologia – ofiolit Troodos i krasowe wybrzeże",
+        "structuredContent": [
+          { "type": "subtitle", "text": "Rama litologiczna: ofiolit Troodos" },
+          { "type": "paragraph", "text": "Cape Cavo Greco stanowi wybrzeżowe wyrażenie wschodniego ramienia ofiolitu Troodos, fragmentu późnokredowej (ok. 90 mln lat, cenoman–turond) oceanicznej litosfery wdaszczonej na północną pasywną krawędź płyty afrykańskiej podczas mastrychtu. Skały wychodzące na cyplu należą do Górnej Jednostki Law Poduszek sekwencji ofiolitu – pęcherzykowych bazaltów tolaliitycznych oraz przeławicowanych łupków i krzemionek typu umber i radiolari, przykrytych dyskordancyjnie transgresyjną sekwencją kredowo-paleoceńskich wapieni kredowych formacji Lefkara." },
+          { "type": "subtitle", "text": "Geomorfologia krasu: jaskinie i naturalne łuki" },
+          { "type": "list", "ordered": false, "items": [
+            "Jaskinie morskie: 23 skartowane morskie jaskinie krasowe i reliktowe jaskinie kopalne, największą jest Jaskinia Cyklopa (Spilia tou Kiklopa) o komorze długości 47 m.",
+            "Naturalne mosty: dwa wapienne łuki morskie, znane lokalnie jako Most Zakochanych (Γεφύρι της Αγάπης) na północnym wybrzeżu. Mniejszy wschodni łuk częściowo zawalił się podczas sztormu 30 listopada 2017 r., co odnotował Wydział Badań Geologicznych.",
+            "Stosy skalne i platformy abrazyjne: rozległy rozwój platform brzegowych na poziomach eustatycznych +3 m i +6 m, odpowiadających tarasom tyreńskiemu i sycylijskiemu (odpowiednio MIS 5e, 125 tys. lat, i MIS 9, 330 tys. lat)."
+          ] },
+          { "type": "subtitle", "text": "Morfometria klifów" },
+          { "type": "paragraph", "text": "Wysokość klifów wzdłuż południowej (otwartej na morze) ściany waha się od 28 m przy zachodnim podejściu do maksimum 67 m w samym punkcie Cape Point (34,9609° N, 34,0788° E), ze średnią szybkością cofania 2,1 cm/rok według transektów monitoringu Wydziału Badań Geologicznych (2008–2023). Północne wybrzeże, chronione wewnątrz zatoki Famagusty, zdominowane jest przez niskie nawierzchnie wapienne i małe zatoczki." }
+        ]
+      },
+      {
+        "id": "ecology",
+        "title": "Ekologia i bioróżnorodność – obszar Natura 2000 CY3000005",
+        "structuredContent": [
+          { "type": "subtitle", "text": "Wyznaczenie Natura 2000 i siedliska" },
+          { "type": "paragraph", "text": "Park Narodowy Cape Greco został wyznaczony jako Obszar Znaczenia Wspólnotowego (SCI) na mocy dyrektywy Rady 92/43/EWG, z oficjalnym kodem Europejskiej Agencji Środowiska CY3000005. Standardowy formularz danych rejestruje osiem priorytetowych siedlisk z Załącznika I, z których na cyplu dominują:" },
+          { "type": "list", "ordered": false, "items": [
+            "5310 – niskie formacje Erica arborea (Erico-Oleetum oleasteris, cypryjska odmiana endemiczna).",
+            "5420 – frygana Sarcopoterium spinosum na głębokich glebach terra rossa.",
+            "1240 – porośnięte roślinnością klify morskie wybrzeży śródziemnomorskich z endemicznymi gatunkami Limonium.",
+            "1110 – ławice piaszczyste stale przykryte wodą morską (zatoka Konnos i Blue Lagoon)."
+          ] },
+          { "type": "subtitle", "text": "Zagrożona fauna (Załącznik II dyrektywy o siedliskach)" },
+          { "type": "list", "ordered": false, "items": [
+            "Monachus monachus Hermann, 1779 – mniszka śródziemnomorska (Czerwona Lista IUCN: krytycznie zagrożony, CR). Wyjścia na ląd są regularnie notowane w zachodnich jaskiniach morskich, a dane telemetryczne z MOm (Hellenic Society for the Study and Protection of the Monk Seal) udokumentowały trzy osobniki korzystające z tego miejsca w latach 2019–2024.",
+            "Falco eleonorae Gené, 1839 – sokół wędrowny Eleonory. Niewielka kolonia lęgowa 6–8 par gnieździ się na niedostępnych północnych stosach skalnych, co potwierdziły systematyczne badania lęgowe BirdLife Cyprus w latach 2017–2021.",
+            "Testudo graeca Linnaeus, 1758 – żółw grecki; Chamaeleo chamaeleon Linnaeus, 1758 – kameleon śródziemnomorski. Oba gatunki mają stabilne subpopulacje w makii na północ od drogi Konnos."
+          ] },
+          { "type": "subtitle", "text": "Flora o znaczeniu ochronnym" },
+          { "type": "paragraph", "text": "Prace florystyczne opublikowane przez Cypryjski Instytut Botaniczny rejestrują 312 taksonów roślin naczyniowych na terenie ochrony, z czego 17 to endemity Cypru, w tym Phlomis cypria var. occidentalis Meikle, Limonium cyprium (Meikle) Brullo oraz Orobanche sungariae var. minor (cypryjski zarazy). Zagrożony endemiczny tulipan Tulipa cypria Stapf został odnotowany na grząskach terra rossa północnego urwiska, kwitnąc w marcu–kwietniu." }
+        ]
+      },
+      {
+        "id": "restoration",
+        "title": "Zarządzanie ochroną, restauracja i pojemność turystyczna",
+        "structuredContent": [
+          { "type": "subtitle", "text": "Ramy instytucjonalne" },
+          { "type": "paragraph", "text": "Teren jest zarządzany przez cypryjski Wydział Lasów (Υπουργείο Γεωργίας – Τμήμα Δασών) na mocy Prawa Leśnego, Rozdz. 130, oraz Prawa ochrony i zarządzania przyrodą i dziką fauną 153(I)/2003. Zintegrowany pięcioletni Plan Zarządzania 2022–2026 został opracowany przy pomocy technicznej Politechniki Cypryjskiej, obejmując strefowanie na Strefę A (ścisła ochrona – jaskinie morskie), B (rekreacja o niskiej ingerencji) i C (parkingi i infrastruktura usługowa)." },
+          { "type": "subtitle", "text": "Projekty restauracji (2010–2025)" },
+          { "type": "list", "ordered": false, "items": [
+            "2011–2013, projekt LIFE+ Nature LIFE08 NAT/CY/000223 („CY-CAPE GRECO”): usunięcie inwazyjnej Acacia saligna z 18 ha, założenie 14 ha szkółek rodzimych roślin, budowa 1,2 km kładek dla ograniczenia deptania.",
+            "2019–2022, Program Rozwoju Obszarów Wiejskich EAFRD: odtworzenie 2,7 km oznakowanych szlaków pieszych i stabilizacja trzech punktów widokowych na krawędzi klifu przy użyciu murów z suchego kamienia.",
+            "2024–obecnie, projekt LIFE-IP 4 NATURA CY: coroczny systematyczny monitoring bioróżnorodności we współpracy z Labem Ekologii Morskiej Uniwersytetu Cypryjskiego."
+          ] },
+          { "type": "subtitle", "text": "Pojemność turystyczna" },
+          { "type": "paragraph", "text": "Szczytowa liczba odwiedzających odnotowana w 2023 r. przez automatyczne liczniki szlaków Wydziału Lasów osiągnęła średnią dobową 4 860 osób w pierwszym tygodniu sierpnia, z rekordem jednego dnia 7 214 osób 15 sierpnia (święto Wniebowzięcia). Plan Zarządzania 2022 definiuje ostrożnościową Rzeczywistą Pojemność (RCC) na 5 500 odwiedzających dziennie dla Strefy B; przekroczenia są łagodzone kierowaniem nadmiaru parkingów na zachodni parking awaryjny i uruchamianiem bezpłatnych shuttle'i we współpracy z gminą Ayia Napa." }
+        ]
+      },
+      {
+        "id": "lnt",
+        "title": "Zasady Leave No Trace – etyka outdoorowa dla cypla",
+        "structuredContent": [
+          { "type": "paragraph", "text": "Jako chroniony obszar Natura 2000, Cape Greco wymaga najwyższych standardów zachowania odwiedzających. Poniższe siedem zasad Leave No Trace (LNT) zaadaptowano z frameworku opracowanego przez międzynarodowe Centrum LNT i popartego przez cypryjski Wydział Lasów dla wszystkich państwowych terenów leśnych." },
+          { "type": "list", "ordered": true, "items": [
+            "Planuj z wyprzedzeniem i przygotuj się: sprawdź sezonową pogodę i ostrzeżenia o klifach na dwóch panelach informacyjnych; zabierz co najmniej 1,5 l wody na osobę; unikaj wchodzenia do jaskiń w pojedynkę.",
+            "Podróżuj i obozuj na trwałych powierzchniach: pozostań na oznakowanych szlakach; chodź tylko po skale lub utartych ścieżkach, by nie deptać kruchych biokrust i endemicznych populacji Limonium. Biwakowanie na całym terenie ochrony jest zabronione.",
+            "Pozbywaj się odpadów właściwie: wynieś WSZYSTKIE śmieci, włącznie z niedopałkami i obierkami owoców. Na terenie rezerwatu nie ma koszy; pojemniki są przy zachodnim parkingu.",
+            "Zostaw to, co znalazłeś: nie ruszaj ani nie zabieraj kamyków, krzemieni z skamieniałościami, skorup ceramicznych ani muszli morskich; te ostatnie są ważnym mikrośrodowiskiem dla przybrzeżnych ślimaków.",
+            "Minimalizuj skutki ognia: otwarte ogniska, przenośne grille i jednorazowe BBQ są ściśle zabronione na mocy Prawa Leśnego (Rozdz. 130, § 13). Naruszenia karane są stałą grzywną 250 €.",
+            "Szanuj dziką faunę: zachowaj minimalny dystans 200 m od wyjść mniszki; nie używaj flesza wewnątrz jaskiń (zakłóca hibernujące nietoperze i pisklęta sokoła Eleonory); psy muszą być na smyczy o długości maks. 1,5 m.",
+            "Okazuj szacunek innym odwiedzającym: wyłączaj sprzęt audio; szanuj spokój cerkwi podczas nabożeństw; ustępuj pierwszeństwa wspinającym się pod górę na wąskich odcinkach."
+          ] }
+        ]
+      }
+    ]
+  },
+  "faq": {
+    "title": "Najczęściej zadawane pytania – FAQ o Cape Cavo Greco",
+    "items": [
+      {
+        "question": "Gdzie znajduje się Cape Cavo Greco?",
+        "answer": "Cape Cavo Greco leży na południowo-wschodnim cyplu gminy Ayia Napa, w dystrykcie Famagusta, Republiki Cypru. Cypel stanowi granicę między zatokami Ayia Napa i Protaras, z administracyjnym Plus Code X36M+8CV i przybliżonymi współrzędnymi 34,96087° N, 34,07879° E."
+      },
+      {
+        "question": "Czy wstęp do Cape Cavo Greco jest bezpłatny?",
+        "answer": "Tak, Cape Cavo Greco jest państwowym lasem i publicznym obszarem Natura 2000, wstęp jest bezpłatny przez cały rok, całą dobę. Nie ma biletów wstępu, bramek ani wymogu rezerwacji. Parking na wszystkich wyznaczonych parkingach jest również bezpłatny."
+      },
+      {
+        "question": "Gdzie są najlepsze miejsca do pływania?",
+        "answer": "Pływać można w kilku małych zatoczkach na północnym wybrzeżu (od strony Famagusty), gdzie energia fal jest mniejsza, a wapienne podłoże tworzy naturalne baseny skalne. Południowe klify (otwarte morze) są niebezpieczne do pływania ze względu na nieprzewidywalną spoistość. Zdecydowanie zaleca się obuwie do wody na płaskich podeszwach."
+      },
+      {
+        "question": "Czy na terenie są toalety lub jedzenie?",
+        "answer": "W granicach rezerwatu nie ma obiektów komercyjnych, publicznych fontann z wodą ani stałych toalet publicznych, zgodnie z celami zarządzania Natura 2000. Najbliższe toalety publiczne znajdują się w centrum Ayia Napa (ok. 5–8 min jazdy) oraz przy sezonowych obiektach plażowych zatoki Konnos."
+      },
+      {
+        "question": "Czy Cape Greco jest dostępne dla wózków inwalidzkich lub dziecięcych?",
+        "answer": "Główny zachodni parking, dwie główne platformy widokowe i droga dojazdowa do kaplicy są utwardzone i dostępne dla wózków inwalidzkich, z wyznaczonymi miejscami parkingowymi dla niepełnosprawnych. Jednak jaskinie morskie, większość szlaków pieszych i naturalny łuk Mostu Zakochanych wymagają nierównych wapiennych schodów i nie są dostępne dla standardowych wózków ani wózków dziecięcych."
+      },
+      {
+        "question": "Czy mogę zabrać psa do Cape Greco?",
+        "answer": "Tak, psy domowe są dozwolone pod warunkiem trzymania ich na krótkiej smyczy (maks. 1,5 m) przez cały czas, zgodnie z Prawem Leśnym (Rozdz. 130) i regulacjami obszaru Natura 2000. Psy mają zakaz wstępu do zatoczek mniszki (oznakowane) oraz do wnętrza kaplicy. Należy posprzątać po psie."
+      },
+      {
+        "question": "Czy biwakowanie na dziko jest dozwolone?",
+        "answer": "Nie, nocleg w namiotach, biwakowanie i postoje kamperów są ściśle zabronione w całym Parku Narodowym. Komercyjne pole campingowe znajduje się w kurortach Ayia Napa i Protaras, 6 do 14 km od wejścia na cypel."
+      },
+      {
+        "question": "Czy mogę latać dronem nad Cape Greco?",
+        "answer": "Lot dronem wymaga uprzedniej pisemnej zgody Wydziału Lasów, ponieważ teren leży w buforowej strefie ochronnej Specjalnego Obszaru Ochrony Ptaków (SPA) korytarza Akrotiri–Famagusta. Nieautoryzowane loty w sezonie lęgowym sokoła Eleonory (czerwiec–październik) są ścigane na mocy Prawa o ochronie ptaków."
+      },
+      {
+        "question": "Kiedy najlepsza pora, by zobaczyć mniszkę śródziemnomorską?",
+        "answer": "Obserwacje są najczęstsze między listopadem a marcem, gdy otwarte morze pędzi foki do osłoniętych zachodnich jaskiń. O każdej porze roku należy zachować ustawowy dystans obserwacji minimum 200 metrów, a podpłynięcie do wylegującej się foki jest przestępstwem na mocy Prawa 153(I)/2003, zagrożonym grzywną do 85 000 €."
+      },
+      {
+        "question": "Jakie są główne ostrzeżenia dotyczące bezpieczeństwa pływania?",
+        "answer": "Między połową lipca a początkiem września fioletowe flagi przy głównych zatoczkach mogą wskazywać na zakwity Pelagia noctiluca (meduz). Południowe klify podlegają silnym prądom wstecznym przy południowych wiatrach; cypryjska Służba Meteorologiczna wydaje dwa razy dziennie prognozę stanu morza. Przy każdym wejściu do jaskini należy mieć kamizelkę asekuracyjną; nigdy nie wchodź do jaskini w pojedynkę ani przy przypływie."
+      }
+    ]
+  },
+  "nearby": {
+    "title": "Zabytki i atrakcje wokół Cape Cavo Greco",
+    "intro": "Okolica Cape Cavo Greco jest otoczona znaczącymi zabytkami historycznymi i naturalnymi. Łatwy dojazd z Ayia Napa ułatwia zwiedzanie okolicznych celów.",
+    "items": [
+      {
+        "name": "Klasztor Ayia Napa (XVI w.)",
+        "distance": "Ok. 5 min jazdy",
+        "description": "Późnowenecka–wczesnoosmańska warowna cerkiew i kościół parafialny, historyczny zarodek współczesnej Ayia Napa, łącząca frankijską architekturę gotycką z cypryjsko-bizantyjską."
+      },
+      {
+        "name": "Kurort nadmorski Protaras",
+        "distance": "Ok. 10 min jazdy",
+        "description": "Rodzinna okolica wybrzeża z serią piaszczystych plaż i płaskich promenad, ciągnąca się na wschód od zatoki Konnos w stronę perimeteru Dhekelia we Famaguście."
+      },
+      {
+        "name": "Zatoka Figowa, Protaras",
+        "distance": "Ok. 15 min jazdy",
+        "description": "Szeroka zatoka dojrzałego piasku, otoczona obsadzonymi figowcami, jedno z najczęściej wymienianych miejsc plażowych w cypryjskiej literaturze turystycznej, z nadzorowanymi letnimi ratownikami."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "O Cape Cavo Greco – informacje podstawowe",
+    "officialName": "Nazwa urzędowa",
+    "officialNameValue": "Cape Greco National Forest Park / Ακρωτήριο Κάβο Γκρέκο",
+    "type": "Typ atrakcji",
+    "typeValue": "Rezerwat przyrody · Natura 2000 SCI (CY3000005)",
+    "country": "Kraj",
+    "countryValue": "Republika Cypru",
+    "city": "Gmina",
+    "cityValue": "Ayia Napa · Dystrykt Famagusty",
+    "googleRating": "Ocena Google",
+    "googleRatingValue": "4.8 (6 784 opinii)",
+    "address": "Adres i kod pocztowy",
+    "addressValue": "X36M+8CV, Ayia Napa 5330, Dystrykt Famagusty, Cypr",
+    "plusCode": "Google Plus Code",
+    "plusCodeValue": "X36M+8CV, Ayia Napa, Famagusta",
+    "area": "Obszar chroniony",
+    "areaValue": "ok. 4,2 km² (420 ha)",
+    "elevation": "Maksymalna wysokość",
+    "elevationValue": "67 m n.p.m.",
+    "geologicalAge": "Formacja geologiczna",
+    "geologicalAgeValue": "Ofiolit Troodos · ok. 90 mln lat (cenoman)",
+    "protectionCode": "Kod ochrony UE",
+    "protectionCodeValue": "SCI CY3000005 · Dyrektywa 92/43/EWG",
+    "yearlyVisitors": "Szacowani roczni odwiedzający",
+    "yearlyVisitorsValue": "ok. 850 000 (szacunek DoF 2023)",
+    "accessibility": "Stopień dostępności",
+    "accessibilityValue": "Punkty widokowe dostępne; szlaki częściowo dostępne",
+    "managingAuthority": "Organ zarządzający",
+    "managingAuthorityValue": "Wydział Lasów Cypru (MoA)"
+  },
+  "hours": {
+    "title": "Godziny zwiedzania – Cape Cavo Greco",
+    "park": "Rezerwat z wolnym dostępem",
+    "parkTime": "Otwarty 24 h / 365 dni, bez zamknięć",
+    "bestTime": "Najlepsze okna wizyt",
+    "bestTimeSpring": "Wiosna (mar–maj): 18–26 °C · kwitnienie orchidei i tulipanów",
+    "bestTimeSummer": "Lato (cze–sie): wybierz 06:30–10:00 lub 17:00–20:00",
+    "bestTimeAutumn": "Jesień (wrz–lis): 22–28 °C · idealna na długie wędrówki",
+    "bestTimeWinter": "Zima (gru–lut): 12–18 °C · sezon obserwacji mniszki",
+    "tip": "Brak biletów wstępu. Obserwacja zachodu słońca dozwolona tylko z dwóch wyznaczonych, wyłożonych kamieniem punktów widokowych."
+  },
+  "tickets": {
+    "title": "Informacje o wstępie – Cape Cavo Greco",
+    "park": "Dostęp do terenu",
+    "parkPrice": "Bezpłatny · bez wymogu rezerwacji",
+    "parking": "Parking samochodowy i motocyklowy",
+    "parkingPrice": "Bezpłatny wyznaczony parking; parking awaryjny w sierpniu",
+    "guided": "Edukacyjne spacery interpretacyjne",
+    "guidedPrice": "Planowane bezpłatne miesięczne spacery z leśnikami Wydziału Lasów – sprawdź oficjalną stronę leśnictwa po sezonowy kalendarz"
+  },
+  "transport": {
+    "title": "Jak się dostać – lokalizacja i dojazd do Cape Cavo Greco",
+    "fromCenter": "Z centrum Ayia Napa",
+    "fromCenterDesc": "Odległość około 5,2 km (drogą) na południowy wschód od głównego placu Ayia Napa. Kieruj się brązowymi znakami Parku Narodowego przez aleję Nissi i drogę wybrzeża Cape Greco.",
+    "fromStation": "Z dworca autobusowego Ayia Napa",
+    "fromStationDesc": "Lokalna linia autobusowa 101 (Ayia Napa – Protaras, operator OSEA) zatrzymuje się przy zachodnim wejściu na cypel; częstotliwość około 30 minut między majem a październikiem.",
+    "fromAirport": "Z międzynarodowego lotniska Larnaka (LCA)",
+    "fromAirportDesc": "Odległość drogowa około 67 km, przez autostradę A3 (Larnaka–Ayia Napa). Czas przejazdu około 50 minut. Wynajem auta lub licencjonowany taksówka lotniskowa to zalecany środek transportu.",
+    "publicTransport": "Sieć autobusów publicznych",
+    "publicTransportDesc": "Autobusy międzymiastowe z Nikozji, Limassolu i Larnaki kończą bieg na dworcu Ayia Napa; przesiadka na lokalną linię 101 lub 102 wg powyższego.",
+    "walking": "Pieszo / trekking",
+    "walkingDesc": "Szlak długodystansowy E4 wchodzi do rezerwatu od zachodu przez promenadę Ayia Napa; odległość pieszo od klasztoru Ayia Napa to 6,8 km (ok. 1 h 20 min).",
+    "driving": "Prywatny pojazd (auto, skuter, quad)",
+    "drivingDesc": "Bezpośredni utwardzony dostęp drogą Cape Greco (lokalna droga klasy F); oba parkingi mają nawierzchnię asfaltową. Skutery i pojazdy terenowe muszą przestrzegać limitu 40 km/h na wewnętrznej drodze cypla."
+  },
+  "route": {
+    "title": "Rekomendowane szlaki – oznakowane trasy Cape Cavo Greco",
+    "overview": "Wydział Lasów utrzymuje dwa oznakowane szlaki. Wszystkie odległości są w jedną stronę, chyba że zaznaczono inaczej, a czasy zakładają spokojne śródziemnomorskie tempo.",
+    "trails": [
+      {
+        "id": "family-loop",
+        "name": "Pętla rodzinna Afrodyty",
+        "difficulty": "Łatwa",
+        "distance": "ok. 2,1 km (pętla)",
+        "duration": "45–60 minut",
+        "elevation": "+26 m łącznie",
+        "summary": "Kompaktowa, w pełni oznakowana pętla dla wszystkich poziomów kondycji. Biegnie makją nad naturalnym łukiem Mostu Zakochanych, wraca przez górny parking i kończy przy kaplicy Agioi Anargyroi – idealna dla rodzin z dziećmi i pierwszych odwiedzających.",
+        "steps": [
+          "Start przy zachodnim głównym panelu informacyjnym (wejście drogą Konnos; bezpłatny parking 80 m dalej).",
+          "Podążaj białymi–żółtymi znakami na wschód wzdłuż kładki do pierwszego punktu widokowego (panorama Mostu Zakochanych w 380 m).",
+          "Kontynuuj do wtórnego punktu widokowego (1 100 m) – tu jest główna kamienna platforma zachodu słońca z barierkami.",
+          "Weź wewnętrzne odgałęzienie (biało–zielone) przez dojrzały gaj Pistacia lentiscus, mijając odrestaurowane ogrodzenie kamienne pasterza w 1 600 m.",
+          "Minij małą kaplicę Agioi Anargyroi, a następnie zejdź z powrotem przez obszar piknikowy do parkingu początkowego (łącznie ok. 2 100 m)."
+        ]
+      },
+      {
+        "id": "cape-to-konnos",
+        "name": "Trawers grzbietowy Cape-do-Konnos",
+        "difficulty": "Trudna",
+        "distance": "ok. 6,3 km (w jedną stronę)",
+        "duration": "2,5–3 h",
+        "elevation": "+82 m / −54 m łącznie",
+        "summary": "Wymagający liniowy trawers grzbietu od zachodniego wejścia aż do zatoki Konnos na wschodzie. Obejmuje eksponowane odcinki krawędzi klifu, luźny wapienny gruz i dwa niezabezpieczone podejścia do jaskiń morskich. Nie podejmuj przy mokrej pogodzie ani powyżej 32 °C. Wymaga solidnych butów i 1,5 l wody na osobę.",
+        "steps": [
+          "Rozpocznij przy zachodnim głównym parkingu (panel informacyjny sokoła Eleonory) i wejdź na początkowy stok gruzowy Południowego Grzbietu Klifu.",
+          "Dotrzyj do Jaskini Cyklopa (Spilia tou Kiklopa) na kilometrze 1,3 – obserwuj wejście do jaskini z góry; nie wchodź do komory na poziomie morza bez wykwalifikowanego przewodnika.",
+          "Przetnij centralny płaskowyż makii (kilometr 2,4 do 4,1), mijając dwa kwadraty monitoringu Natura 2000 i subpopulację Tulipa cypria (kwitnie tylko w marcu).",
+          "Zejdź wschodnimi wapiennymi schodami do górnego punktu widokowego Blue Lagoon (kilometr 5,2, spadek 38 m).",
+          "Podążaj ostatnim 1,1 km brukowanej kamieniem ścieżki mułów w dół do placu piknikowego zatoki Konnos, gdzie autobus powrotny (linia 102) lub postój taksówek kończą trawers."
+        ]
+      }
+    ]
+  },
+  "photoSpots": {
+    "title": "Najlepsze miejsca na zdjęcia – Cape Cavo Greco",
+    "spots": [
+      {
+        "title": "Jaskinie morskie w pobliżu Cape Cavo Greco",
+        "description": "Miejsce, gdzie zrobisz najbardziej spektakularne zdjęcia jaskiń morskich.",
+        "location": "Wybrzeże",
+        "image": "/gallery/cape-cavo-greco (1).jpg"
+      },
+      {
+        "title": "Punkt zachodu słońca – Cape Cavo Greco",
+        "description": "Idealne miejsce do fotografii zachodu słońca.",
+        "location": "Krawędź klifu",
+        "image": "/gallery/cape-cavo-greco (2).jpg"
+      },
+      {
+        "title": "Szlak pieszy w pobliżu Cape Cavo Greco",
+        "description": "Malownicze szlaki natury.",
+        "location": "Wejście",
+        "image": "/gallery/cape-cavo-greco (3).jpg"
+      },
+      {
+        "title": "Panorama – Cape Cavo Greco",
+        "description": "Widok na Morze Śródziemne i skaliste wybrzeże.",
+        "location": "Punkt widokowy",
+        "image": "/gallery/cape-cavo-greco (4).jpg"
+      }
+    ]
+  },
+  "attractions": {
+    "title": "Najlepsze atrakcje Cape Greco – Jaskinie Morskie i miejsca do zobaczenia",
+    "subtitle": "Pięć miejsc do zobaczenia w parku narodowym Cape Greco, każde zaznaczone w Mapach Google i osiągalne pieszo lub łodzią.",
+    "spots": [
+      {
+        "name": "Jaskinie Morskie (Sea Caves Ayia Napa)",
+        "tag": "Ikona",
+        "description": "Podpisowe krasowe jaskinie morskie wyrzeźbione w południowych klifach. Najlepiej eksplorowane kajakiem lub wycieczką łodzią z Ayia Napa; skoki do wody są bezpieczne tylko w lokalnie oznaczonych miejscach."
+      },
+      {
+        "name": "Kamara Tou Koraka (Most Zakochanych)",
+        "tag": "Punkt zdjęciowy",
+        "description": "Naturalny wapienny łuk morski – jedno z najczęściej fotografowanych miejsc na wyspie, zwłaszcza w blasku zachodu słońca. Łatwy 15-minutowy spacer od głównego parkingu."
+      },
+      {
+        "name": "Kaplica Agioi Anargyroi",
+        "tag": "Historia",
+        "description": "Bielona średniowieczna bizantyjska kaplica z niebieską kopułą, dostępna przez malowniczy 700-metrowy podjazd. Nabożeństwa odprawiane są raz w miesiącu i w święto Anargyroi."
+      },
+      {
+        "name": "Jaskinia Cyklopa (Spilia tou Kiklopa)",
+        "tag": "Wędrówka",
+        "description": "Największa krasowa jaskinia cypla (komora 47 m), powiązana w lokalnej legendzie z homeryckim Cyklopem. Dostępna tylko pieszo przez oznakowane szlaki – obserwuj wejście do jaskini z góry."
+      },
+      {
+        "name": "Zatoka Konnos i Blue Lagoon",
+        "tag": "Plaża",
+        "description": "Osłonięta złota plaża na wschodnim skraju parku z przejrzystą płytką wodą, wypożyczalniami sprzętu wodnego i sezonową tawerną – klasyczny przystanek kąpielowy po zwiedzaniu cypla."
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Galeria zdjęć – obrazy Cape Cavo Greco",
+    "subtitle": "Najlepsze widoki Cape Cavo Greco w Ayia Napa, Cypr",
+    "captions": [
+      "Widok jaskiń morskich w Cape Cavo Greco, Ayia Napa",
+      "Daleki widok półwyspu Cape Cavo Greco",
+      "Szlak natury w Parku Narodowym Cape Cavo Greco",
+      "Formacje skalne na klifach Cape Cavo Greco",
+      "Krystalicznie czysta woda w pobliżu Cape Cavo Greco",
+      "Widok zachodu słońca z krawędzi klifu Cape Cavo Greco",
+      "Naturalne formacje wapienne w Cape Cavo Greco",
+      "Wybrzeże śródziemnomorskie w Cape Cavo Greco",
+      "Panoramiczny widok morza z punktu widokowego Cape Cavo Greco",
+      "Obszar rezerwatu wokół Cape Cavo Greco",
+      "Widok 360° na Cape Cavo Greco",
+      "Krajobraz wiosenny w Cape Cavo Greco, Cypr",
+      "Naturalna zatoczka do pływania w pobliżu Cape Cavo Greco",
+      "Roślinność śródziemnomorska w Cape Cavo Greco",
+      "Panorama zachodu słońca w Cape Cavo Greco",
+      "Szlaki piesze w pobliżu wejścia do Cape Cavo Greco",
+      "Widok morza i nieba z Cape Cavo Greco"
+    ],
+    "viewAll": "Zobacz w Mapach Google",
+    "showAll": "Pokaż wszystkie zdjęcia",
+    "showLess": "Pokaż mniej"
+  },
+  "reviews": {
+    "title": "Opinie odwiedzających – recenzje Cape Cavo Greco",
+    "declaration": "Opinie można przeglądać przez Mapy Google.",
+    "moreReviews": "Zobacz więcej opinii w Mapach Google",
+    "items": [
+      {
+        "name": "John S.",
+        "rating": 5,
+        "date": "2026-03-15",
+        "text": "Niesamowite miejsce! Jaskinie morskie są spektakularne. Polecam odwiedzić o zachodzie słońca."
+      },
+      {
+        "name": "Mary K.",
+        "rating": 5,
+        "date": "2026-02-20",
+        "text": "Byłam z rodziną i było wspaniale. Spokojne i relaksujące miejsce, idealne na rodzinną wycieczkę."
+      },
+      {
+        "name": "David M.",
+        "rating": 5,
+        "date": "2026-04-05",
+        "text": "Bardzo piękne miejsce na spacer. Widok jest superb. Idealne do fotografii."
+      },
+      {
+        "name": "Helen R.",
+        "rating": 5,
+        "date": "2026-01-10",
+        "text": "Na wakacjach na Cyprze to jedna z najlepszych atrakcji natury, której nie można pominąć. Bardzo romantyczne o zachodzie słońca."
+      },
+      {
+        "name": "Mark T.",
+        "rating": 5,
+        "date": "2025-12-18",
+        "text": "Naturalne miejsce z niesamowitą energią. Bezpłatny wstęp i niesamowite widoki."
+      },
+      {
+        "name": "Claire W.",
+        "rating": 5,
+        "date": "2025-11-22",
+        "text": "Idealne miejsce na relaks i fotografię. Nie przegap go, będąc na Cyprze."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Lokalizacja na mapie – Cape Cavo Greco, Ayia Napa",
+    "subtitle": "X36M+8CV, Ayia Napa 5330, Dystrykt Famagusty, Cypr",
+    "openMaps": "Zobacz w Mapach Google",
+    "hero": {
+      "mapsLink": "https://maps.app.goo.gl/FigeLZdG7kd1iPYcA"
+    }
+  },
+  "facilities": {
+    "title": "Obiekty dla odwiedzających i pobliskie usługi – Cape Cavo Greco",
+    "intro": "Cape Greco to chroniony obszar Natura 2000 z minimalną zabudowaną infrastrukturą na terenie, aby zachować integralność ekologiczną siedlisk. Poniższe podsumowanie opisuje rodzaje obiektów dostępnych w rezerwacie i wokół niego; nie wymienia się ani nie promuje żadnych konkretnych operatorów komercyjnych.",
+    "restrooms": {
+      "title": "Toalety publiczne (WC)",
+      "description": "W samym rezerwacie nie ma stałych toalet publicznych, zgodnie z zaleceniami zarządzania Natura 2000. Sanitarne obiekty typu miejskiego i sezonowego plażowego znajdują się w najbliższych ośrodkach, zwykle 5–8 min jazdy od zachodniego wejścia. Rodziny i osoby z potrzebami medycznymi powinny zaplanować to przed wejściem na szlaki.",
+      "subtitle": "Najbliższe: toalety miejskie Ayia Napa (5–8 min) · sezonowe obiekty plaży Konnos"
+    },
+    "parking": {
+      "title": "Parking (na terenie i awaryjny)",
+      "description": "Wydział Lasów Cypru utrzymuje dwa bezpłatne wyznaczone parkingi z żwirową nawierzchnią przy zachodnim podejściu. Główny parking mieści około 180 pojazdów; zachodni parking awaryjny jest aktywowany przez leśników w szczycie sierpniowym. Oba mają wyznaczone miejsca dla niepełnosprawnych, strefy kamperów i autobusów i są nieutwardzone (twardy gruz). Nocleg pojazdów jest zabroniony. Brak ładowarek EV w rezerwacie.",
+      "subtitle": "Główny ~180 miejsc · awaryjny ~220 miejsc · miejsca dla niepełnosprawnych · stanowiska autobusowe · bezpłatne 24/7"
+    },
+    "dining": {
+      "title": "Lokale gastronomiczne",
+      "description": "W samym rezerwacie nie ma żadnych punktów gastronomicznych. Dwa wyznaczone place piknikowe z kamiennymi stołami i ławkami znajdują się przy zachodnim i konnoskim końcu dla przynoszących własne jedzenie. Pełne spektrum restauracji, fast foodu, tradycyjnych tawern, kawiarni i piekarni skupione jest w pobliskich kurortach Ayia Napa i Protaras, w typowych odległościach 5–15 min jazdy.",
+      "subtitle": "Typy w 5–15 min: tawerny, kawiarnie, piekarnie, fast food (Ayia Napa / Protaras / Konnos)"
+    },
+    "accommodation": {
+      "title": "Noclegi i zakwaterowanie",
+      "description": "W granicach rezerwatu nie jest dozwolone żadne noclegowanie. Sąsiednie gminy kurortowe Ayia Napa (zachód) oraz Protaras–Paralimni (wschód i północ) oferują pełen zakres typów zakwaterowania typowych dla śródziemnomorskiej wyspy. Czas dojazdu od wejścia do rezerwatu do poszczególnych kategorii waha się od 5 min dla najbliższych opcji budżetowych do 20 min dla bardziej rozproszonych luksusowych kurortów.",
+      "subtitle": "Typy w 5–20 min: hotele butikowe · resorty all-inclusive · apartamenty · agroturystyka · hostele (Ayia Napa / Protaras / Paralimni)"
+    },
+    "shopping": {
+      "title": "Supermarkety, apteki i zaopatrzenie",
+      "description": "Apteki, supermarkety, sklepy convenience i woda butelkowana nie są dostępne na terenie. Najbliższe supermarkety i niezależne apteki znajdują się w zabudowanych strefach handlowych Ayia Napa (ok. 7 min) i głównej drodze Protaras (ok. 12 min). Całodobowe sklepy convenience są dostępne wzdłuż drogi Ayia Napa–Paralimni.",
+      "subtitle": "Typy w 7–12 min: sieci supermarketów · apteki · całodobowe convenience · uzupełnienie wody i kremu"
+    },
+    "fuel": {
+      "title": "Stacje paliw i ładowanie EV",
+      "description": "Stacje paliw konwencjonalnych znajdują się na dwupasmówce Ayia Napa–Paralimni, ok. 8 min jazdy na zachód od głównego wejścia. Publiczne szybkie ładowarki DC dla EV są skupione przy płatnych parkingach miejskich i dużych sklepach w Ayia Napa i Paralimni, w odległości 10–14 min. Brak paliw, LPG ani ładowarek EV wewnątrz rezerwatu.",
+      "subtitle": "Stacje paliw ~8 min · publiczne DC EV 10–14 min (Ayia Napa / Paralimni)"
+    },
+    "medical": {
+      "title": "Usługi medyczne i ratunkowe",
+      "description": "W rezerwacie nie ma kliniki medycznej ani stacji ratowników. Najbliższy ośrodek zdrowia znajduje się w Ayia Napa (ok. 10 min). Szpital powszechny i SOR są w Famagusta General Hospital przy drodze Paralimni–Deryneia, ok. 18–22 min. Ogólnokrajowy numer alarmowy Cypru to 112.",
+      "subtitle": "Ośrodek zdrowia ~10 min · SOR Famagusta General ~18–22 min · alarmowy 112"
+    },
+    "accessibility": {
+      "title": "Dostępność i uniwersalny design",
+      "description": "Dostępne utwardzone miejsca parkingowe dla niepełnosprawnych są przy obu wejściach: zachodnim i konnoskim. Dwie główne platformy widokowe (Most Zakochanych i Widok Zachodu Słońca) zostały przebudowane w pracach LIFE+ 2011 z łagodnymi pochyleniami i stalowymi nierdzewnymi barierkami, dzięki czemu są używalne z ręcznymi wózkami. Kaplica Agioi Anargyroi jest dostępna przez utwardzony podjazd 680 m o nachyleniu poniżej 4%. Jaskinie morskie i niemal wszystkie szlaki leżą na nieregularnej skale i gruzie i nie są przystosowane dla wózków. Psy przewodniki i wsparcia są dozwolone na terenie.",
+      "subtitle": "Parking dla niepełnosprawnych · rampy widokowe · podjazd kaplicy · szlaki/jaskinie nieprzystosowane · psy wsparcia mile widziane"
+    }
+  },
+  "footer": {
+    "brandName": "Cape Cavo Greco (Ακρωτήριο Κάβο Γκρέκο)",
+    "brandSubtitle": "Natura 2000 SCI CY3000005 · Ayia Napa, Famagusta, Cypr",
+    "rights": "© 2026 Niezależny non-profitowy projekt badawczy turystyki · Wszelkie prawa zastrzeżone.",
+    "privacy": "Polityka prywatności",
+    "terms": "Regulamin",
+    "cookies": "Ustawienia plików cookie",
+    "officialResourcesTitle": "Organy urzędowe i główne dokumenty źródłowe",
+    "officialLinks": {
+      "moa": "Ministerstwo Rolnictwa – Wydział Lasów Cypru (organ zarządzający)",
+      "visitcyprus": "Wiceministerstwo Turystyki Republiki Cypru – wpis Cape Greco",
+      "visitfamagusta": "Regionalna Rada Turystyczna Famagusty – oficjalny portal regionalny",
+      "agianapa": "Gmina Ayia Napa – ogłoszenia i aktualizacje dostępu",
+      "natura2000": "Baza danych Natura 2000 (EEA) – formularz CY3000005"
+    },
+    "disclaimer": "Ta strona jest niezależnym non-profitowym projektem edukacyjnym turystyki. Nie jesteśmy powiązani ani popierani przez Rząd Cypru ani żadną z jego agencji. Zawsze sprawdzaj oficjalne linki powyżej dla aktualizacji regulacyjnych i bezpieczeństwa.",
+    "imageRights": "Wszystkie zdjęcia na tej stronie są własnością i prawami autorskimi ich autorów."
+  },
+  "officialManagement": {
+    "title": "O Cape Cavo Greco – zarządzanie i ochrona",
+    "text": "Park Narodowy Cape Greco jest zarządzany i chroniony przez Wydział Lasów Cypru (Υπουργείο Γεωργίας – Τμήμα Δασών) na mocy Rozdz. 130 Prawa Leśnego oraz Prawa ochrony i zarządzania przyrodą i dziką fauną 153(I)/2003. Teren jest wpisany do sieci Natura 2000 jako Obszar Znaczenia Wspólnotowego CY3000005. Wszystkie decyzje zarządcze reguluje Zintegrowany Plan Zarządzania 2022–2026 opracowany z Politechniką Cypryjską."
+  },
+  "privacy": {
+    "title": "Polityka prywatności",
+    "lastUpdated": "Ostatnia aktualizacja: maj 2026",
+    "sections": [
+      {
+        "heading": "Gromadzenie informacji",
+        "content": "Gdy odwiedzasz naszą stronę, możemy automatycznie zbierać podstawowe informacje o Twoim urządzeniu, przeglądarce i zachowaniu przeglądania, aby zapewnić lepsze doświadczenie. Te informacje nie zawierają Twojej tożsamości osobistej."
+      },
+      {
+        "heading": "Użycie plików cookie",
+        "content": "Używamy plików cookie do analizy ruchu na stronie i optymalizacji treści. Preferencje możesz zmieniać w każdej chwili przez Ustawienia plików cookie na dole strony."
+      },
+      {
+        "heading": "Bezpieczeństwo i ochrona danych",
+        "content": "Zobowiązujemy się do ochrony bezpieczeństwa Twoich danych prywatności i nie sprzedamy, nie wynajmiemy ani nie wymienimy Twoich danych przeglądania na rzecz komercyjnych organizacji trzecich."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Regulamin",
+    "lastUpdated": "Ostatnia aktualizacja: maj 2026",
+    "sections": [
+      {
+        "heading": "Treść i użytkowanie strony",
+        "content": "Ta strona dostarcza niezależne non-profitowe materiały edukacyjne o Cape Greco, w tym informacje podróżnicze, transportowe, geologiczne, ekologiczne i historyczne. Cała treść jest wyłącznie referencyjna. Rzeczywiste godziny otwarcia, stan szlaków i ograniczenia regulacyjne mogą ulec zmianie bez powiadomienia; sprawdź oficjalne linki dla najbardziej aktualnych informacji."
+      },
+      {
+        "heading": "Własność intelektualna",
+        "content": "Tekst, typografia, projekt graficzny i oryginalna fotografia na tej stronie są chronione międzynarodowym prawem autorskim. Bez wyraźnej pisemnej zgody żadna osoba ani podmiot nie może wykorzystywać treści strony w celach komercyjnych."
+      },
+      {
+        "heading": "Zrzeczenie się odpowiedzialności",
+        "content": "Dokładamy starań, by zapewnić dokładność i aktualność informacji edukacyjnych, ale nie ponosimy odpowiedzialności prawnej za obrażenia, opóźnienia ani straty spowodowane bezpośrednio lub pośrednio poleganiem na informacjach podanych na tej stronie."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Ustawienia plików cookie",
+    "description": "Zarządzaj swoimi preferencjami plików cookie dla tej niezależnej non-profitowej strony.",
+    "essential": {
+      "title": "Pliki niezbędne",
+      "description": "Niezbędne do podstawowej funkcjonalności strony, nie można ich wyłączyć.",
+      "badge": "Zawsze aktywne"
+    },
+    "analytics": {
+      "title": "Analityka",
+      "description": "Pomagają zrozumieć anonimowe zachowanie odwiedzających i ulepszać treści edukacyjne strony."
+    },
+    "marketing": {
+      "title": "Marketing",
+      "description": "Używane do śledzenia międzywitrynowego i spersonalizowanych reklam – domyślnie wyłączone na tej niekomercyjnej stronie."
+    },
+    "save": "Zapisz preferencje",
+    "saved": "Preferencje zapisane!"
+  }
+}
