@@ -604,5 +604,26 @@
     },
     "save": "Tercihleri Kaydet",
     "saved": "Tercihler Kaydedildi!"
+  },
+  "dayTrip": {
+    "title": "Günlük Gezi: Ayia Napa → Cape Greco",
+    "subtitle": "Nasıl gidilir, ne görülmeli ve hazır bir yarım günlük plan",
+    "intro": "Cape Greco, merkezi Ayia Napa'nın sadece 5 km güneydoğusunda yer alır ve bu nedenle ziyaret için doğal bir üs işlevi görür. Çoğu gezgin Ayia Napa veya Protaras'ta kalır ve yarım günlük bir geziyle burnun deniz mağaralarını, manzara noktalarını ve plajlarını ziyaret eder.",
+    "transportTitle": "Ayia Napa'dan Cape Greco'ya Ulaşım",
+    "byBusTitle": "Otobüsle (101 numaralı hat)",
+    "byBusText": "OSEA yerel otobüsü 101 (Ayia Napa – Protaras), mayıs–ekim ayları arasında yaklaşık her 30 dakikada bir burnun batı girişinde durur. Ayia Napa terminalinden yolculuk yaklaşık 15 dakika sürer ve birkaç euro tutar.",
+    "byCarTitle": "Araba, skuter veya taksiyle",
+    "byCarText": "Nissi Caddesi ve Cape Greco sahil yolu üzerinden 5,2 km güneydoğu yönünde yaklaşık 10 dakika sürün. Hem batı hem de Konnos girişlerinde ücretsiz otopark vardır; Ayia Napa'da taksi ve e-skuter kiralama yaygındır.",
+    "itineraryTitle": "Yarım günlük plan (09:00–13:00)",
+    "steps": [
+      { "time": "09:00", "title": "Deniz Mağaraları'nda başlayın", "text": "Kalabalıktan ve öğle sıcağından önce ünlü karsik deniz mağaralarını fotoğraflamak için erken gelin. Ayia Napa limanından mağaralara kaya kürek (kayak) turları da düzenlenir." },
+      { "time": "10:30", "title": "Aşıklar Köprüsü ve Gün Batımı Seyir Noktası", "text": "Ana otoparktan kolay 15 dakikalık patika ile doğal kireçtaşı kemere (Aşıklar Köprüsü) ve çitle çevrili uçurum kıyısı gün batımı platformuna yürüyün." },
+      { "time": "11:30", "title": "Agioi Anargyroi Şapeli", "text": "Maki bitki örtüsüyle çevrili, fotojenik ve sakin bir simge olan beyaz badanalı bizans şapeline 700 m yürüyün." },
+      { "time": "12:30", "title": "Konnos Koyu'nda yüzme", "text": "Parkın doğu ucundaki korunaklı altın kumlu plaj Konnos Koyu'nda yüzme veya su sporlarıyla bitirin." }
+    ],
+    "photoTitle": "En iyi fotoğraf noktaları",
+    "photoText": "Blue Lagoon, Aşıklar Köprüsü, Deniz Mağaraları kümesi ve uçurum kıyısındaki gün batımı noktası, burunda en çok paylaşılan manzaralardır — geniş açılı lens ve su ayakkabısı getirin.",
+    "faqQ": "Ayia Napa'dan araçsız Cape Greco'ya gidebilir miyim?",
+    "faqA": "Evet. 101 numaralı otobüs hattı sezonda yaklaşık her 30 dakikada bir Ayia Napa terminalini burnun batı girişine bağlar ve birçok ziyaretçi ayrıca Ayia Napa limanından Deniz Mağaraları'na rehberli tekne turlarına katılır."
   }
 }

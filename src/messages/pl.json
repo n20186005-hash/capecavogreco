@@ -99,98 +99,98 @@
         "id": "geopolitical",
         "title": "Nowoczesna historia geopolityczna – era kolonialna i strefa buforowa",
         "structuredContent": [
-          { "type": "subtitle", "text": "Brytyjska kolonialna stacja wybrzeża" },
-          { "type": "paragraph", "text": "Po przejęciu administracji Cypru przez Wielką Brytanię na mocy konwencji brytyjsko-osmańskiej z 1878 r., Hydrograficzny Urząd Admiralicji wskazał Cape Greco jako kluczowy punkt kontrolny nawigacji redy Famagusty. W 1880 r. wzniesiono kamienny znak dzienny, a w 1911 r. zamontowano małą nieobsadzoną latarnię acetylenową – działającą z przerwami do II wojny światowej. Akta wojskowe w Narodowym Archiwum (WO 273/772, Cyprus) dodatkowo odnotowują wykorzystanie cypla jako bazy radiowej radiolokacji podczas cypryjskiego stanu wyjątkowego (1955–1959)." },
+          { "type": "subtitle", "text": "Brytyjska stacja wybrzeża" },
+          { "type": "paragraph", "text": "Po przejęciu administracji Cypru przez Wielką Brytanię na mocy konwencji brytyjsko-osmańskiej z 1878 r., Hydrograficzny Urząd Admiralicji wskazał Cape Greco jako kluczowy punkt kontrolny nawigacji redy Famagusty. W 1880 r. wzniesiono kamienny znak dzienny, a w 1911 r. zamontowano małą niezałogową latarnię acetylenową – działającą z przerwami do II wojny światowej. Akta wojskowe w Narodowym Archiwum (WO 273/772, Cyprus) odnotowują ponadto wykorzystanie cypla jako bazy radiowej triangulacji podczas cypryjskiego stanu wyjątkowego (1955–1959)." },
           { "type": "subtitle", "text": "1974 i strefa buforowa" },
-          { "type": "paragraph", "text": "Po tureckiej interwencji wojskowej z lipca–sierpnia 1974 r. cypel znalazł się w odległości 3 km od południowego skrzydła strefy buforowej ONZ, podążającej wzdłuż dawnej linii zawieszenia broni (Zielonej Linii) przez wschodnią część wyspy. Choć sam cypel pozostaje pod faktyczną administracją Republiki Cypru i jest otwarty dla zwiedzających, węższa strefa wyłączenia wojskowego utrzymuje się dalej na północ, wyznaczona posterunkami obserwacyjnymi Gwardii Narodowej Cypru. Cypel nigdy nie był miejscem walk zbrojnych." }
+          { "type": "paragraph", "text": "Po tureckiej interwencji wojskowej z lipca–sierpnia 1974 r. cypel znalazł się w promieniu 3 kilometrów od południowego skrzydła strefy buforowej ONZ, podążającej za dawną linią zawieszenia broni (Zieloną Linią) przez wschodnią część wyspy. Choć sam cypel pozostaje pod faktyczną administracją Republiki Cypru i jest otwarty dla odwiedzających, węższa strefa wyłączenia wojskowego utrzymuje się dalej na północ, wyznaczona posterunkami obserwacyjnymi Gwardii Narodowej Cypru. Cypel nigdy nie był miejscem konfrontacji zbrojnej." }
         ]
       },
       {
         "id": "geology",
-        "title": "Geologia i geomorfologia – ofiolit Troodos i krasowe wybrzeże",
+        "title": "Geologia i geomorfologia – ofiolit Troodos i wybrzeże krasowe",
         "structuredContent": [
-          { "type": "subtitle", "text": "Rama litologiczna: ofiolit Troodos" },
-          { "type": "paragraph", "text": "Cape Cavo Greco stanowi wybrzeżowe wyrażenie wschodniego ramienia ofiolitu Troodos, fragmentu późnokredowej (ok. 90 mln lat, cenoman–turond) oceanicznej litosfery wdaszczonej na północną pasywną krawędź płyty afrykańskiej podczas mastrychtu. Skały wychodzące na cyplu należą do Górnej Jednostki Law Poduszek sekwencji ofiolitu – pęcherzykowych bazaltów tolaliitycznych oraz przeławicowanych łupków i krzemionek typu umber i radiolari, przykrytych dyskordancyjnie transgresyjną sekwencją kredowo-paleoceńskich wapieni kredowych formacji Lefkara." },
-          { "type": "subtitle", "text": "Geomorfologia krasu: jaskinie i naturalne łuki" },
+          { "type": "subtitle", "text": "Ramowa litologia: ofiolit Troodos" },
+          { "type": "paragraph", "text": "Cape Cavo Greco tworzy wybrzeżową ekspresję wschodniego ramienia ofiolitu Troodos, fragmentu późnokredowej (ok. 90 mln lat, cenoman–turón) oceanicznej litosfery obdukowanej na północną pasywną krawędź płyty afrykańskiej podczas mastrychtu. Skały wychodzące na cyplu należą do Górnej Jednostki Lawy Poduszkowej z sequencji ofiolitu – porowatych bazaltów tholeiitycznych i przeławiczonych łupków krzemionkowych i radiolarytowych, nakrytych niezgodnie transgresyjną sekwencją kredowych–paleoceńskich wapieni z formacji Lefkara." },
+          { "type": "subtitle", "text": "Geomorfologia krasowa: jaskinie i naturalne łuki" },
           { "type": "list", "ordered": false, "items": [
-            "Jaskinie morskie: 23 skartowane morskie jaskinie krasowe i reliktowe jaskinie kopalne, największą jest Jaskinia Cyklopa (Spilia tou Kiklopa) o komorze długości 47 m.",
-            "Naturalne mosty: dwa wapienne łuki morskie, znane lokalnie jako Most Zakochanych (Γεφύρι της Αγάπης) na północnym wybrzeżu. Mniejszy wschodni łuk częściowo zawalił się podczas sztormu 30 listopada 2017 r., co odnotował Wydział Badań Geologicznych.",
-            "Stosy skalne i platformy abrazyjne: rozległy rozwój platform brzegowych na poziomach eustatycznych +3 m i +6 m, odpowiadających tarasom tyreńskiemu i sycylijskiemu (odpowiednio MIS 5e, 125 tys. lat, i MIS 9, 330 tys. lat)."
+            "Jaskinie morskie: 23 mapowane morskie jaskinie krasowe i reliktowe jaskinie kopalne, największą z nich jest Jaskinia Cyklopa (Spilia tou Kiklopa) o długości komory 47 m.",
+            "Naturalne mosty: dwa wapienne łuki morskie, lokalnie znane jako Most Zakochanych (Γεφύρι της Αγάπης) na północnym wybrzeżu. Mniejszy wschodni łuk częściowo zawalił się podczas sztormu 30 listopada 2017 r., odnotowanego przez Wydział Badań Geologicznych.",
+            "Stosy skalne i platformy abrazyjne: rozległy rozwój platform brzegowych na poziomach +3 m i +6 m, odpowiadających tarasom tyreńskim i sycylijskim MIS 5e (125 ka) oraz MIS 9 (330 ka)."
           ] },
           { "type": "subtitle", "text": "Morfometria klifów" },
-          { "type": "paragraph", "text": "Wysokość klifów wzdłuż południowej (otwartej na morze) ściany waha się od 28 m przy zachodnim podejściu do maksimum 67 m w samym punkcie Cape Point (34,9609° N, 34,0788° E), ze średnią szybkością cofania 2,1 cm/rok według transektów monitoringu Wydziału Badań Geologicznych (2008–2023). Północne wybrzeże, chronione wewnątrz zatoki Famagusty, zdominowane jest przez niskie nawierzchnie wapienne i małe zatoczki." }
+          { "type": "paragraph", "text": "Wysokości klifów wzdłuż południowej (otwarte morze) ściany wahają się od 28 m przy zachodnim podejściu do maksimum 67 m w samym Przylądku (34,9609° N, 34,0788° E), ze średnią szybkością cofania 2,1 cm/rok według transektów monitoringu Wydziału Badań Geologicznych (2008–2023). Północne wybrzeże, chronione wewnątrz zatoki Famagusty, zdominowane jest przez niskie platformy wapienne i małe zatoczki kuspate." }
         ]
       },
       {
         "id": "ecology",
-        "title": "Ekologia i bioróżnorodność – obszar Natura 2000 CY3000005",
+        "title": "Ekologia i bioróżnorodność – Natura 2000, stanowisko CY3000005",
         "structuredContent": [
-          { "type": "subtitle", "text": "Wyznaczenie Natura 2000 i siedliska" },
-          { "type": "paragraph", "text": "Park Narodowy Cape Greco został wyznaczony jako Obszar Znaczenia Wspólnotowego (SCI) na mocy dyrektywy Rady 92/43/EWG, z oficjalnym kodem Europejskiej Agencji Środowiska CY3000005. Standardowy formularz danych rejestruje osiem priorytetowych siedlisk z Załącznika I, z których na cyplu dominują:" },
+          { "type": "subtitle", "text": "Oznaczenie Natura 2000 i siedliska" },
+          { "type": "paragraph", "text": "Park Narodowy Cape Greco został wyznaczony jako Obszar Znaczenia Wspólnotowego (SCI) na mocy dyrektywy rady 92/43/EWG, z oficjalnym kodem stanowiska Europejskiej Agencji Środowiska CY3000005. Standardowy formularz danych rejestruje osiem priorytetowych typów siedlisk Załącznika I, z których na cyplu dominują:" },
           { "type": "list", "ordered": false, "items": [
             "5310 – niskie formacje Erica arborea (Erico-Oleetum oleasteris, cypryjska odmiana endemiczna).",
-            "5420 – frygana Sarcopoterium spinosum na głębokich glebach terra rossa.",
-            "1240 – porośnięte roślinnością klify morskie wybrzeży śródziemnomorskich z endemicznymi gatunkami Limonium.",
-            "1110 – ławice piaszczyste stale przykryte wodą morską (zatoka Konnos i Blue Lagoon)."
+            "5420 – Sarcopoterium spinosum phrygana na głębokich glebach terra rossa.",
+            "1240 – porośnięte roślinnością klify morskie wybrzeży śródziemnomorskich z endemicznymi Limonium spp.",
+            "1110 – ławice piaszczyste stale lekko przykryte wodą morską (zatoka Konnos i Blue Lagoon)."
           ] },
-          { "type": "subtitle", "text": "Zagrożona fauna (Załącznik II dyrektywy o siedliskach)" },
+          { "type": "subtitle", "text": "Zagrożona fauna (Załącznik II dyrektywy siedliskowej)" },
           { "type": "list", "ordered": false, "items": [
-            "Monachus monachus Hermann, 1779 – mniszka śródziemnomorska (Czerwona Lista IUCN: krytycznie zagrożony, CR). Wyjścia na ląd są regularnie notowane w zachodnich jaskiniach morskich, a dane telemetryczne z MOm (Hellenic Society for the Study and Protection of the Monk Seal) udokumentowały trzy osobniki korzystające z tego miejsca w latach 2019–2024.",
-            "Falco eleonorae Gené, 1839 – sokół wędrowny Eleonory. Niewielka kolonia lęgowa 6–8 par gnieździ się na niedostępnych północnych stosach skalnych, co potwierdziły systematyczne badania lęgowe BirdLife Cyprus w latach 2017–2021.",
-            "Testudo graeca Linnaeus, 1758 – żółw grecki; Chamaeleo chamaeleon Linnaeus, 1758 – kameleon śródziemnomorski. Oba gatunki mają stabilne subpopulacje w makii na północ od drogi Konnos."
+            "Monachus monachus Hermann, 1779 – mniszka śródziemnomorska (Czerwona Lista IUCN: krytycznie zagrożona, CR). Wyjścia na brzeg regularnie notowane w zachodnich jaskiniach morskich, a dane telemetryczne z MOm udokumentowały trzy foki używające stanowiska w latach 2019–2024.",
+            "Falco eleonorae Gené, 1839 – sokół wędrowny Eleonory. Mała kolonia lęgowa 6–8 par gnieździ się na niedostępnych północnych stosach skalnych, potwierdzona przez systematyczne badania lęgowe BirdLife Cyprus 2017–2021.",
+            "Testudo graeca Linnaeus, 1758 – żółw iberyjski; Chamaeleo chamaeleon Linnaeus, 1758 – kameleon śródziemnomorski. Oba gatunki mają stabilne subpopulacje w makii na północ od drogi Konnos."
           ] },
           { "type": "subtitle", "text": "Flora o znaczeniu ochronnym" },
-          { "type": "paragraph", "text": "Prace florystyczne opublikowane przez Cypryjski Instytut Botaniczny rejestrują 312 taksonów roślin naczyniowych na terenie ochrony, z czego 17 to endemity Cypru, w tym Phlomis cypria var. occidentalis Meikle, Limonium cyprium (Meikle) Brullo oraz Orobanche sungariae var. minor (cypryjski zarazy). Zagrożony endemiczny tulipan Tulipa cypria Stapf został odnotowany na grząskach terra rossa północnego urwiska, kwitnąc w marcu–kwietniu." }
+          { "type": "paragraph", "text": "Badania florystyczne opublikowane przez Cypryjski Instytut Botaniczny rejestrują 312 taksonów roślin naczyniowych na terenie chronionym, z których 17 to endemity cypryjskie, w tym Phlomis cypria var. occidentalis Meikle, Limonium cyprium (Meikle) Brullo oraz Orobanche sungariae var. minor (Cypryjski łopian). Zagrożony endemiczny tulipan Tulipa cypria Stapf został odnotowany na pagórkach terra rossa północnego urwiska, kwitnąc marzec–kwiecień." }
         ]
       },
       {
         "id": "restoration",
         "title": "Zarządzanie ochroną, restauracja i pojemność turystyczna",
         "structuredContent": [
-          { "type": "subtitle", "text": "Ramy instytucjonalne" },
-          { "type": "paragraph", "text": "Teren jest zarządzany przez cypryjski Wydział Lasów (Υπουργείο Γεωργίας – Τμήμα Δασών) na mocy Prawa Leśnego, Rozdz. 130, oraz Prawa ochrony i zarządzania przyrodą i dziką fauną 153(I)/2003. Zintegrowany pięcioletni Plan Zarządzania 2022–2026 został opracowany przy pomocy technicznej Politechniki Cypryjskiej, obejmując strefowanie na Strefę A (ścisła ochrona – jaskinie morskie), B (rekreacja o niskiej ingerencji) i C (parkingi i infrastruktura usługowa)." },
+          { "type": "subtitle", "text": "Ramowa instytucjonalna" },
+          { "type": "paragraph", "text": "Teren jest zarządzany przez Wydział Lasów Cypru (Υπουργείο Γεωργίας – Τμήμα Δασών) na mocy Prawa Leśnego, Rozdz. 130, oraz Prawa ochrony i zarządzania przyrodą i dziką fauną 153(I)/2003. Zintegrowany Pięcioletni Plan Zarządzania 2022–2026 został opracowany z pomocą techniczną Politechniki Cypryjskiej, w tym z podziałem na Strefę A (ścisła ochrona – jaskinie morskie), B (rekreacja o niskiej ingerencji) i C (parkingi i infrastruktura usługowa)." },
           { "type": "subtitle", "text": "Projekty restauracji (2010–2025)" },
           { "type": "list", "ordered": false, "items": [
             "2011–2013, projekt LIFE+ Nature LIFE08 NAT/CY/000223 („CY-CAPE GRECO”): usunięcie inwazyjnej Acacia saligna z 18 ha, założenie 14 ha szkółek rodzimych roślin, budowa 1,2 km kładek dla ograniczenia deptania.",
-            "2019–2022, Program Rozwoju Obszarów Wiejskich EAFRD: odtworzenie 2,7 km oznakowanych szlaków pieszych i stabilizacja trzech punktów widokowych na krawędzi klifu przy użyciu murów z suchego kamienia.",
-            "2024–obecnie, projekt LIFE-IP 4 NATURA CY: coroczny systematyczny monitoring bioróżnorodności we współpracy z Labem Ekologii Morskiej Uniwersytetu Cypryjskiego."
+            "2019–2022, Program Rozwoju Obszarów Wiejskich EAFRD: restauracja 2,7 km oznakowanych szlaków pieszych i stabilizacja trzech punktów widokowych na krawędzi klifu przy użyciu suchego muru.",
+            "2024–obecnie, projekt LIFE-IP 4 NATURA CY: coroczny systematyczny monitoring bioróżnorodności we współpracy z Laboratorium Ekologii Morskiej Uniwersytetu Cypru."
           ] },
           { "type": "subtitle", "text": "Pojemność turystyczna" },
-          { "type": "paragraph", "text": "Szczytowa liczba odwiedzających odnotowana w 2023 r. przez automatyczne liczniki szlaków Wydziału Lasów osiągnęła średnią dobową 4 860 osób w pierwszym tygodniu sierpnia, z rekordem jednego dnia 7 214 osób 15 sierpnia (święto Wniebowzięcia). Plan Zarządzania 2022 definiuje ostrożnościową Rzeczywistą Pojemność (RCC) na 5 500 odwiedzających dziennie dla Strefy B; przekroczenia są łagodzone kierowaniem nadmiaru parkingów na zachodni parking awaryjny i uruchamianiem bezpłatnych shuttle'i we współpracy z gminą Ayia Napa." }
+          { "type": "paragraph", "text": "Szczytowa liczba odwiedzających odnotowana w 2023 r. przez automatyczne liczniki szlaków Wydziału Lasów osiągnęła średnią dobową 4 860 osób w pierwszym dwutygodniu sierpnia, z maksimum jednodniowym 7 214 osób 15 sierpnia (święto Zaśnięcia Matki Bożej). Plan Zarządzania 2022 definiuje ostrożnościową Rzeczywistą Pojemność Turystyczną (RCC) 5 500 odwiedzających dziennie dla Strefy B; przekroczenia są łagodzone przez kierowanie nadmiaru parkingu na zachodni parking awaryjny i uruchamianie bezpłatnych shuttle busów we współpracy z gminą Ayia Napa." }
         ]
       },
       {
         "id": "lnt",
         "title": "Zasady Leave No Trace – etyka outdoorowa dla cypla",
         "structuredContent": [
-          { "type": "paragraph", "text": "Jako chroniony obszar Natura 2000, Cape Greco wymaga najwyższych standardów zachowania odwiedzających. Poniższe siedem zasad Leave No Trace (LNT) zaadaptowano z frameworku opracowanego przez międzynarodowe Centrum LNT i popartego przez cypryjski Wydział Lasów dla wszystkich państwowych terenów leśnych." },
+          { "type": "paragraph", "text": "Jako chroniony obszar Natura 2000, Cape Greco wymaga najwyższych standardów zachowania odwiedzających. Poniższe siedem zasad Leave No Trace (LNT) zaadaptowano z frameworku opracowanego przez międzynarodowe centrum LNT i popartego przez Wydział Lasów Cypru dla wszystkich państwowych terenów leśnych." },
           { "type": "list", "ordered": true, "items": [
-            "Planuj z wyprzedzeniem i przygotuj się: sprawdź sezonową pogodę i ostrzeżenia o klifach na dwóch panelach informacyjnych; zabierz co najmniej 1,5 l wody na osobę; unikaj wchodzenia do jaskiń w pojedynkę.",
-            "Podróżuj i obozuj na trwałych powierzchniach: pozostań na oznakowanych szlakach; chodź tylko po skale lub utartych ścieżkach, by nie deptać kruchych biokrust i endemicznych populacji Limonium. Biwakowanie na całym terenie ochrony jest zabronione.",
-            "Pozbywaj się odpadów właściwie: wynieś WSZYSTKIE śmieci, włącznie z niedopałkami i obierkami owoców. Na terenie rezerwatu nie ma koszy; pojemniki są przy zachodnim parkingu.",
-            "Zostaw to, co znalazłeś: nie ruszaj ani nie zabieraj kamyków, krzemieni z skamieniałościami, skorup ceramicznych ani muszli morskich; te ostatnie są ważnym mikrośrodowiskiem dla przybrzeżnych ślimaków.",
-            "Minimalizuj skutki ognia: otwarte ogniska, przenośne grille i jednorazowe BBQ są ściśle zabronione na mocy Prawa Leśnego (Rozdz. 130, § 13). Naruszenia karane są stałą grzywną 250 €.",
-            "Szanuj dziką faunę: zachowaj minimalny dystans 200 m od wyjść mniszki; nie używaj flesza wewnątrz jaskiń (zakłóca hibernujące nietoperze i pisklęta sokoła Eleonory); psy muszą być na smyczy o długości maks. 1,5 m.",
-            "Okazuj szacunek innym odwiedzającym: wyłączaj sprzęt audio; szanuj spokój cerkwi podczas nabożeństw; ustępuj pierwszeństwa wspinającym się pod górę na wąskich odcinkach."
+            "Planuj i przygotuj się: sprawdź sezonową pogodę i ostrzeżenia o klifach na dwóch panelach informacyjnych; zabierz co najmniej 1,5 l wody na osobę; unikaj wchodzenia do jaskiń w pojedynkę.",
+            "Podróżuj i obozuj na trwałych powierzchniach: pozostań na oznakowanych szlakach; chodź tylko po skale lub utartych ścieżkach, by unikać deptania kruchych biokrust i endemicznych Limonium. Obozowanie jest zabronione w całym rezerwacie.",
+            "Pozbywaj się odpadów właściwie: wynieś WSZYSTKIE odpady, w tym niedopałki i obierki owoców. W rezerwacie nie ma koszy na śmieci; pojemniki znajdują się przy zachodnim parkingu.",
+            "Zostaw to, co znalazłeś: nie ruszaj ani nie zabieraj kamyków, krzemieni z skamielinami, skorup ceramiki ani muszli; te ostatnie są ważnym mikrosiedliskiem dla przybrzeżnych ślimaków.",
+            "Minimalizuj wpływ ognia: otwarte ogniska, przenośne grille i jednorazowe BBQ są ściśle zabronione na mocy Prawa Leśnego (Rozdz. 130, § 13). Naruszenia karane stałą grzywną 250 €.",
+            "Szanuj dziką faunę: zachowaj minimalny dystans 200 m od każdego wyjścia mniszki na brzeg; nie używaj flesza wewnątrz jaskiń (przeszkadza nietoperzom i pisklętom sokoła); psy trzymaj na smyczy 1,5 m.",
+            "Bądź uprzejmy dla innych: wyłączaj sprzęt audio; szanuj spokój cerkwi podczas liturgii; ustępuj miejsca idącym pod górę na wąskich ścieżkach."
           ] }
         ]
       }
     ]
   },
   "faq": {
-    "title": "Najczęściej zadawane pytania – FAQ o Cape Cavo Greco",
+    "title": "Najczęściej zadawane pytania – FAQ Cape Cavo Greco",
     "items": [
       {
         "question": "Gdzie znajduje się Cape Cavo Greco?",
-        "answer": "Cape Cavo Greco leży na południowo-wschodnim cyplu gminy Ayia Napa, w dystrykcie Famagusta, Republiki Cypru. Cypel stanowi granicę między zatokami Ayia Napa i Protaras, z administracyjnym Plus Code X36M+8CV i przybliżonymi współrzędnymi 34,96087° N, 34,07879° E."
+        "answer": "Cape Cavo Greco leży na południowo-wschodnim cyplu gminy Ayia Napa, w dystrykcie Famagusty, Republiki Cypru. Cypel stanowi granicę między zatokami Ayia Napa i Protaras, z administracyjnym Plus Code X36M+8CV i przybliżonymi współrzędnymi 34,96087° N, 34,07879° E."
       },
       {
         "question": "Czy wstęp do Cape Cavo Greco jest bezpłatny?",
-        "answer": "Tak, Cape Cavo Greco jest państwowym lasem i publicznym obszarem Natura 2000, wstęp jest bezpłatny przez cały rok, całą dobę. Nie ma biletów wstępu, bramek ani wymogu rezerwacji. Parking na wszystkich wyznaczonych parkingach jest również bezpłatny."
+        "answer": "Tak, Cape Cavo Greco jest państwowym lasem i publicznym stanowiskiem Natura 2000, bezpłatnym przez cały rok, 24 godziny na dobę. Nie ma biletów wstępu, bramek ani wymogu rezerwacji. Parking jest również bezpłatny na wszystkich wyznaczonych parkingach."
       },
       {
         "question": "Gdzie są najlepsze miejsca do pływania?",
-        "answer": "Pływać można w kilku małych zatoczkach na północnym wybrzeżu (od strony Famagusty), gdzie energia fal jest mniejsza, a wapienne podłoże tworzy naturalne baseny skalne. Południowe klify (otwarte morze) są niebezpieczne do pływania ze względu na nieprzewidywalną spoistość. Zdecydowanie zaleca się obuwie do wody na płaskich podeszwach."
+        "answer": "Pływanie jest możliwe w kilku małych zatoczkach kuspate wzdłuż północnego wybrzeża (strona zatoki Famagusty), gdzie energia falowa jest niższa, a wapienne podłoże tworzy naturalne baseny skalne. Południowe klify (otwarte morze) są niebezpieczne do pływania ze względu na nieprzewidywalną spoistość. Zdecydowanie zaleca się obuwie do wody na płaskich podeszwach."
       },
       {
         "question": "Czy na terenie są toalety lub jedzenie?",
@@ -604,5 +604,26 @@
     },
     "save": "Zapisz preferencje",
     "saved": "Preferencje zapisane!"
+  },
+  "dayTrip": {
+    "title": "Wycieczka z Ayia Napa do Cape Greco",
+    "subtitle": "Jak dojechać, co zobaczyć i gotowy plan na pół dnia",
+    "intro": "Cape Greco leży zaledwie 5 km na południowy wschód od centrum Ayia Napa, więc jest naturalną bazą wypadową. Większość podróżnych nocuje w Ayia Napa lub Protaras i wybiera się na półdniową wycieczkę do morskich jaskiń, punktów widokowych i plaż cypla.",
+    "transportTitle": "Dojazd z Ayia Napa do Cape Greco",
+    "byBusTitle": "Autobusem (linia 101)",
+    "byBusText": "Lokalny autobus OSEA 101 (Ayia Napa – Protaras) zatrzymuje się przy zachodnim wejściu na cypel około co 30 minut między majem a październikiem. Przejazd z terminala Ayia Napa trwa około 15 minut i kosztuje kilka euro.",
+    "byCarTitle": "Samochodem, skuterem lub taksówką",
+    "byCarText": "Jedź 5,2 km na południowy wschód aleją Nissi i drogą wybrzeża Cape Greco (ok. 10 minut). Bezpłatny parking dostępny jest zarówno przy zachodnim, jak i konnoskim wejściu; taksówki i wypożyczalnie e-skuterów są powszechne w Ayia Napa.",
+    "itineraryTitle": "Plan na pół dnia (09:00–13:00)",
+    "steps": [
+      { "time": "09:00", "title": "Start przy Jaskiniach Morskich", "text": "Przyjedź wcześnie, by sfotografować słynne krasowe jaskinie morskie przed tłumami i południowym upałem. Z portu Ayia Napa wypływają też kajaki do jaskiń." },
+      { "time": "10:30", "title": "Most Zakochanych i punkt zachodu słońca", "text": "Przejdź łatwym 15-minutowym szlakiem od głównego parkingu do naturalnego wapiennego łuku (Most Zakochanych) i ogrodzonej platformy widokowej na krawędzi klifu." },
+      { "time": "11:30", "title": "Kaplica Agioi Anargyroi", "text": "Przespaceruj się 700 m do bielonej bizantyjskiej kaplicy z niebieską kopułą — cichego, fotogenicznego punktu orientacyjnego otoczonego makiją." },
+      { "time": "12:30", "title": "Kąpiel w zatoce Konnos", "text": "Zakończ kąpielą lub sportami wodnymi w zatoce Konnos, osłoniętej złotej plaży na wschodnim skraju parku." }
+    ],
+    "photoTitle": "Najlepsze miejsca na zdjęcia",
+    "photoText": "Blue Lagoon, Most Zakochanych, skupisko Jaskiń Morskich i punkt zachodu słońca na krawędzi klifu to najczęściej udostępniane widoki na cyplu — weź obiektyw szerokokątny i buty do wody.",
+    "faqQ": "Czy mogę odwiedzić Cape Greco z Ayia Napa bez samochodu?",
+    "faqA": "Tak. Linia autobusowa 101 łączy terminal Ayia Napa z zachodnim wejściem na cypel około co 30 minut w sezonie, a wielu odwiedzających bierze też udział w wycieczce łodzią z portu Ayia Napa do Jaskiń Morskich."
   }
 }

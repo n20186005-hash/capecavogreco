@@ -604,5 +604,26 @@
     },
     "save": "Präferenzen speichern",
     "saved": "Präferenzen gespeichert!"
+  },
+  "dayTrip": {
+    "title": "Tagesausflug: Ayia Napa → Cape Greco",
+    "subtitle": "Anreise, Sehenswürdigkeiten und ein fertiger Halbtagesplan",
+    "intro": "Cape Greco liegt nur 5 km südöstlich des Zentrums von Ayia Napa und ist daher die natürliche Basis für einen Besuch. Die meisten Reisenden übernachten in Ayia Napa oder Protaras und machen einen Halbtagesausflug zu den Meeresgrotten, Aussichtspunkten und Stränden des Kaps.",
+    "transportTitle": "Von Ayia Napa nach Cape Greco",
+    "byBusTitle": "Mit dem Bus (Linie 101)",
+    "byBusText": "Der lokale OSEA-Bus 101 (Ayia Napa – Protaras) hält zwischen Mai und Oktober etwa alle 30 Minuten am westlichen Eingang des Kaps. Die Fahrt vom Terminal Ayia Napa dauert etwa 15 Minuten und kostet ein paar Euro.",
+    "byCarTitle": "Mit Auto, Roller oder Taxi",
+    "byCarText": "Fahren Sie 5,2 km südöstlich über die Nissi Avenue und die Küstenstraße Cape Greco (ca. 10 Minuten). Sowohl am westlichen als auch am Konnos-Eingang gibt es kostenlose Parkplätze; Taxis und E-Scooter-Verleihe sind in Ayia Napa weit verbreitet.",
+    "itineraryTitle": "Halbtagesplan (09:00–13:00)",
+    "steps": [
+      { "time": "09:00", "title": "Start an den Meeresgrotten", "text": "Kommen Sie früh, um die berühmten Karst-Meeresgrotten vor den Menschenmassen und der Mittagshitze zu fotografieren. Vom Hafen Ayia Napa starten auch Kayak-Touren zu den Grotten." },
+      { "time": "10:30", "title": "Brücke der Liebenden & Sonnenuntergangs-Punkt", "text": "Gehen Sie vom Hauptparkplatz auf dem einfachen 15-Minuten-Pfad zur natürlichen Kalksteinbrücke (Brücke der Liebenden) und zur eingezäunten Klippe-Plattform für den Sonnenuntergang." },
+      { "time": "11:30", "title": "Kapelle Agioi Anargyroi", "text": "Spazieren Sie 700 m zur weiß getünchten byzantinischen Kapelle mit der blauen Kuppel — einem ruhigen, fotogenen Wahrzeichen in der Macchia." },
+      { "time": "12:30", "title": "Schwimmen in der Bucht Konnos", "text": "Beenden Sie den Ausflug mit einem Bad oder Wassersport in der Bucht Konnos, dem geschützten goldgelben Sandstrand am östlichen Rand des Parks." }
+    ],
+    "photoTitle": "Beste Fotomotive",
+    "photoText": "Die Blue Lagoon, die Brücke der Liebenden, das Cluster der Meeresgrotten und der Klippen-Sonnenuntergangspunkt sind die meistgeteilten Ansichten am Kap — bringen Sie ein Weitwinkelobjektiv und Wasserschuhe mit.",
+    "faqQ": "Kann ich Cape Greco von Ayia Napa aus ohne Auto besuchen?",
+    "faqA": "Ja. Die Buslinie 101 verbindet das Terminal Ayia Napa in der Saison etwa alle 30 Minuten mit dem westlichen Eingang des Kaps, und viele Besucher machen zudem eine geführte Bootsfahrt ab dem Hafen Ayia Napa zu den Meeresgrotten."
   }
 }

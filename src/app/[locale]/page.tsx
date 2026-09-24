@@ -9,6 +9,7 @@ import TransportSection from '@/components/TransportSection';
 import FacilitiesSection from '@/components/FacilitiesSection';
 import InfoSection from '@/components/InfoSection';
 import NearbySection from '@/components/NearbySection';
+import AyiaNapaSection from '@/components/AyiaNapaSection';
 import RouteSection from '@/components/RouteSection';
 import AttractionsSection from '@/components/AttractionsSection';
 import Gallery from '@/components/Gallery';
@@ -38,6 +39,7 @@ export default async function HomePage({
         <FacilitiesSection />
         <InfoSection />
         <NearbySection />
+        <AyiaNapaSection />
         <RouteSection />
         <AttractionsSection />
         <Gallery />

@@ -604,5 +604,26 @@
     },
     "save": "Save Preferences",
     "saved": "Preferences Saved!"
+  },
+  "dayTrip": {
+    "title": "Day Trip: Ayia Napa → Cape Greco",
+    "subtitle": "How to get there, what to see, and a ready-made half-day itinerary",
+    "intro": "Cape Greco lies just 5 km southeast of central Ayia Napa, so it is the natural base for a visit. Most travellers stay in Ayia Napa or Protaras and make a half-day excursion to the cape's sea caves, viewpoints and beaches.",
+    "transportTitle": "Getting from Ayia Napa to Cape Greco",
+    "byBusTitle": "By bus (route 101)",
+    "byBusText": "The OSEA local bus 101 (Ayia Napa – Protaras) stops at the western entrance of the cape roughly every 30 minutes between May and October. The ride from Ayia Napa terminal takes about 15 minutes and costs a few euros.",
+    "byCarTitle": "By car, scooter or taxi",
+    "byCarText": "Drive 5.2 km southeast via Nissi Avenue and the Cape Greco coastal road (about 10 minutes). Free parking is available at both the western and Konnos entrances; taxis and e-scooter rentals are widely available in Ayia Napa.",
+    "itineraryTitle": "Half-day itinerary (09:00–13:00)",
+    "steps": [
+      { "time": "09:00", "title": "Start at the Sea Caves", "text": "Arrive early to photograph the famous karst sea caves before the crowds and the midday heat. Kayak trips from Ayia Napa harbour also depart for the caves." },
+      { "time": "10:30", "title": "Lovers' Bridge & Sunset Viewpoint", "text": "Walk the easy 15-minute trail from the main car park to the natural limestone arch (Lovers' Bridge) and the fenced cliff-edge sunset platform." },
+      { "time": "11:30", "title": "Agioi Anargyroi Chapel", "text": "Stroll 700 m to the whitewashed Byzantine chapel with its blue dome — a quiet, photogenic landmark surrounded by maquis." },
+      { "time": "12:30", "title": "Konnos Bay swim", "text": "Finish with a swim or water-sports session at Konnos Bay, the sheltered golden-sand beach at the eastern edge of the park." }
+    ],
+    "photoTitle": "Top photo spots",
+    "photoText": "The Blue Lagoon, Lovers' Bridge, the Sea Cave cluster and the cliff-edge sunset point are the most shared views on the Cape — bring a wide-angle lens and water shoes.",
+    "faqQ": "Can I visit Cape Greco from Ayia Napa without a car?",
+    "faqA": "Yes. Bus route 101 connects Ayia Napa terminal with the cape's western entrance roughly every 30 minutes in season, and many visitors also join a guided boat trip from Ayia Napa harbour to the Sea Caves."
   }
 }

@@ -189,6 +189,7 @@ export async function generateMetadata({
   const zhUrl = `${BASE_URL}/zh`;
   const trUrl = `${BASE_URL}/tr`;
   const deUrl = `${BASE_URL}/de`;
+  const plUrl = `${BASE_URL}/pl`;
 
   return {
     metadataBase: new URL(BASE_URL),
@@ -214,6 +215,7 @@ export async function generateMetadata({
         'zh': zhUrl,
         'tr': trUrl,
         'de': deUrl,
+        'pl': plUrl,
         'x-default': enUrl,
       },
     },
